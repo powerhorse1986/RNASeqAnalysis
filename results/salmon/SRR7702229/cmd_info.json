@@ -1,0 +1,11 @@
+{
+    "salmon_version": "1.4.0",
+    "index": "/home/mali/study/Project/CAMSC_Coffman/reference_data/salmonIndex_transcript",
+    "libType": "A",
+    "mates1": "/home/mali/study/Project/CAMSC_Coffman/raw_data/SRR7702229/SRR7702229_1.fastq.gz",
+    "mates2": "/home/mali/study/Project/CAMSC_Coffman/raw_data/SRR7702229/SRR7702229_2.fastq.gz",
+    "threads": "16",
+    "validateMappings": [],
+    "output": "/home/mali/study/Project/CAMSC_Coffman/results/salmon/SRR7702229",
+    "auxDir": "aux_info"
+}

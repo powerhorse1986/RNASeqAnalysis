@@ -1,0 +1,22 @@
+{
+    "read_files": "[ /home/mali/study/Project/CAMSC_Coffman/raw_data/SRR7702262/SRR7702262_1.fastq.gz, /home/mali/study/Project/CAMSC_Coffman/raw_data/SRR7702262/SRR7702262_2.fastq.gz]",
+    "expected_format": "IU",
+    "compatible_fragment_ratio": 1.0,
+    "num_compatible_fragments": 30014013,
+    "num_assigned_fragments": 30014013,
+    "num_frags_with_concordant_consistent_mappings": 29544731,
+    "num_frags_with_inconsistent_or_orphan_mappings": 774172,
+    "strand_mapping_bias": 0.5017574199609399,
+    "MSF": 0,
+    "OSF": 0,
+    "ISF": 14824288,
+    "MSR": 0,
+    "OSR": 0,
+    "ISR": 14720443,
+    "SF": 408838,
+    "SR": 365334,
+    "MU": 0,
+    "OU": 0,
+    "IU": 0,
+    "U": 0
+}
