@@ -1,0 +1,273 @@
+---
+title: "limma_fgsea"
+date: '`r format(Sys.Date(), "%m/%d/%Y")`'
+output:
+  html_document:
+    toc: yes
+    df_print: paged
+geometry: margin=0.25cm
+---
+
+```{r setup, include=FALSE}
+library(knitr)
+knit_hooks$set(crop = knitr::hook_pdfcrop)
+opts_chunk$set(echo=FALSE, results='hide', message=FALSE, warning=FALSE, fig.align="center", fig.width=8, fig.height=8)
+```
+
+```{r}
+library(tximport)
+library(limma)
+library(DESeq2)
+library(edgeR)
+library(fgsea)
+library(biomaRt)
+library(tidyverse)
+library(gplots)
+library(RColorBrewer)
+library(DT)
+library(reshape)
+```
+
+```{r}
+#########################################
+# Begin: Configuration setting
+#########################################
+# sample design file name
+design_file_name <- "/home/mali/study/Project/CAMSC_Coffman/results/salmon/samples.txt"
+
+# define species being used
+species <- "Homo Sapiens"
+
+# get current working directory
+dir <- "/home/mali/study/Project/CAMSC_Coffman/results/salmon"
+# list files in cwd
+list.files(dir)
+```
+
+```{r}
+# define which biomart object to use
+# GRCh37 (Hsapiens.v75) or mouse GRCm38 (Mmusculus.v79))
+#define_reference_genome = NULL
+mart <- NULL
+
+#define_reference_genome <- "EnsDb.Hsapiens.v75"
+mart <- biomaRt::useMart(biomart = "ensembl",
+					               dataset = "hsapiens_gene_ensembl",
+					               host = "https://grch37.ensembl.org")
+```
+
+```{r}
+# read in sample design file and conditions for this
+# analysis
+samples <- read.table(file.path(design_file_name), header = TRUE)
+```
+
+# Configuration Info: Study Design File
+```{r, results='show'}
+display_study_design <- as.data.frame(samples)
+colnames(display_study_design)[1] <- "id"
+DT::datatable(display_study_design)
+```
+
+```{r}
+# create list of files to be imported
+files <- file.path(dir, samples$mpps_id, "quant.sf")
+names(files) <- samples$shortname
+
+# Since there this no EnsDb for Danio Rerio, we are going to building the txi 
+# from scratch using biomaRt (By Li Ma 05/18/2023)
+####################Start##############################
+tx2gene <- getBM(
+	attributes = c("ensembl_transcript_id", "ensembl_gene_id"),
+	#filters = "ensembl_gene_id",
+	mart = mart)
+#anns <- anns[match(nm, anns[, 1]), ]
+colnames(tx2gene) <- c("tx_id", "gene_id")
+####################End################################
+
+txi <- tximport(files, type = "salmon", tx2gene = tx2gene, ignoreTxVersion = TRUE,
+                countsFromAbundance = "lengthScaledTPM")
+```
+
+# Plot a heatmap for the gene expression data (Top 3000 most variable genes)
+## Expression values were log transformed using rlog function from DESeq2
+```{r}
+gene_exp <- txi$counts
+gene_exp <- round(gene_exp)
+rld <- vst(gene_exp) %>%
+  as.data.frame()
+rld$var <- apply(rld, 1, var)
+rld <- rld %>%
+  arrange(desc(var)) %>%
+  head(3000) %>%
+  select(-var)
+matrix <- as.matrix(t(rld))
+heatmap.2(matrix, dendrogram = "row",Colv = FALSE, 
+          key = TRUE, keysize = 1, labCol = FALSE, trace = 'none')
+```
+
+```{r, results='show'}
+y <- DGEList(txi$counts)
+
+# filtering using the desing information
+design <- model.matrix(~-1 + condition, samples)
+keep <- filterByExpr(y, design = design)
+y <- y[keep, ]
+
+# normalize and run voom transformation
+y <- calcNormFactors(y)
+v <- voom(y, design = design, plot = TRUE)
+
+```
+
+```{r}
+# fit the data with limma
+fit <- lmFit(v, design)
+```
+
+```{r, results='show'}
+# comparison between conditionCAMSC and conditionMSC
+contr <- makeContrasts(conditionCAMSC - conditionMSC, levels = colnames(coef(fit)))
+fit <- contrasts.fit(fit, contrasts = contr)
+fit <- eBayes(fit = fit)
+res <- topTable(fit, sort.by = "logFC", n = Inf, p = 0.05)
+res <- res %>%
+  rownames_to_column(var = "ENSEMBL_ID")
+datatable(res, 
+          caption = htmltools::tags$caption(style = 'caption-side: top; text-align: center; color:black;  font-size:200% ;','Differential Analysis Results'),
+          options = list(scrollX = TRUE))
+```
+
+# Filter out the genes with logFC greater than 2
+```{r, results='show'}
+filtered_genes <- res[abs(res$logFC) >= 2, ]
+filtered_genes <- filtered_genes
+datatable(filtered_genes, 
+          caption = htmltools::tags$caption(style = 'caption-side: top; text-align: center; color:black;  font-size:200% ;','Filtered Differential Anlysis Results'),
+          options = list(scrollX = TRUE))
+```
+
+# Build data frame for performming fgsea analysis using gene symbols + logFC values.
+```{r, results='show'}
+# convert ensemble gene ids into gene symbols
+gene_symbols <- getBM(filters = "ensembl_gene_id",
+                      attributes = c("ensembl_gene_id", "external_gene_name"),
+                      values = res$ENSEMBL_ID,
+                      mart = mart)
+colnames(gene_symbols) <- c("ENSEMBL_ID", "SYMBOL")
+
+# inner join gene_symbols with filtered_genes on "ENSEMBL_ID"
+res <- inner_join(res, gene_symbols, by = "ENSEMBL_ID")
+
+# build input dataframe for fgsea
+input_df_one <- res %>%
+  select(SYMBOL, logFC) %>%
+  na.omit() %>%
+  distinct() %>%
+  group_by(SYMBOL) %>%
+  summarize(logFC = mean(logFC))
+datatable(input_df_one, 
+          caption = htmltools::tags$caption(style = 'caption-side: top; text-align: center; color:black;  font-size:200% ;','fgsea Input Dataframe One'), 
+          options = list(scrollX = TRUE))
+```
+
+# Perform fgsea analysis and show the pathways with adjusted p-values <= 0.05,
+## Pathway data used h.all.v2023.1.Hs.symbols.gmt
+```{r, results='show'}
+ranks_one <- deframe(input_df_one)
+
+# load the pathways into to a names list
+pathways_hallmark <- gmtPathways("/home/mali/study/Project/CAMSC_Coffman/reference_data/fgsea/h.all.v2023.1.Hs.symbols.gmt")
+
+# run fgsea algorithm with 10000 permutations
+fgsea_res <- fgsea(pathways = pathways_hallmark, 
+                   stats = ranks_one,
+                   nperm = 10000)
+
+filtered_fgsea_res <- fgsea_res[fgsea_res$padj <= 0.05, ] %>%
+  as_tibble() %>%
+  arrange(desc(NES)) %>%
+  arrange(padj) %>%
+  select(-c(nMoreExtreme))
+datatable(filtered_fgsea_res,
+          caption = htmltools::tags$caption(style = 'caption-side: top; text-align: center; color:black;  font-size:200% ;','Filtered fgsea Output One(Hallmark)'),
+          options = list(scrollX = TRUE))
+```
+
+
+# Build data frame for performming fgsea analysis using gene symbols + t statistic values
+```{r, results='show'}
+# build input dataframe for fgsea
+input_df_two <- res %>%
+  select(SYMBOL, t) %>%
+  na.omit() %>%
+  distinct() %>%
+  group_by(SYMBOL) %>%
+  summarize(t = mean(t))
+datatable(input_df_two, 
+          caption = htmltools::tags$caption(style = 'caption-side: top; text-align: center; color:black;  font-size:200% ;','fgsea Input Dataframe Two'),
+          options = list(scrollX = TRUE))
+```
+
+# Perform fgsea analysis and show the pathways with adjusted p-values <= 0.05,
+## Pathway data used h.all.v2023.1.Hs.symbols.gmt
+```{r, results='show'}
+ranks_two <- deframe(input_df_two)
+
+# run fgsea algorithm with 10000 permutations
+fgsea_res <- fgsea(pathways = pathways_hallmark, 
+                   stats = ranks_one,
+                   nperm = 10000)
+
+filtered_fgsea_res <- fgsea_res[fgsea_res$padj <= 0.05, ] %>%
+  as_tibble() %>%
+  arrange(desc(NES)) %>%
+  arrange(padj) %>%
+  select(-c(nMoreExtreme))
+datatable(filtered_fgsea_res,
+          caption = htmltools::tags$caption(style = 'caption-side: top; text-align: center; color:black;  font-size:200% ;','Filtered fgsea Output Two(Hallmark)'),
+          options = list(scrollX = TRUE))
+```
+
+
+# Perform fgsea analysis and show the pathways with adjusted p-values <= 0.05,
+## Pathway data used c5.all.v2023.1.Hs.symbols.gmt
+```{r, results='show'}
+# load the pathways into to a names list
+pathways_go <- gmtPathways("/home/mali/study/Project/CAMSC_Coffman/reference_data/fgsea/c5.all.v2023.1.Hs.symbols.gmt")
+
+# run fgsea algorithm with 10000 permutations
+fgsea_res <- fgsea(pathways = pathways_go, 
+                   stats = ranks_one,
+                   nperm = 10000)
+
+filtered_fgsea_res <- fgsea_res[fgsea_res$padj <= 0.05, ] %>%
+  as_tibble() %>%
+  arrange(desc(NES)) %>%
+  arrange(padj) %>%
+  select(-c(nMoreExtreme))
+datatable(filtered_fgsea_res,
+          caption = htmltools::tags$caption(style = 'caption-side: top; text-align: center; color:black;  font-size:200% ;','Filtered fgsea Output Three(GO)'),
+          options = list(scrollX = TRUE))
+```
+
+# Perform fgsea analysis and show the pathways with adjusted p-values <= 0.05,
+## Pathway data used c5.all.v2023.1.Hs.symbols.gmt
+```{r, results='show'}
+ranks_two <- deframe(input_df_two)
+
+# run fgsea algorithm with 10000 permutations
+fgsea_res <- fgsea(pathways = pathways_go, 
+                   stats = ranks_one,
+                   nperm = 10000)
+
+filtered_fgsea_res <- fgsea_res[fgsea_res$padj <= 0.05, ] %>%
+  as_tibble() %>%
+  arrange(desc(NES)) %>%
+  arrange(padj) %>%
+  select(-c(nMoreExtreme))
+datatable(filtered_fgsea_res,
+          caption = htmltools::tags$caption(style = 'caption-side: top; text-align: center; color:black;  font-size:200% ;','Filtered fgsea Output Four(GO)'),
+          options = list(scrollX = TRUE))
+```
+
