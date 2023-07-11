@@ -1,0 +1,570 @@
+---
+title: "GMU20"
+author: "Li Ma"
+date: "1/27/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, fig.width = 12, fig.height = 12)
+```
+
+## Loading necessary libraries
+Loading necessary libraries.
+```{r}
+library(biomaRt)
+library(tximport)
+library(DESeq2)
+library(WGCNA)
+library(ggplot2)
+library(tidyverse)
+```
+
+## Setting ups
+Basic set ups
+```{r}
+# Allow the WGCNA to use multiple threads
+allowWGCNAThreads()
+
+# sample design file name
+design_file_name <- "/home/mali/study/Project/CAMSC_Coffman/results/salmon/samples.txt"
+
+# get current working directory
+dir <- "/home/mali/study/Project/CAMSC_Coffman/results/salmon"
+
+# p-value threshold
+pvalueThreshold <- 0.05
+
+# BH adjusted p-value threshold
+alpha <- 0.05
+
+# log fold change threshold
+lfcThreshold <- 0
+
+# define list of conditions to use
+list_conditions <- c("CAMSC", "MSC")
+# define reference condition
+reference_condition <- "MSC"
+# define coefficient string
+coeff_string <- "condition_CAMSC_vs_MSC"
+
+# define which biomart object to use
+# GRCh37 (Hsapiens.v75) or mouse GRCm38 (Mmusculus.v79))
+#define_reference_genome = NULL
+mart <- NULL
+
+#define_reference_genome <- "EnsDb.Hsapiens.v75"
+mart <- biomaRt::useMart(biomart = "ensembl",
+					               dataset = "hsapiens_gene_ensembl",
+					               host = "https://grch37.ensembl.org")
+
+# list files in cwd
+list.files(dir)
+
+```
+## Take out the tables and exame the data quality
+Take out the tables we need from the RSQLite database
+```{r}
+# read in sample design file and conditions for this
+# analysis
+samples <- read.table(file.path(design_file_name), header = TRUE)
+```
+
+```{r, results='show'}
+display_study_design <- as.data.frame(samples)
+colnames(display_study_design)[1] <- "id"
+DT::datatable(display_study_design)
+```
+
+```{r}
+# create list of files to be imported
+files <- file.path(dir, samples$mpps_id, "quant.sf")
+names(files) <- samples$shortname
+
+# Since there this no EnsDb for Danio Rerio, we are going to building the txi 
+# from scratch using biomaRt (By Li Ma 05/18/2023)
+####################Start##############################
+tx2gene <- getBM(
+	attributes = c("ensembl_transcript_id", "ensembl_gene_id"),
+	#filters = "ensembl_gene_id",
+	mart = mart)
+#anns <- anns[match(nm, anns[, 1]), ]
+colnames(tx2gene) <- c("tx_id", "gene_id")
+####################End################################
+
+txi <- tximport(files, type = "salmon", tx2gene = tx2gene, ignoreTxVersion = TRUE)
+
+countData <- txi$counts %>% 
+  as.data.frame()
+```
+
+
+Plot out the raw data
+```{r}
+plot_df <- pivot_longer(countData, col = names(countData))
+ggplot(plot_df, aes(x = name, y = value)) + 
+  geom_violin() + 
+  theme_bw() + 
+  theme(
+    axis.text.x = element_text(angle = 90)
+  ) + 
+  labs(x = "Samples", y = "Raw RNA-Seq Counts")
+```
+
+Cluster the samples
+```{r}
+# Make the data in the order of the metadata
+countData <- countData %>%
+  dplyr::select(samples$shortname)
+
+# Check if this is in the same order
+all.equal(colnames(countData), samples$sample)
+
+# Cluster the samples
+sampleTree_df <- hclust(dist(t(countData)), method = "average")
+# Plot the sample tree
+sizeGrWindow(12, 9)
+par(cex = 0.6)
+par(mar = c(0, 4, 2, 0))
+plot(sampleTree_df,
+     main = "Sample clustering", 
+     sub = "", 
+     xlab = "",
+     cex.lab = 1.5,
+     cex.axis = 1.5, 
+     cex.main = 2)
+
+```
+
+Prepare the data set for DESeq2. Genes with counts lower than 10 are removed. Then, plot the processed data set.
+```{r}
+# The next DESeq2 functions need the values to be converted to integers
+countData <- round(countData) %>%
+  # The next steps require a data frame and round returns a matrix
+  as.data.frame() %>%
+  # Only keep rows that have total counts above the cutoff (50)
+  dplyr::filter(rowSums(.) >= 10)
+
+filtered_df <- pivot_longer(countData, names(countData))
+ggplot(filtered_df, aes(x = name, y = value)) + 
+  geom_violin() + 
+  theme_bw() + 
+  theme(
+    axis.text.x = element_text(angle = 90)
+  ) + 
+  labs(x = "Samples", y = "Filtered and Rounded RNA-Seq Counts")
+```
+
+## Normalize the data set using DESeq2
+Create a DESeqDataSet object from the matrix. Then, normalize the count matrix using the varianceStabilizingTransformation() function
+```{r}
+# create DESeqDataSet object from tximport object, 
+# phenotype data, and the experimental design formulm
+# (in this case we want to perform DE on "condition")
+dds <- DESeqDataSetFromTximport(txi,
+								colData = samples,
+								design = ~ 1)
+
+
+# assign the reference condition, i.e.,
+# the one that goes in the denominator
+#dds$condition <- relevel(dds$condition, ref = reference_condition)
+
+# output number of imported rows
+nrow(dds)
+
+# Normalize and transform the data in the DESeqDataSet object using the vst()
+# dds_norm <- vst(dds)
+dds_norm <- varianceStabilizingTransformation(dds)
+
+# perform DESEq on dds
+dds_counts <- DESeq(dds)
+
+# Retrieve the normalized data from DESeqDataSet
+normalized_counts <- assay(dds_norm) %>%
+  t()
+
+```
+
+Check the data quality and remove the low quality genes if necessary.
+```{r}
+# Remove the outlier samples
+gsg <- goodSamplesGenes(normalized_counts, verbose = 3)
+
+if (!gsg$allOK) {
+  normalized_counts <- normalized_counts[gsg$goodSamples, gsg$goodGenes]
+}
+
+```
+## Find out a proper power
+Run the pickSoftThreshold() function and plot out the powers to find out the proper power. 
+```{r}
+#sft <- pickSoftThreshold(
+#  normalized_counts,
+#  dataIsExpr = TRUE,
+#  corFnc = cor,
+#  networkType = "signed"
+#)
+
+#sft_df <- data.frame(sft$fitIndices) %>%
+#  dplyr::mutate(model_fit = -sign(slope) * SFT.R.sq)
+```
+
+```{r}
+#save(sft_df, file = "./sft_df.RData")
+load("sft_df.RData")
+```
+
+
+```{r}
+# Plot out the powers
+ggplot(sft_df, aes(x = Power, y = model_fit, label = Power)) + 
+  # Plot the points
+  geom_point() +
+  # Put the power labels slightly above the data points
+  geom_text(nudge_y = 0.1) + 
+  # Plot what WGCNA recommends as an R^2 cutoff
+  geom_hline(yintercept = 0.80, col = "red") + 
+  ylim(c(min(sft_df$model_fit), 1.05)) +
+  # Add more sensible labels for the axis
+  xlab("Soft Threshold (power)") + 
+  ylab("Scale Free Topology Model Fit, signed R^2") +
+  ggtitle("Scale Independence") +
+  theme_classic()
+```
+
+
+```{r}
+ggplot(sft_df, aes(x = Power, y = mean.k., label = Power)) + 
+  geom_point() +
+  geom_text(nudge_y = 1000) + 
+  xlab("Soft Threshold (power)") + 
+  ylab("Mean Connectivity") +
+  ggtitle("Mean Connectivity") +
+  theme_classic()
+```
+
+## Run WGCNA
+Run WGCNA, using its blockwiseModules() function
+```{r}
+bwnet <- blockwiseModules(
+  normalized_counts,
+  maxBlockSize = 60000,
+  TOMType = "signed", # Topology Overlap Matrix
+  power = 9, # Soft threshold for network construction
+  saveTOMs = TRUE, # Save the TOM for plotting
+  saveTOMFileBase = "blockwiseTOM",
+  numericLabels = TRUE, # Use numbers instead of colors for module labels
+  randomSeed = 1234,
+  nThreads = 16
+)
+save(bwnet, file = "bwnet.RData")
+table(bwnet$colors) # There are 206 modules
+```
+
+```{r}
+#load("bwnet.RData")
+```
+
+
+Plot the dendrogram and the module colors
+```{r}
+# Convert labels to colors for plotting
+colors <- labels2colors(bwnet$colors)
+# Plot the dendrogram and the module colors
+plotDendroAndColors(
+  bwnet$dendrograms[[1]], 
+  colors[bwnet$blockGenes[[1]]],
+  "Module colors",
+  dendroLabels = FALSE,
+  hang = 0.03,
+  addGuide = TRUE,
+  guideHang = 0.05
+)
+```
+
+Plot out the module-sample relationships
+```{r}
+module_df <- data.frame(
+  gene_id = names(bwnet$colors),
+  colors = colors
+)
+module_df[1 : 5, ]
+
+# Get Module Eigengenes per cluster
+MEs0 <- moduleEigengenes(normalized_counts, colors)$eigengenes
+
+# Reorder modules thus similar modules are next to each other
+MEs0 <- orderMEs(MEs0)
+module_order <- names(MEs0) %>% gsub("ME", "", .)
+
+# Add sample names
+MEs0$samples <- rownames(MEs0) 
+
+mME <- MEs0 %>% 
+  pivot_longer(-samples) %>%
+  mutate(
+    name = gsub("ME", "", name),
+    name = factor(name, levels = module_order)
+  )
+
+wide_df <- reshape2::dcast(mME, name ~ samples, value.var = "value") %>%
+  column_to_rownames("name")
+plot_matrix <- as.matrix(wide_df)
+ComplexHeatmap::Heatmap(plot_matrix,
+                        show_row_names = FALSE)
+
+```
+
+## Take out the modular eigengenes and define a function for plot heatmap
+```{r}
+# A data frame of eigengene module data for each sample
+module_eigengenes <- bwnet$MEs
+head(module_eigengenes)
+
+# Make a heatmap that summarizes the differentially expressed module. 
+make_module_heatmap <- function(module_name,
+                                expression_mat = normalized_counts,
+                                colData_df = samples,
+                                gene_module_key_df = gene_module_key,
+                                module_eigengenes_df = module_eigengenes,
+                                conditions = c("MSC", "CAMSC")) {
+  # Create a summary heatmap of a given module.
+  #
+  # Args:
+  # module_name: a character indicating what module should be plotted, e.g. "ME19"
+  # expression_mat: The full gene expression matrix. Default is `normalized_counts`.
+  # metadata_df: a data frame with refinebio_accession_code and time_point
+  #              as columns. Default is `metadata`.
+  # gene_module_key: a data.frame indicating what genes are a part of what modules. Default is `gene_module_key`.
+  # module_eigengenes: a sample x eigengene data.frame with samples as row names. Default is `module_eigengenes`.
+  #
+  # Returns:
+  # A heatmap of expression matrix for a module's genes, with a barplot of the
+  # eigengene expression for that module.
+  
+  # Set up the module eigengene with its refinebio_accession_code
+  module_eigengene <- module_eigengenes_df %>%
+    dplyr::select(all_of(module_name)) %>%
+    tibble::rownames_to_column("shortname")
+  
+  # Set up column annotation from metadata
+  col_annot_df <- colData_df %>%
+    # Only select the treatment and sample ID columns
+    dplyr::select(shortname, condition, pca_name) %>%
+    # Add on the eigengene expression by joining with sample IDs
+    dplyr::inner_join(module_eigengene, by = "shortname") %>%
+    # Arrange by patient and time point
+    dplyr::arrange(condition, pca_name) %>%
+    # Store sample
+    tibble::column_to_rownames("shortname")
+  
+  condition = c("#f1a340", "#998ec3")
+  names(condition) = conditions
+  # Create the ComplexHeatmap column annotation object
+  col_annot <- ComplexHeatmap::HeatmapAnnotation(
+    # Supply treatment labels
+    # time_point = col_annot_df$time_point,
+    condition = col_annot_df$condition,
+    # Add annotation barplot
+    module_eigengene = ComplexHeatmap::anno_barplot(dplyr::select(col_annot_df, module_name)),
+    # Pick colors for each experimental group in time_point
+    # col = list(condition = c(elementOne = "#f1a340", elementTwo = "#998ec3"))
+    col = list(condition = condition)
+  )
+  
+  # Get a vector of the Ensembl gene IDs that correspond to this module
+  module_genes <- gene_module_key_df %>%
+    dplyr::filter(module == module_name) %>%
+    dplyr::pull(gene)
+
+  # Set up the gene expression data frame
+  mod_mat <- expression_mat %>%
+    t() %>%
+    as.data.frame() %>%
+    # Only keep genes from this module
+    dplyr::filter(rownames(.) %in% module_genes) %>%
+    # Order the samples to match col_annot_df
+    dplyr::select(rownames(col_annot_df)) %>%
+    # Data needs to be a matrix
+    as.matrix()
+
+  # Normalize the gene expression values
+  mod_mat <- mod_mat %>%
+    # Scale can work on matrices, but it does it by column so we will need to
+    # transpose first
+    t() %>%
+    scale() %>%
+    # And now we need to transpose back
+    t()
+
+  # Create a color function based on standardized scale
+  color_func <- circlize::colorRamp2(
+    c(-2, 0, 2),
+    c("#67a9cf", "#f7f7f7", "#ef8a62")
+  )
+  
+  # Plot on a heatmap
+  heatmap <- ComplexHeatmap::Heatmap(mod_mat,
+                                     name = module_name,
+                                     # Supply color function
+                                     col = color_func,
+                                     # Supply column annotation
+                                     bottom_annotation = col_annot,
+                                     # We don't want to cluster samples
+                                     cluster_columns = FALSE,
+                                     # We don't need to show sample or gene labels
+                                     show_row_names = FALSE,
+                                     show_column_names = TRUE
+  )
+  
+  # Return heatmap
+  return(heatmap)
+}
+```
+
+Run limma on the eigengenes to see which module has the highest log fold change value.
+```{r}
+# Create the design matrix from the 'time_point' variable
+des_mat <- model.matrix(~ condition, samples)
+
+# Run lmFit() from limma
+fit <- limma::lmFit(t(module_eigengenes), design = des_mat)
+
+# Apply empirical Bayes to smooth standard errors
+fit <- limma::eBayes(fit)
+
+# Apply multiple testing correction and obtain stats
+stats_df <- limma::topTable(fit, number = ncol(module_eigengenes)) %>%
+  rownames_to_column("module")
+
+stats_df <- stats_df %>%
+  arrange(desc(abs(logFC)))
+
+head(stats_df)
+```
+
+Run DESeq on the dataset
+```{r}
+# set up contrast for generating results
+dds <- DESeqDataSetFromTximport(txi,
+								colData = samples,
+								design = ~ condition)
+dds_counts <- DESeq(dds)
+contrast_ad <- c("condition", "CAMSC", "MSC")
+
+res_unshrunk <- results(dds_counts, contrast = contrast_ad, alpha = 0.05)
+
+res_df <- lfcShrink(dds_counts, contrast = contrast_ad, 
+                         res = res_unshrunk, type = "ashr")
+```
+
+
+### Analyze the top three modules (ME4, ME5, ME16)
+```{r}
+module_df <- module_eigengenes %>%
+  rownames_to_column("shortname") %>%
+  inner_join(samples %>%
+               dplyr::select(shortname, condition), 
+             by = c("shortname" = "shortname"))
+
+```
+
+### ME4
+Violin plot for eigengenes distribution in different condition
+```{r}
+# Module 4 seems to be the most different expressed across condition groups
+ggplot(
+  module_df,
+  aes(
+    x = condition,
+    y = ME4,
+    color = condition
+  )
+) + 
+  geom_violin(width = 0.2, outlier.shape = NA) + 
+  ggforce::geom_sina(maxwidth = 0.3) + 
+  theme_classic()
+```
+
+Extract genes for module 4 and plot them on a heatmap
+```{r}
+# What genes are a part of module 4
+# $colors slot stores information about which genes make up a module
+gene_module_key <- enframe(bwnet$colors, name = "gene", value = "module") %>%
+  mutate(module = paste0("ME", module)) %>%
+  filter(module == "ME4")
+
+length(gene_module_key$gene)
+#write_table(module = "ME4")
+# write.table(gene_module_key$gene, file = "Normal_Tumor_ME5.txt", quote = FALSE, row.names = FALSE, col.names = FALSE)
+
+module_heatmap <- make_module_heatmap("ME4", colData_df = samples, 
+                                          module_eigengenes_df = module_eigengenes)
+module_heatmap
+```
+
+### ME5
+Violin plot for eigengenes distribution in different condition
+```{r}
+# Module 5 seems to be the second most different expressed across condition groups
+ggplot(
+  module_df,
+  aes(
+    x = condition,
+    y = ME5,
+    color = condition
+  )
+) + 
+  geom_violin(width = 0.2, outlier.shape = NA) + 
+  ggforce::geom_sina(maxwidth = 0.3) + 
+  theme_classic()
+```
+
+Extract genes for module 5 and plot them on a heatmap
+```{r}
+# What genes are a part of module 5
+# $colors slot stores information about which genes make up a module
+gene_module_key <- enframe(bwnet$colors, name = "gene", value = "module") %>%
+  mutate(module = paste0("ME", module)) %>%
+  filter(module == "ME5")
+
+#write_table(module = "ME5")
+
+module_heatmap <- make_module_heatmap("ME5", colData_df = samples, 
+                                          module_eigengenes_df = module_eigengenes)
+module_heatmap
+```
+
+
+### ME16
+Violin plot for eigengenes distribution in different condition
+```{r}
+# Module 16 seems to be the third most different expressed across condition groups
+ggplot(
+  module_df,
+  aes(
+    x = condition,
+    y = ME16,
+    color = condition
+  )
+) + 
+  geom_violin(width = 0.2, outlier.shape = NA) + 
+  ggforce::geom_sina(maxwidth = 0.3) + 
+  theme_classic()
+```
+
+Extract genes for module 16 and plot them on a heatmap
+```{r}
+# What genes are a part of module 16
+# $colors slot stores information about which genes make up a module
+gene_module_key <- enframe(bwnet$colors, name = "gene", value = "module") %>%
+  mutate(module = paste0("ME", module)) %>%
+  filter(module == "ME16")
+
+#write_table(samples = c("AN", "DN"), module = "ME16")
+
+module_heatmap <- make_module_heatmap("ME16", colData_df = samples, 
+                                      module_eigengenes_df = module_eigengenes)
+module_heatmap
+```
