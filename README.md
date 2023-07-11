@@ -94,6 +94,8 @@ On the first level of the tree, there are five folders:
   - tophat2_counts_reports: this direcotry suppose to has the same structure as the folder "salmon_counts_report". But, due to the slow pace of the tophat2-htseq pipeline, the results may not be generated on time. Thus, this folder may not exist in the structure tree.
 - scripts: it has all the R scripts, Python script and bash scripts for downloading data, analyzing data.
 
+However, not all the folders can be found in the github due to the 100m limitation on the uploading files. For example, the reference_data directory was not uploaded.
+
 ## Reference Genome, Reference Transcript and GTF
 - Homo_sapiens.GRCh37.dna.primary_assembly.fa
 - Homo_sapiens.GRCh37.cdna.all.fa
