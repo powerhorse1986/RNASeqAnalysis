@@ -1,0 +1,21 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GUSB	glucuronidase beta [Source:HGNC Symbol;Acc:HGNC:4696]	245	1.3014142513275146	0.14160301	Yes	
+row_1	HS3ST3B1	heparan sulfate-glucosamine 3-sulfotransferase 3B1 [Source:HGNC Symbol;Acc:HGNC:5198]	494	1.0160133838653564	0.25017515	Yes	
+row_2	HYAL1	hyaluronidase 1 [Source:HGNC Symbol;Acc:HGNC:5320]	1870	0.5538797378540039	0.266151	Yes	
+row_3	HEXA	hexosaminidase subunit alpha [Source:HGNC Symbol;Acc:HGNC:4878]	2157	0.5034814476966858	0.31426865	Yes	
+row_4	GALNS	galactosamine (N-acetyl)-6-sulfatase [Source:HGNC Symbol;Acc:HGNC:4122]	2166	0.5022286772727966	0.37193123	Yes	
+row_5	HS3ST3A1	heparan sulfate-glucosamine 3-sulfotransferase 3A1 [Source:HGNC Symbol;Acc:HGNC:5196]	2713	0.4190879762172699	0.40125042	Yes	
+row_6	HPSE	heparanase [Source:HGNC Symbol;Acc:HGNC:5164]	3253	0.3518284857273102	0.42305398	Yes	
+row_7	NAGLU	N-acetyl-alpha-glucosaminidase [Source:HGNC Symbol;Acc:HGNC:7632]	4289	0.23918186128139496	0.41457403	Yes	
+row_8	HGSNAT	heparan-alpha-glucosaminide N-acetyltransferase [Source:HGNC Symbol;Acc:HGNC:26527]	4457	0.22183756530284882	0.43434644	Yes	
+row_9	IDUA	alpha-L-iduronidase [Source:HGNC Symbol;Acc:HGNC:5391]	4603	0.20833177864551544	0.45332754	Yes	
+row_10	HYAL4	hyaluronidase 4 [Source:HGNC Symbol;Acc:HGNC:5323]	10490	-0.09809240698814392	0.25949287	No	
+row_11	GNS	glucosamine (N-acetyl)-6-sulfatase [Source:HGNC Symbol;Acc:HGNC:4422]	10984	-0.11301926523447037	0.25534865	No	
+row_12	IDS	iduronate 2-sulfatase [Source:HGNC Symbol;Acc:HGNC:5389]	16795	-0.2351979911327362	0.07998056	No	
+row_13	ARSB	arylsulfatase B [Source:HGNC Symbol;Acc:HGNC:714]	16877	-0.23603947460651398	0.10438891	No	
+row_14	SGSH	N-sulfoglucosamine sulfohydrolase [Source:HGNC Symbol;Acc:HGNC:10818]	20855	-0.30033430457115173	4.2313422E-4	No	
+row_15	GLB1	galactosidase beta 1 [Source:HGNC Symbol;Acc:HGNC:4298]	22580	-0.3424851894378662	-0.02015338	No	
+row_16	SPAM1	sperm adhesion molecule 1 [Source:HGNC Symbol;Acc:HGNC:11217]	22969	-0.3538190722465515	0.0071428036	No	
+row_17	HPSE2	heparanase 2 (inactive) [Source:HGNC Symbol;Acc:HGNC:18374]	23544	-0.37676993012428284	0.030603925	No	
+row_18	HEXB	hexosaminidase subunit beta [Source:HGNC Symbol;Acc:HGNC:4879]	25987	-0.563427209854126	0.010491895	No	
+row_19	HYAL3	hyaluronidase 3 [Source:HGNC Symbol;Acc:HGNC:5322]	27190	-0.7314043045043945	0.052978266	No	

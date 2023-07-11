@@ -1,0 +1,76 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	INPP5B	inositol polyphosphate-5-phosphatase B [Source:HGNC Symbol;Acc:HGNC:6077]	902	0.8023747801780701	-0.008621986	No	
+row_1	PLCD1	phospholipase C delta 1 [Source:HGNC Symbol;Acc:HGNC:9060]	990	0.7692993879318237	0.010273682	No	
+row_2	PIP4K2A	phosphatidylinositol-5-phosphate 4-kinase type 2 alpha [Source:HGNC Symbol;Acc:HGNC:8997]	1033	0.7560285925865173	0.030362427	No	
+row_3	IMPA2	inositol monophosphatase 2 [Source:HGNC Symbol;Acc:HGNC:6051]	1172	0.707645058631897	0.04571927	No	
+row_4	PIK3R1	phosphoinositide-3-kinase regulatory subunit 1 [Source:HGNC Symbol;Acc:HGNC:8979]	2158	0.5031676888465881	0.025668021	No	
+row_5	CALML6	calmodulin like 6 [Source:HGNC Symbol;Acc:HGNC:24193]	2332	0.47494444251060486	0.033168003	No	
+row_6	CALM3	calmodulin 3 [Source:HGNC Symbol;Acc:HGNC:1449]	2480	0.4551079571247101	0.04101037	No	
+row_7	INPP4A	inositol polyphosphate-4-phosphatase type I A [Source:HGNC Symbol;Acc:HGNC:6074]	2497	0.45250561833381653	0.0533532	No	
+row_8	PTEN	phosphatase and tensin homolog [Source:HGNC Symbol;Acc:HGNC:9588]	2876	0.3979674279689789	0.05149964	No	
+row_9	PIKFYVE	phosphoinositide kinase, FYVE-type zinc finger containing [Source:HGNC Symbol;Acc:HGNC:23785]	3412	0.3337399363517761	0.042332254	No	
+row_10	ITPK1	inositol-tetrakisphosphate 1-kinase [Source:HGNC Symbol;Acc:HGNC:6177]	4643	0.20462442934513092	0.0052134576	No	
+row_11	PIK3CA	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:8975]	4781	0.19415904581546783	0.005965016	No	
+row_12	CDIPT	CDP-diacylglycerol--inositol 3-phosphatidyltransferase [Source:HGNC Symbol;Acc:HGNC:1769]	5901	0.10608609020709991	-0.03008701	No	
+row_13	DGKI	diacylglycerol kinase iota [Source:HGNC Symbol;Acc:HGNC:2855]	6382	0.06888150423765182	-0.04488522	No	
+row_14	PLCB3	phospholipase C beta 3 [Source:HGNC Symbol;Acc:HGNC:9056]	6794	0.040557365864515305	-0.058081433	No	
+row_15	INPP4B	inositol polyphosphate-4-phosphatase type II B [Source:HGNC Symbol;Acc:HGNC:6075]	7019	0.026787566021084785	-0.06514	No	
+row_16	ITPR2	inositol 1,4,5-trisphosphate receptor type 2 [Source:HGNC Symbol;Acc:HGNC:6181]	7350	0.007922754622995853	-0.07643807	No	
+row_17	INPP5A	inositol polyphosphate-5-phosphatase A [Source:HGNC Symbol;Acc:HGNC:6076]	8317	-2.4673360167071223E-4	-0.1101648	No	
+row_18	INPP5K	inositol polyphosphate-5-phosphatase K [Source:HGNC Symbol;Acc:HGNC:33882]	8397	-0.005510551854968071	-0.11276645	No	
+row_19	PLCD3	phospholipase C delta 3 [Source:HGNC Symbol;Acc:HGNC:9061]	9424	-0.062143318355083466	-0.14682369	No	
+row_20	DGKE	diacylglycerol kinase epsilon [Source:HGNC Symbol;Acc:HGNC:2852]	9864	-0.07878261059522629	-0.15990783	No	
+row_21	SYNJ1	synaptojanin 1 [Source:HGNC Symbol;Acc:HGNC:11503]	10835	-0.10710610449314117	-0.19072753	No	
+row_22	INPP5E	inositol polyphosphate-5-phosphatase E [Source:HGNC Symbol;Acc:HGNC:21474]	11634	-0.1333790421485901	-0.21479173	No	
+row_23	PLCE1	phospholipase C epsilon 1 [Source:HGNC Symbol;Acc:HGNC:17175]	12420	-0.15199971199035645	-0.23787105	No	
+row_24	PRKCA	protein kinase C alpha [Source:HGNC Symbol;Acc:HGNC:9393]	12548	-0.15732598304748535	-0.23782045	No	
+row_25	CALM1	calmodulin 1 [Source:HGNC Symbol;Acc:HGNC:1442]	12596	-0.15775281190872192	-0.23496398	No	
+row_26	PI4KA	phosphatidylinositol 4-kinase alpha [Source:HGNC Symbol;Acc:HGNC:8983]	12899	-0.16247591376304626	-0.24087773	No	
+row_27	PIP5K1B	phosphatidylinositol-4-phosphate 5-kinase type 1 beta [Source:HGNC Symbol;Acc:HGNC:8995]	13002	-0.1646277904510498	-0.23974591	No	
+row_28	DGKH	diacylglycerol kinase eta [Source:HGNC Symbol;Acc:HGNC:2854]	14605	-0.19725580513477325	-0.29006544	No	
+row_29	INPP5D	inositol polyphosphate-5-phosphatase D [Source:HGNC Symbol;Acc:HGNC:6079]	14857	-0.20237821340560913	-0.29306054	No	
+row_30	PRKCG	protein kinase C gamma [Source:HGNC Symbol;Acc:HGNC:9402]	15130	-0.208149254322052	-0.29662445	No	
+row_31	SYNJ2	synaptojanin 2 [Source:HGNC Symbol;Acc:HGNC:11504]	15303	-0.21078261733055115	-0.29662117	No	
+row_32	PIK3R5	phosphoinositide-3-kinase regulatory subunit 5 [Source:HGNC Symbol;Acc:HGNC:30035]	15327	-0.21121607720851898	-0.2914023	No	
+row_33	CALML5	calmodulin like 5 [Source:HGNC Symbol;Acc:HGNC:18180]	18657	-0.26225724816322327	-0.40017724	No	
+row_34	PIK3C2G	phosphatidylinositol-4-phosphate 3-kinase catalytic subunit type 2 gamma [Source:HGNC Symbol;Acc:HGNC:8973]	18779	-0.2637852728366852	-0.39688182	No	
+row_35	ITPR3	inositol 1,4,5-trisphosphate receptor type 3 [Source:HGNC Symbol;Acc:HGNC:6182]	19082	-0.26875749230384827	-0.3997653	No	
+row_36	PIP5K1C	phosphatidylinositol-4-phosphate 5-kinase type 1 gamma [Source:HGNC Symbol;Acc:HGNC:8996]	21369	-0.31101009249687195	-0.4707276	No	
+row_37	PIK3C3	phosphatidylinositol 3-kinase catalytic subunit type 3 [Source:HGNC Symbol;Acc:HGNC:8974]	21671	-0.3184204697608948	-0.47216022	No	
+row_38	DGKB	diacylglycerol kinase beta [Source:HGNC Symbol;Acc:HGNC:2850]	22064	-0.327504426240921	-0.47651166	No	
+row_39	INPP1	inositol polyphosphate-1-phosphatase [Source:HGNC Symbol;Acc:HGNC:6071]	22536	-0.34108594059944153	-0.48323464	No	
+row_40	PIK3C2B	phosphatidylinositol-4-phosphate 3-kinase catalytic subunit type 2 beta [Source:HGNC Symbol;Acc:HGNC:8972]	22845	-0.3499367833137512	-0.48401317	No	
+row_41	DGKD	diacylglycerol kinase delta [Source:HGNC Symbol;Acc:HGNC:2851]	23007	-0.3552913963794708	-0.4795056	No	
+row_42	PIK3C2A	phosphatidylinositol-4-phosphate 3-kinase catalytic subunit type 2 alpha [Source:HGNC Symbol;Acc:HGNC:8971]	23057	-0.35718101263046265	-0.471033	No	
+row_43	PLCZ1	phospholipase C zeta 1 [Source:HGNC Symbol;Acc:HGNC:19218]	23568	-0.37735453248023987	-0.47808385	No	
+row_44	PIK3CG	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit gamma [Source:HGNC Symbol;Acc:HGNC:8978]	24038	-0.4000316262245178	-0.48305637	No	
+row_45	INPPL1	inositol polyphosphate phosphatase like 1 [Source:HGNC Symbol;Acc:HGNC:6080]	24420	-0.4231381416320801	-0.48429704	Yes	
+row_46	PLCD4	phospholipase C delta 4 [Source:HGNC Symbol;Acc:HGNC:9062]	24425	-0.42328891158103943	-0.47236818	Yes	
+row_47	PIK3R2	phosphoinositide-3-kinase regulatory subunit 2 [Source:HGNC Symbol;Acc:HGNC:8980]	24429	-0.42348745465278625	-0.4603987	Yes	
+row_48	PLCB2	phospholipase C beta 2 [Source:HGNC Symbol;Acc:HGNC:9055]	24537	-0.43056103587150574	-0.45185938	Yes	
+row_49	CALML3	calmodulin like 3 [Source:HGNC Symbol;Acc:HGNC:1452]	24648	-0.43914780020713806	-0.44317997	Yes	
+row_50	ITPKB	inositol-trisphosphate 3-kinase B [Source:HGNC Symbol;Acc:HGNC:6179]	24879	-0.4572511315345764	-0.43817496	Yes	
+row_51	PLCG1	phospholipase C gamma 1 [Source:HGNC Symbol;Acc:HGNC:9065]	24891	-0.4580713212490082	-0.42549884	Yes	
+row_52	PLCG2	phospholipase C gamma 2 [Source:HGNC Symbol;Acc:HGNC:9066]	25403	-0.5026689171791077	-0.4290117	Yes	
+row_53	PRKCB	protein kinase C beta [Source:HGNC Symbol;Acc:HGNC:9395]	25550	-0.5180127620697021	-0.4193409	Yes	
+row_54	ITPKA	inositol-trisphosphate 3-kinase A [Source:HGNC Symbol;Acc:HGNC:6178]	25554	-0.5185071229934692	-0.4046623	Yes	
+row_55	DGKZ	diacylglycerol kinase zeta [Source:HGNC Symbol;Acc:HGNC:2857]	25558	-0.5189188122749329	-0.38997197	Yes	
+row_56	PLCB1	phospholipase C beta 1 [Source:HGNC Symbol;Acc:HGNC:15917]	26687	-0.6458430886268616	-0.41094908	Yes	
+row_57	PIK3R3	phosphoinositide-3-kinase regulatory subunit 3 [Source:HGNC Symbol;Acc:HGNC:8981]	26704	-0.6478379964828491	-0.39303705	Yes	
+row_58	IMPA1	inositol monophosphatase 1 [Source:HGNC Symbol;Acc:HGNC:6050]	26754	-0.6559018492698669	-0.3760475	Yes	
+row_59	PIP5K1A	phosphatidylinositol-4-phosphate 5-kinase type 1 alpha [Source:HGNC Symbol;Acc:HGNC:8994]	26792	-0.6627527475357056	-0.35844356	Yes	
+row_60	CDS1	CDP-diacylglycerol synthase 1 [Source:HGNC Symbol;Acc:HGNC:1800]	27005	-0.6970613598823547	-0.34597263	Yes	
+row_61	CDS2	CDP-diacylglycerol synthase 2 [Source:HGNC Symbol;Acc:HGNC:1801]	27103	-0.7147661447525024	-0.328981	Yes	
+row_62	CALM2	calmodulin 2 [Source:HGNC Symbol;Acc:HGNC:1445]	27210	-0.7359423041343689	-0.3116999	Yes	
+row_63	OCRL	OCRL inositol polyphosphate-5-phosphatase [Source:HGNC Symbol;Acc:HGNC:8108]	27445	-0.7881613969802856	-0.29739985	Yes	
+row_64	ITPR1	inositol 1,4,5-trisphosphate receptor type 1 [Source:HGNC Symbol;Acc:HGNC:6180]	27496	-0.8011760115623474	-0.27630326	Yes	
+row_65	PI4KB	phosphatidylinositol 4-kinase beta [Source:HGNC Symbol;Acc:HGNC:8984]	27549	-0.8127803206443787	-0.25494564	Yes	
+row_66	DGKQ	diacylglycerol kinase theta [Source:HGNC Symbol;Acc:HGNC:2856]	27556	-0.8139888644218445	-0.23194721	Yes	
+row_67	DGKA	diacylglycerol kinase alpha [Source:HGNC Symbol;Acc:HGNC:2849]	27790	-0.8836575746536255	-0.21488951	Yes	
+row_68	INPP5J	inositol polyphosphate-5-phosphatase J [Source:HGNC Symbol;Acc:HGNC:8956]	28114	-1.0004029273986816	-0.19764613	Yes	
+row_69	PIK3CD	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [Source:HGNC Symbol;Acc:HGNC:8977]	28219	-1.0532701015472412	-0.17124772	Yes	
+row_70	PLCB4	phospholipase C beta 4 [Source:HGNC Symbol;Acc:HGNC:9059]	28261	-1.0748618841171265	-0.14203367	Yes	
+row_71	PIK3CB	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [Source:HGNC Symbol;Acc:HGNC:8976]	28460	-1.230820894241333	-0.113855615	Yes	
+row_72	IPPK	inositol-pentakisphosphate 2-kinase [Source:HGNC Symbol;Acc:HGNC:14645]	28493	-1.259568452835083	-0.07906103	Yes	
+row_73	DGKG	diacylglycerol kinase gamma [Source:HGNC Symbol;Acc:HGNC:2853]	28506	-1.273945689201355	-0.043158114	Yes	
+row_74	PIP4K2C	phosphatidylinositol-5-phosphate 4-kinase type 2 gamma [Source:HGNC Symbol;Acc:HGNC:23786]	28680	-1.7623425722122192	0.0010473899	Yes	

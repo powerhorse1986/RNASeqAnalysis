@@ -1,0 +1,43 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ALDH7A1	aldehyde dehydrogenase 7 family member A1 [Source:HGNC Symbol;Acc:HGNC:877]	130	1.5115711688995361	0.09944107	Yes	
+row_1	HADH	hydroxyacyl-CoA dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4799]	352	1.1613417863845825	0.17161694	Yes	
+row_2	ACSL5	acyl-CoA synthetase long chain family member 5 [Source:HGNC Symbol;Acc:HGNC:16526]	414	1.0964876413345337	0.24491267	Yes	
+row_3	ADH1C	alcohol dehydrogenase 1C (class I), gamma polypeptide [Source:HGNC Symbol;Acc:HGNC:251]	490	1.0187091827392578	0.31236997	Yes	
+row_4	CPT1A	carnitine palmitoyltransferase 1A [Source:HGNC Symbol;Acc:HGNC:2328]	1790	0.5686599016189575	0.3061758	Yes	
+row_5	ADH1A	alcohol dehydrogenase 1A (class I), alpha polypeptide [Source:HGNC Symbol;Acc:HGNC:249]	2407	0.4647071659564972	0.3166547	Yes	
+row_6	HADHB	hydroxyacyl-CoA dehydrogenase trifunctional multienzyme complex subunit beta [Source:HGNC Symbol;Acc:HGNC:4803]	2541	0.4452415406703949	0.34264213	Yes	
+row_7	EHHADH	enoyl-CoA hydratase and 3-hydroxyacyl CoA dehydrogenase [Source:HGNC Symbol;Acc:HGNC:3247]	2691	0.4231693744659424	0.3665532	Yes	
+row_8	ACAA2	acetyl-CoA acyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:83]	3780	0.2930762767791748	0.34876245	Yes	
+row_9	ADH1B	alcohol dehydrogenase 1B (class I), beta polypeptide [Source:HGNC Symbol;Acc:HGNC:250]	4334	0.234678253531456	0.345616	Yes	
+row_10	ADH6	alcohol dehydrogenase 6 (class V) [Source:HGNC Symbol;Acc:HGNC:255]	4382	0.2296920269727707	0.3597763	Yes	
+row_11	ACOX1	acyl-CoA oxidase 1 [Source:HGNC Symbol;Acc:HGNC:119]	4399	0.2285124659538269	0.37493676	Yes	
+row_12	HADHA	hydroxyacyl-CoA dehydrogenase trifunctional multienzyme complex subunit alpha [Source:HGNC Symbol;Acc:HGNC:4801]	4548	0.2136530876159668	0.38447082	Yes	
+row_13	ACOX3	acyl-CoA oxidase 3, pristanoyl [Source:HGNC Symbol;Acc:HGNC:121]	5083	0.1689794957637787	0.37746793	Yes	
+row_14	ADH5	alcohol dehydrogenase 5 (class III), chi polypeptide [Source:HGNC Symbol;Acc:HGNC:253]	5137	0.1652471125125885	0.386986	Yes	
+row_15	ACADM	acyl-CoA dehydrogenase medium chain [Source:HGNC Symbol;Acc:HGNC:89]	5284	0.15414540469646454	0.3924965	Yes	
+row_16	ALDH9A1	aldehyde dehydrogenase 9 family member A1 [Source:HGNC Symbol;Acc:HGNC:412]	6204	0.08321554213762283	0.36616507	No	
+row_17	ACADS	acyl-CoA dehydrogenase short chain [Source:HGNC Symbol;Acc:HGNC:90]	6768	0.04194013401865959	0.34941202	No	
+row_18	ECI1	enoyl-CoA delta isomerase 1 [Source:HGNC Symbol;Acc:HGNC:2703]	6810	0.03967158868908882	0.35071078	No	
+row_19	CPT2	carnitine palmitoyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:2330]	8596	-0.01667499542236328	0.28959543	No	
+row_20	ACAA1	acetyl-CoA acyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:82]	9459	-0.06378776580095291	0.26391584	No	
+row_21	ACSL4	acyl-CoA synthetase long chain family member 4 [Source:HGNC Symbol;Acc:HGNC:3571]	9513	-0.06634475290775299	0.26663077	No	
+row_22	ACAT1	acetyl-CoA acetyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:93]	10045	-0.08770270645618439	0.25414178	No	
+row_23	ACSL1	acyl-CoA synthetase long chain family member 1 [Source:HGNC Symbol;Acc:HGNC:3569]	10806	-0.1059868335723877	0.23492277	No	
+row_24	ACADSB	acyl-CoA dehydrogenase short/branched chain [Source:HGNC Symbol;Acc:HGNC:91]	10912	-0.11011577397584915	0.23883474	No	
+row_25	ACSL3	acyl-CoA synthetase long chain family member 3 [Source:HGNC Symbol;Acc:HGNC:3570]	11523	-0.1294327974319458	0.22646062	No	
+row_26	GCDH	glutaryl-CoA dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4189]	12534	-0.1569093018770218	0.20202416	No	
+row_27	ALDH2	aldehyde dehydrogenase 2 family member [Source:HGNC Symbol;Acc:HGNC:404]	14456	-0.19534654915332794	0.14845517	No	
+row_28	ADH7	alcohol dehydrogenase 7 (class IV), mu or sigma polypeptide [Source:HGNC Symbol;Acc:HGNC:256]	17401	-0.2436540573835373	0.06252594	No	
+row_29	ACAT2	acetyl-CoA acetyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:94]	18543	-0.2605269253253937	0.040647574	No	
+row_30	ACSL6	acyl-CoA synthetase long chain family member 6 [Source:HGNC Symbol;Acc:HGNC:16496]	19411	-0.2740183174610138	0.02925459	No	
+row_31	CYP4A22	cytochrome P450 family 4 subfamily A member 22 [Source:HGNC Symbol;Acc:HGNC:20575]	20366	-0.29114383459091187	0.01600497	No	
+row_32	CPT1B	carnitine palmitoyltransferase 1B [Source:HGNC Symbol;Acc:HGNC:2329]	20734	-0.29799002408981323	0.023701355	No	
+row_33	CYP4A11	cytochrome P450 family 4 subfamily A member 11 [Source:HGNC Symbol;Acc:HGNC:2642]	21808	-0.32125431299209595	0.008372105	No	
+row_34	ALDH1B1	aldehyde dehydrogenase 1 family member B1 [Source:HGNC Symbol;Acc:HGNC:407]	22450	-0.3385840952396393	0.009303449	No	
+row_35	ECI2	enoyl-CoA delta isomerase 2 [Source:HGNC Symbol;Acc:HGNC:14601]	22506	-0.34022435545921326	0.030787818	No	
+row_36	ACADL	acyl-CoA dehydrogenase long chain [Source:HGNC Symbol;Acc:HGNC:88]	23945	-0.395134836435318	0.007809022	No	
+row_37	ACADVL	acyl-CoA dehydrogenase very long chain [Source:HGNC Symbol;Acc:HGNC:92]	24348	-0.41841140389442444	0.022567932	No	
+row_38	ECHS1	enoyl-CoA hydratase, short chain 1 [Source:HGNC Symbol;Acc:HGNC:3151]	24856	-0.45542654395103455	0.03621049	No	
+row_39	ALDH3A2	aldehyde dehydrogenase 3 family member A2 [Source:HGNC Symbol;Acc:HGNC:403]	25036	-0.4694494605064392	0.062258564	No	
+row_40	ADH4	alcohol dehydrogenase 4 (class II), pi polypeptide [Source:HGNC Symbol;Acc:HGNC:252]	25049	-0.4707595705986023	0.09422186	No	
+row_41	CPT1C	carnitine palmitoyltransferase 1C [Source:HGNC Symbol;Acc:HGNC:18540]	25225	-0.4861745834350586	0.12155992	No	

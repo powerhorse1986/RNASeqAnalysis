@@ -1,0 +1,56 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	AXIN2	axin 2 [Source:HGNC Symbol;Acc:HGNC:904]	15	2.8807575702667236	0.090342894	Yes	
+row_1	FZD1	frizzled class receptor 1 [Source:HGNC Symbol;Acc:HGNC:4038]	46	2.1475260257720947	0.15703437	Yes	
+row_2	WNT11	Wnt family member 11 [Source:HGNC Symbol;Acc:HGNC:12776]	119	1.560683250427246	0.20374969	Yes	
+row_3	WNT2	Wnt family member 2 [Source:HGNC Symbol;Acc:HGNC:12780]	206	1.3589333295822144	0.24361274	Yes	
+row_4	FZD2	frizzled class receptor 2 [Source:HGNC Symbol;Acc:HGNC:4040]	269	1.2609938383102417	0.28122407	Yes	
+row_5	GLI3	GLI family zinc finger 3 [Source:HGNC Symbol;Acc:HGNC:4319]	273	1.2556885480880737	0.32072696	Yes	
+row_6	TCF7	transcription factor 7 [Source:HGNC Symbol;Acc:HGNC:11639]	276	1.2483243942260742	0.36003244	Yes	
+row_7	TCF7L2	transcription factor 7 like 2 [Source:HGNC Symbol;Acc:HGNC:11641]	456	1.0532342195510864	0.3870076	Yes	
+row_8	PTCH1	patched 1 [Source:HGNC Symbol;Acc:HGNC:9585]	551	0.9733226895332336	0.41442835	Yes	
+row_9	SMO	smoothened, frizzled class receptor [Source:HGNC Symbol;Acc:HGNC:11119]	937	0.7874764800071716	0.42583212	Yes	
+row_10	WNT9A	Wnt family member 9A [Source:HGNC Symbol;Acc:HGNC:12778]	1247	0.6881730556488037	0.43675575	Yes	
+row_11	WNT7B	Wnt family member 7B [Source:HGNC Symbol;Acc:HGNC:12787]	2372	0.46898773312568665	0.4123249	Yes	
+row_12	LEF1	lymphoid enhancer binding factor 1 [Source:HGNC Symbol;Acc:HGNC:6551]	2382	0.46731793880462646	0.4267512	Yes	
+row_13	FZD3	frizzled class receptor 3 [Source:HGNC Symbol;Acc:HGNC:4041]	2675	0.4266180396080017	0.43001798	Yes	
+row_14	GLI2	GLI family zinc finger 2 [Source:HGNC Symbol;Acc:HGNC:4318]	2764	0.41055095195770264	0.43989688	Yes	
+row_15	FZD7	frizzled class receptor 7 [Source:HGNC Symbol;Acc:HGNC:4045]	2808	0.40503525733947754	0.45117214	Yes	
+row_16	WNT5B	Wnt family member 5B [Source:HGNC Symbol;Acc:HGNC:16265]	4372	0.23057439923286438	0.4039015	No	
+row_17	FZD10	frizzled class receptor 10 [Source:HGNC Symbol;Acc:HGNC:4039]	4696	0.20032131671905518	0.3989485	No	
+row_18	CTNNB1	catenin beta 1 [Source:HGNC Symbol;Acc:HGNC:2514]	4727	0.1979750394821167	0.40414622	No	
+row_19	APC2	APC regulator of WNT signaling pathway 2 [Source:HGNC Symbol;Acc:HGNC:24036]	4878	0.18623235821723938	0.40478596	No	
+row_20	DVL2	dishevelled segment polarity protein 2 [Source:HGNC Symbol;Acc:HGNC:3086]	5242	0.15747545659542084	0.39708564	No	
+row_21	FZD8	frizzled class receptor 8 [Source:HGNC Symbol;Acc:HGNC:4046]	5688	0.12056730687618256	0.3853596	No	
+row_22	FZD4	frizzled class receptor 4 [Source:HGNC Symbol;Acc:HGNC:4042]	5740	0.11740618944168091	0.38728315	No	
+row_23	STK36	serine/threonine kinase 36 [Source:HGNC Symbol;Acc:HGNC:17209]	7342	0.008144867606461048	0.33167043	No	
+row_24	TP53	tumor protein p53 [Source:HGNC Symbol;Acc:HGNC:11998]	8995	-0.039822984486818314	0.2752772	No	
+row_25	WNT16	Wnt family member 16 [Source:HGNC Symbol;Acc:HGNC:16267]	9196	-0.0505688413977623	0.26989293	No	
+row_26	DVL3	dishevelled segment polarity protein 3 [Source:HGNC Symbol;Acc:HGNC:3087]	9890	-0.08052293211221695	0.24824941	No	
+row_27	SUFU	SUFU negative regulator of hedgehog signaling [Source:HGNC Symbol;Acc:HGNC:16466]	9908	-0.08143620938062668	0.25022486	No	
+row_28	GLI1	GLI family zinc finger 1 [Source:HGNC Symbol;Acc:HGNC:4317]	11005	-0.11419439315795898	0.21558006	No	
+row_29	PTCH2	patched 2 [Source:HGNC Symbol;Acc:HGNC:9586]	11193	-0.12163954973220825	0.21289119	No	
+row_30	WNT9B	Wnt family member 9B [Source:HGNC Symbol;Acc:HGNC:12779]	13649	-0.17954044044017792	0.13288294	No	
+row_31	SHH	sonic hedgehog signaling molecule [Source:HGNC Symbol;Acc:HGNC:10848]	17464	-0.244412362575531	0.0074962904	No	
+row_32	WNT1	Wnt family member 1 [Source:HGNC Symbol;Acc:HGNC:12774]	17802	-0.2496410608291626	0.0036104082	No	
+row_33	WNT3A	Wnt family member 3A [Source:HGNC Symbol;Acc:HGNC:15983]	17962	-0.2515566349029541	0.0059965616	No	
+row_34	AXIN1	axin 1 [Source:HGNC Symbol;Acc:HGNC:903]	18968	-0.266821026802063	-0.020658419	No	
+row_35	WNT8A	Wnt family member 8A [Source:HGNC Symbol;Acc:HGNC:12788]	20336	-0.29055583477020264	-0.05919735	No	
+row_36	WNT5A	Wnt family member 5A [Source:HGNC Symbol;Acc:HGNC:12784]	21111	-0.3057533800601959	-0.07656317	No	
+row_37	WNT7A	Wnt family member 7A [Source:HGNC Symbol;Acc:HGNC:12786]	22010	-0.32617270946502686	-0.097612105	No	
+row_38	FZD5	frizzled class receptor 5 [Source:HGNC Symbol;Acc:HGNC:4043]	22087	-0.32816702127456665	-0.08991304	No	
+row_39	WNT10A	Wnt family member 10A [Source:HGNC Symbol;Acc:HGNC:13829]	22683	-0.34590598940849304	-0.09976583	No	
+row_40	WNT8B	Wnt family member 8B [Source:HGNC Symbol;Acc:HGNC:12789]	23249	-0.3648752272129059	-0.10797339	No	
+row_41	WNT2B	Wnt family member 2B [Source:HGNC Symbol;Acc:HGNC:12781]	23595	-0.378458708524704	-0.10807521	No	
+row_42	DVL1	dishevelled segment polarity protein 1 [Source:HGNC Symbol;Acc:HGNC:3084]	24332	-0.4174818992614746	-0.120590754	No	
+row_43	WNT6	Wnt family member 6 [Source:HGNC Symbol;Acc:HGNC:12785]	25351	-0.4980402886867523	-0.14040616	No	
+row_44	TCF7L1	transcription factor 7 like 1 [Source:HGNC Symbol;Acc:HGNC:11640]	25995	-0.5646289587020874	-0.14503492	No	
+row_45	APC	APC regulator of WNT signaling pathway [Source:HGNC Symbol;Acc:HGNC:583]	26305	-0.5967601537704468	-0.13699469	No	
+row_46	WNT10B	Wnt family member 10B [Source:HGNC Symbol;Acc:HGNC:12775]	26334	-0.6010411977767944	-0.11901344	No	
+row_47	WNT3	Wnt family member 3 [Source:HGNC Symbol;Acc:HGNC:12782]	26488	-0.6197628974914551	-0.104803756	No	
+row_48	WNT4	Wnt family member 4 [Source:HGNC Symbol;Acc:HGNC:12783]	26757	-0.6570199131965637	-0.09343201	No	
+row_49	GSK3B	glycogen synthase kinase 3 beta [Source:HGNC Symbol;Acc:HGNC:4617]	27027	-0.7019252181053162	-0.08067873	No	
+row_50	FZD9	frizzled class receptor 9 [Source:HGNC Symbol;Acc:HGNC:4047]	27374	-0.7732850313186646	-0.06836164	No	
+row_51	HHIP	hedgehog interacting protein [Source:HGNC Symbol;Acc:HGNC:14866]	27641	-0.8407884836196899	-0.051123578	No	
+row_52	FZD6	frizzled class receptor 6 [Source:HGNC Symbol;Acc:HGNC:4044]	27838	-0.9007337689399719	-0.029551923	No	
+row_53	BMP2	bone morphogenetic protein 2 [Source:HGNC Symbol;Acc:HGNC:1069]	27943	-0.9376049041748047	-0.0036067625	No	
+row_54	BMP4	bone morphogenetic protein 4 [Source:HGNC Symbol;Acc:HGNC:1071]	28019	-0.9618058800697327	0.024113761	No	

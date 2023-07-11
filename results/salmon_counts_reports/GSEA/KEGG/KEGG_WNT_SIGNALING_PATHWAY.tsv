@@ -1,0 +1,152 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	DAAM2	dishevelled associated activator of morphogenesis 2 [Source:HGNC Symbol;Acc:HGNC:18143]	11	2.9575672149658203	0.03840798	Yes	
+row_1	DKK2	dickkopf WNT signaling pathway inhibitor 2 [Source:HGNC Symbol;Acc:HGNC:2892]	14	2.8957226276397705	0.076319896	Yes	
+row_2	AXIN2	axin 2 [Source:HGNC Symbol;Acc:HGNC:904]	15	2.8807575702667236	0.11410555	Yes	
+row_3	FZD1	frizzled class receptor 1 [Source:HGNC Symbol;Acc:HGNC:4038]	46	2.1475260257720947	0.14122331	Yes	
+row_4	WNT11	Wnt family member 11 [Source:HGNC Symbol;Acc:HGNC:12776]	119	1.560683250427246	0.15917312	Yes	
+row_5	WNT2	Wnt family member 2 [Source:HGNC Symbol;Acc:HGNC:12780]	206	1.3589333295822144	0.17398645	Yes	
+row_6	NFATC4	nuclear factor of activated T cells 4 [Source:HGNC Symbol;Acc:HGNC:7778]	224	1.334018349647522	0.19088896	Yes	
+row_7	FZD2	frizzled class receptor 2 [Source:HGNC Symbol;Acc:HGNC:4040]	269	1.2609938383102417	0.20588826	Yes	
+row_8	TCF7	transcription factor 7 [Source:HGNC Symbol;Acc:HGNC:11639]	276	1.2483243942260742	0.2220519	Yes	
+row_9	SMAD4	SMAD family member 4 [Source:HGNC Symbol;Acc:HGNC:6770]	450	1.0565905570983887	0.22985332	Yes	
+row_10	TCF7L2	transcription factor 7 like 2 [Source:HGNC Symbol;Acc:HGNC:11641]	456	1.0532342195510864	0.24349307	Yes	
+row_11	CAMK2D	calcium/calmodulin dependent protein kinase II delta [Source:HGNC Symbol;Acc:HGNC:1462]	506	1.0071877241134644	0.25498822	Yes	
+row_12	PPP3CB	protein phosphatase 3 catalytic subunit beta [Source:HGNC Symbol;Acc:HGNC:9315]	617	0.9408573508262634	0.2634775	Yes	
+row_13	PRICKLE1	prickle planar cell polarity protein 1 [Source:HGNC Symbol;Acc:HGNC:17019]	645	0.9246535301208496	0.2746604	Yes	
+row_14	NFATC1	nuclear factor of activated T cells 1 [Source:HGNC Symbol;Acc:HGNC:7775]	979	0.7720280885696411	0.2731271	Yes	
+row_15	FRAT2	FRAT regulator of WNT signaling pathway 2 [Source:HGNC Symbol;Acc:HGNC:16048]	997	0.768498420715332	0.28261194	Yes	
+row_16	NKD2	NKD inhibitor of WNT signaling pathway 2 [Source:HGNC Symbol;Acc:HGNC:17046]	1011	0.7634040117263794	0.29217	Yes	
+row_17	ROCK2	Rho associated coiled-coil containing protein kinase 2 [Source:HGNC Symbol;Acc:HGNC:10252]	1178	0.7066522240638733	0.29562652	Yes	
+row_18	WNT9A	Wnt family member 9A [Source:HGNC Symbol;Acc:HGNC:12778]	1247	0.6881730556488037	0.30227205	Yes	
+row_19	SFRP2	secreted frizzled related protein 2 [Source:HGNC Symbol;Acc:HGNC:10777]	1370	0.6598142385482788	0.30665484	Yes	
+row_20	SFRP4	secreted frizzled related protein 4 [Source:HGNC Symbol;Acc:HGNC:10778]	1630	0.6002249121665955	0.30545908	Yes	
+row_21	PRICKLE2	prickle planar cell polarity protein 2 [Source:HGNC Symbol;Acc:HGNC:20340]	1837	0.5602343082427979	0.30559456	Yes	
+row_22	PPP2R5A	protein phosphatase 2 regulatory subunit B'alpha [Source:HGNC Symbol;Acc:HGNC:9309]	1885	0.5521842837333679	0.31119168	Yes	
+row_23	PPP3CA	protein phosphatase 3 catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:9314]	2177	0.5009170770645142	0.3075729	Yes	
+row_24	WNT7B	Wnt family member 7B [Source:HGNC Symbol;Acc:HGNC:12787]	2372	0.46898773312568665	0.3069317	Yes	
+row_25	LEF1	lymphoid enhancer binding factor 1 [Source:HGNC Symbol;Acc:HGNC:6551]	2382	0.46731793880462646	0.31274617	Yes	
+row_26	NFATC3	nuclear factor of activated T cells 3 [Source:HGNC Symbol;Acc:HGNC:7777]	2474	0.45597824454307556	0.31554076	Yes	
+row_27	EP300	E1A binding protein p300 [Source:HGNC Symbol;Acc:HGNC:3373]	2560	0.44278183579444885	0.31837237	Yes	
+row_28	FZD3	frizzled class receptor 3 [Source:HGNC Symbol;Acc:HGNC:4041]	2675	0.4266180396080017	0.31997654	Yes	
+row_29	FRAT1	FRAT regulator of WNT signaling pathway 1 [Source:HGNC Symbol;Acc:HGNC:3944]	2687	0.4235367774963379	0.32514673	Yes	
+row_30	PPP2R5D	protein phosphatase 2 regulatory subunit B'delta [Source:HGNC Symbol;Acc:HGNC:9312]	2774	0.4094711244106293	0.32750636	Yes	
+row_31	CREBBP	CREB binding protein [Source:HGNC Symbol;Acc:HGNC:2348]	2795	0.40690380334854126	0.33214328	Yes	
+row_32	FZD7	frizzled class receptor 7 [Source:HGNC Symbol;Acc:HGNC:4045]	2808	0.40503525733947754	0.33703578	Yes	
+row_33	ROCK1	Rho associated coiled-coil containing protein kinase 1 [Source:HGNC Symbol;Acc:HGNC:10251]	3377	0.33763909339904785	0.3215765	No	
+row_34	TBL1X	transducin beta like 1 X-linked [Source:HGNC Symbol;Acc:HGNC:11585]	3645	0.30734121799468994	0.31625903	No	
+row_35	PRKACA	protein kinase cAMP-activated catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:9380]	3674	0.3046915829181671	0.31927514	No	
+row_36	LRP6	LDL receptor related protein 6 [Source:HGNC Symbol;Acc:HGNC:6698]	3811	0.28959763050079346	0.31831175	No	
+row_37	CAMK2B	calcium/calmodulin dependent protein kinase II beta [Source:HGNC Symbol;Acc:HGNC:1461]	3922	0.27733778953552246	0.31809792	No	
+row_38	CTBP1	C-terminal binding protein 1 [Source:HGNC Symbol;Acc:HGNC:2494]	3948	0.2748437225818634	0.3208276	No	
+row_39	MYC	MYC proto-oncogene, bHLH transcription factor [Source:HGNC Symbol;Acc:HGNC:7553]	3971	0.2722282111644745	0.32362798	No	
+row_40	WNT5B	Wnt family member 5B [Source:HGNC Symbol;Acc:HGNC:16265]	4372	0.23057439923286438	0.31264672	No	
+row_41	FZD10	frizzled class receptor 10 [Source:HGNC Symbol;Acc:HGNC:4039]	4696	0.20032131671905518	0.30396473	No	
+row_42	CTNNB1	catenin beta 1 [Source:HGNC Symbol;Acc:HGNC:2514]	4727	0.1979750394821167	0.30551106	No	
+row_43	NKD1	NKD inhibitor of WNT signaling pathway 1 [Source:HGNC Symbol;Acc:HGNC:17045]	4854	0.18830575048923492	0.30356923	No	
+row_44	APC2	APC regulator of WNT signaling pathway 2 [Source:HGNC Symbol;Acc:HGNC:24036]	4878	0.18623235821723938	0.30520663	No	
+row_45	VANGL1	VANGL planar cell polarity protein 1 [Source:HGNC Symbol;Acc:HGNC:15512]	5002	0.17646680772304535	0.30321455	No	
+row_46	PPP2R5C	protein phosphatase 2 regulatory subunit B'gamma [Source:HGNC Symbol;Acc:HGNC:9311]	5176	0.1626138985157013	0.29929006	No	
+row_47	LRP5	LDL receptor related protein 5 [Source:HGNC Symbol;Acc:HGNC:6697]	5219	0.1599813997745514	0.29991788	No	
+row_48	DVL2	dishevelled segment polarity protein 2 [Source:HGNC Symbol;Acc:HGNC:3086]	5242	0.15747545659542084	0.30121312	No	
+row_49	CSNK2A2	casein kinase 2 alpha 2 [Source:HGNC Symbol;Acc:HGNC:2459]	5410	0.14505118131637573	0.29726833	No	
+row_50	PPP2R5E	protein phosphatase 2 regulatory subunit B'epsilon [Source:HGNC Symbol;Acc:HGNC:9313]	5436	0.1426542103290558	0.29826412	No	
+row_51	FZD8	frizzled class receptor 8 [Source:HGNC Symbol;Acc:HGNC:4046]	5688	0.12056730687618256	0.29105705	No	
+row_52	FZD4	frizzled class receptor 4 [Source:HGNC Symbol;Acc:HGNC:4042]	5740	0.11740618944168091	0.2908113	No	
+row_53	TBL1XR1	TBL1X/Y related 1 [Source:HGNC Symbol;Acc:HGNC:29529]	5963	0.10220879316329956	0.2843788	No	
+row_54	CSNK1A1	casein kinase 1 alpha 1 [Source:HGNC Symbol;Acc:HGNC:2451]	6480	0.061990078538656235	0.26712468	No	
+row_55	CAMK2G	calcium/calmodulin dependent protein kinase II gamma [Source:HGNC Symbol;Acc:HGNC:1463]	6740	0.043783415108919144	0.25863034	No	
+row_56	PLCB3	phospholipase C beta 3 [Source:HGNC Symbol;Acc:HGNC:9056]	6794	0.040557365864515305	0.25730658	No	
+row_57	RHOA	ras homolog family member A [Source:HGNC Symbol;Acc:HGNC:667]	6931	0.031457800418138504	0.25295728	No	
+row_58	NFAT5	nuclear factor of activated T cells 5 [Source:HGNC Symbol;Acc:HGNC:7774]	6980	0.028857536613941193	0.25165513	No	
+row_59	SFRP1	secreted frizzled related protein 1 [Source:HGNC Symbol;Acc:HGNC:10776]	7244	0.013733698055148125	0.24262658	No	
+row_60	TBL1Y	transducin beta like 1 Y-linked [Source:HGNC Symbol;Acc:HGNC:18502]	8189	0.0	0.20957336	No	
+row_61	WIF1	WNT inhibitory factor 1 [Source:HGNC Symbol;Acc:HGNC:18081]	8478	-0.010038500651717186	0.19962099	No	
+row_62	SIAH1	siah E3 ubiquitin protein ligase 1 [Source:HGNC Symbol;Acc:HGNC:10857]	8751	-0.025731269270181656	0.1904347	No	
+row_63	TP53	tumor protein p53 [Source:HGNC Symbol;Acc:HGNC:11998]	8995	-0.039822984486818314	0.18244863	No	
+row_64	PPARD	peroxisome proliferator activated receptor delta [Source:HGNC Symbol;Acc:HGNC:9235]	9119	-0.04697141423821449	0.17875801	No	
+row_65	CAMK2A	calcium/calmodulin dependent protein kinase II alpha [Source:HGNC Symbol;Acc:HGNC:1460]	9166	-0.04936698451638222	0.17779489	No	
+row_66	WNT16	Wnt family member 16 [Source:HGNC Symbol;Acc:HGNC:16267]	9196	-0.0505688413977623	0.17744277	No	
+row_67	RAC1	Rac family small GTPase 1 [Source:HGNC Symbol;Acc:HGNC:9801]	9217	-0.05155047029256821	0.17741865	No	
+row_68	CSNK1A1L	casein kinase 1 alpha 1 like [Source:HGNC Symbol;Acc:HGNC:20289]	9339	-0.05747654289007187	0.17393586	No	
+row_69	CSNK2B	casein kinase 2 beta [Source:HGNC Symbol;Acc:HGNC:2460]	9468	-0.06412573158740997	0.17029518	No	
+row_70	PRKACB	protein kinase cAMP-activated catalytic subunit beta [Source:HGNC Symbol;Acc:HGNC:9381]	9776	-0.0744614526629448	0.16052255	No	
+row_71	DVL3	dishevelled segment polarity protein 3 [Source:HGNC Symbol;Acc:HGNC:3087]	9890	-0.08052293211221695	0.15762216	No	
+row_72	SKP1P2	S-phase kinase associated protein 1 pseudogene 2 [Source:HGNC Symbol;Acc:HGNC:10900]	10384	-0.09332450479269028	0.14158435	No	
+row_73	CHP1	calcineurin like EF-hand protein 1 [Source:HGNC Symbol;Acc:HGNC:17433]	10495	-0.09853153675794601	0.1390252	No	
+row_74	MAPK9	mitogen-activated protein kinase 9 [Source:HGNC Symbol;Acc:HGNC:6886]	11595	-0.13230282068252563	0.10228016	No	
+row_75	CTBP2	C-terminal binding protein 2 [Source:HGNC Symbol;Acc:HGNC:2495]	11853	-0.1372937113046646	0.09508239	No	
+row_76	PSEN1	presenilin 1 [Source:HGNC Symbol;Acc:HGNC:9508]	12402	-0.15145929157733917	0.077881336	No	
+row_77	PRKCA	protein kinase C alpha [Source:HGNC Symbol;Acc:HGNC:9393]	12548	-0.15732598304748535	0.07486788	No	
+row_78	MMP7	matrix metallopeptidase 7 [Source:HGNC Symbol;Acc:HGNC:7174]	12741	-0.1594848781824112	0.07023709	No	
+row_79	PORCN	porcupine O-acyltransferase [Source:HGNC Symbol;Acc:HGNC:17652]	13012	-0.16481845080852509	0.06294516	No	
+row_80	CUL1	cullin 1 [Source:HGNC Symbol;Acc:HGNC:2551]	13534	-0.17719611525535583	0.047027066	No	
+row_81	WNT9B	Wnt family member 9B [Source:HGNC Symbol;Acc:HGNC:12779]	13649	-0.17954044044017792	0.045390423	No	
+row_82	PRKCG	protein kinase C gamma [Source:HGNC Symbol;Acc:HGNC:9402]	15130	-0.208149254322052	-0.0037001015	No	
+row_83	FOSL1	FOS like 1, AP-1 transcription factor subunit [Source:HGNC Symbol;Acc:HGNC:13718]	16074	-0.22294892370700836	-0.033793986	No	
+row_84	CSNK2A1	casein kinase 2 alpha 1 [Source:HGNC Symbol;Acc:HGNC:2457]	16303	-0.22728277742862701	-0.038796008	No	
+row_85	CTNNBIP1	catenin beta interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:16913]	16599	-0.23179961740970612	-0.046084724	No	
+row_86	FBXW11	F-box and WD repeat domain containing 11 [Source:HGNC Symbol;Acc:HGNC:13607]	16696	-0.23341719806194305	-0.046384435	No	
+row_87	CHP2	calcineurin like EF-hand protein 2 [Source:HGNC Symbol;Acc:HGNC:24927]	17357	-0.24295088648796082	-0.066307	No	
+row_88	WNT1	Wnt family member 1 [Source:HGNC Symbol;Acc:HGNC:12774]	17802	-0.2496410608291626	-0.078578785	No	
+row_89	WNT3A	Wnt family member 3A [Source:HGNC Symbol;Acc:HGNC:15983]	17962	-0.2515566349029541	-0.08084645	No	
+row_90	CCND2	cyclin D2 [Source:HGNC Symbol;Acc:HGNC:1583]	18512	-0.2601989805698395	-0.096656226	No	
+row_91	AXIN1	axin 1 [Source:HGNC Symbol;Acc:HGNC:903]	18968	-0.266821026802063	-0.10908782	No	
+row_92	SFRP5	secreted frizzled related protein 5 [Source:HGNC Symbol;Acc:HGNC:10779]	20023	-0.28523391485214233	-0.1422513	No	
+row_93	WNT8A	Wnt family member 8A [Source:HGNC Symbol;Acc:HGNC:12788]	20336	-0.29055583477020264	-0.14936458	No	
+row_94	NFATC2	nuclear factor of activated T cells 2 [Source:HGNC Symbol;Acc:HGNC:7776]	20445	-0.29250869154930115	-0.14930937	No	
+row_95	CER1	cerberus 1, DAN family BMP antagonist [Source:HGNC Symbol;Acc:HGNC:1862]	20610	-0.2955963611602783	-0.15117446	No	
+row_96	RBX1	ring-box 1 [Source:HGNC Symbol;Acc:HGNC:9928]	21000	-0.3033123016357422	-0.16081649	No	
+row_97	PRKACG	protein kinase cAMP-activated catalytic subunit gamma [Source:HGNC Symbol;Acc:HGNC:9382]	21055	-0.3043983280658722	-0.15871458	No	
+row_98	WNT5A	Wnt family member 5A [Source:HGNC Symbol;Acc:HGNC:12784]	21111	-0.3057533800601959	-0.15662992	No	
+row_99	RUVBL1	RuvB like AAA ATPase 1 [Source:HGNC Symbol;Acc:HGNC:10474]	21165	-0.3070334196090698	-0.15445843	No	
+row_100	DKK4	dickkopf WNT signaling pathway inhibitor 4 [Source:HGNC Symbol;Acc:HGNC:2894]	21792	-0.32101011276245117	-0.17216666	No	
+row_101	WNT7A	Wnt family member 7A [Source:HGNC Symbol;Acc:HGNC:12786]	22010	-0.32617270946502686	-0.17548643	No	
+row_102	FZD5	frizzled class receptor 5 [Source:HGNC Symbol;Acc:HGNC:4043]	22087	-0.32816702127456665	-0.17384307	No	
+row_103	CACYBP	calcyclin binding protein [Source:HGNC Symbol;Acc:HGNC:30423]	22223	-0.33171528577804565	-0.174219	No	
+row_104	WNT10A	Wnt family member 10A [Source:HGNC Symbol;Acc:HGNC:13829]	22683	-0.34590598940849304	-0.18575332	No	
+row_105	MAPK10	mitogen-activated protein kinase 10 [Source:HGNC Symbol;Acc:HGNC:6872]	22784	-0.3485828936100006	-0.1846825	No	
+row_106	WNT8B	Wnt family member 8B [Source:HGNC Symbol;Acc:HGNC:12789]	23249	-0.3648752272129059	-0.19614309	No	
+row_107	PPP3R2	protein phosphatase 3 regulatory subunit B, beta [Source:HGNC Symbol;Acc:HGNC:9318]	23572	-0.37761351466178894	-0.20246461	No	
+row_108	WNT2B	Wnt family member 2B [Source:HGNC Symbol;Acc:HGNC:12781]	23595	-0.378458708524704	-0.19827084	No	
+row_109	SMAD3	SMAD family member 3 [Source:HGNC Symbol;Acc:HGNC:6769]	23614	-0.37929531931877136	-0.19392604	No	
+row_110	SMAD2	SMAD family member 2 [Source:HGNC Symbol;Acc:HGNC:6768]	23656	-0.3811349868774414	-0.19036244	No	
+row_111	PPP3R1	protein phosphatase 3 regulatory subunit B, alpha [Source:HGNC Symbol;Acc:HGNC:9317]	24220	-0.40996885299682617	-0.20469794	No	
+row_112	MAP3K7	mitogen-activated protein kinase kinase kinase 7 [Source:HGNC Symbol;Acc:HGNC:6859]	24319	-0.4166121482849121	-0.20266478	No	
+row_113	DVL1	dishevelled segment polarity protein 1 [Source:HGNC Symbol;Acc:HGNC:3084]	24332	-0.4174818992614746	-0.19760902	No	
+row_114	CXXC4	CXXC finger protein 4 [Source:HGNC Symbol;Acc:HGNC:24593]	24510	-0.4284757375717163	-0.19818637	No	
+row_115	PLCB2	phospholipase C beta 2 [Source:HGNC Symbol;Acc:HGNC:9055]	24537	-0.43056103587150574	-0.19344924	No	
+row_116	DKK1	dickkopf WNT signaling pathway inhibitor 1 [Source:HGNC Symbol;Acc:HGNC:2891]	25345	-0.4975491464138031	-0.21517941	No	
+row_117	WNT6	Wnt family member 6 [Source:HGNC Symbol;Acc:HGNC:12785]	25351	-0.4980402886867523	-0.20882191	No	
+row_118	CCND1	cyclin D1 [Source:HGNC Symbol;Acc:HGNC:1582]	25378	-0.499807208776474	-0.20317651	No	
+row_119	DAAM1	dishevelled associated activator of morphogenesis 1 [Source:HGNC Symbol;Acc:HGNC:18142]	25393	-0.5021308064460754	-0.19708048	No	
+row_120	PRKCB	protein kinase C beta [Source:HGNC Symbol;Acc:HGNC:9395]	25550	-0.5180127620697021	-0.1957481	No	
+row_121	SKP1	S-phase kinase associated protein 1 [Source:HGNC Symbol;Acc:HGNC:10899]	25551	-0.5181791186332703	-0.18895137	No	
+row_122	SENP2	SUMO specific peptidase 2 [Source:HGNC Symbol;Acc:HGNC:23116]	25684	-0.5313801169395447	-0.18660334	No	
+row_123	CHD8	chromodomain helicase DNA binding protein 8 [Source:HGNC Symbol;Acc:HGNC:20153]	25906	-0.55553138256073	-0.18705477	No	
+row_124	MAPK8	mitogen-activated protein kinase 8 [Source:HGNC Symbol;Acc:HGNC:6881]	25908	-0.555781900882721	-0.17979984	No	
+row_125	PPP2CA	protein phosphatase 2 catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:9299]	25977	-0.5623442530632019	-0.17480476	No	
+row_126	TCF7L1	transcription factor 7 like 1 [Source:HGNC Symbol;Acc:HGNC:11640]	25995	-0.5646289587020874	-0.16799401	No	
+row_127	PPP2R1A	protein phosphatase 2 scaffold subunit Aalpha [Source:HGNC Symbol;Acc:HGNC:9302]	26069	-0.5728658437728882	-0.16303599	No	
+row_128	APC	APC regulator of WNT signaling pathway [Source:HGNC Symbol;Acc:HGNC:583]	26305	-0.5967601537704468	-0.16343684	No	
+row_129	WNT10B	Wnt family member 10B [Source:HGNC Symbol;Acc:HGNC:12775]	26334	-0.6010411977767944	-0.15653363	No	
+row_130	WNT3	Wnt family member 3 [Source:HGNC Symbol;Acc:HGNC:12782]	26488	-0.6197628974914551	-0.15376161	No	
+row_131	PLCB1	phospholipase C beta 1 [Source:HGNC Symbol;Acc:HGNC:15917]	26687	-0.6458430886268616	-0.15222314	No	
+row_132	WNT4	Wnt family member 4 [Source:HGNC Symbol;Acc:HGNC:12783]	26757	-0.6570199131965637	-0.14602126	No	
+row_133	NLK	nemo like kinase [Source:HGNC Symbol;Acc:HGNC:29858]	26850	-0.6705029606819153	-0.14044785	No	
+row_134	RAC3	Rac family small GTPase 3 [Source:HGNC Symbol;Acc:HGNC:9803]	26986	-0.6932794451713562	-0.1360813	No	
+row_135	GSK3B	glycogen synthase kinase 3 beta [Source:HGNC Symbol;Acc:HGNC:4617]	27027	-0.7019252181053162	-0.128275	No	
+row_136	CSNK1E	casein kinase 1 epsilon [Source:HGNC Symbol;Acc:HGNC:2453]	27145	-0.7244600057601929	-0.12286921	No	
+row_137	VANGL2	VANGL planar cell polarity protein 2 [Source:HGNC Symbol;Acc:HGNC:15511]	27369	-0.7720338106155396	-0.1205509	No	
+row_138	FZD9	frizzled class receptor 9 [Source:HGNC Symbol;Acc:HGNC:4047]	27374	-0.7732850313186646	-0.11054811	No	
+row_139	PRKX	protein kinase cAMP-dependent X-linked catalytic subunit [Source:HGNC Symbol;Acc:HGNC:9441]	27805	-0.8886143565177917	-0.11394856	No	
+row_140	FZD6	frizzled class receptor 6 [Source:HGNC Symbol;Acc:HGNC:4044]	27838	-0.9007337689399719	-0.103254475	No	
+row_141	JUN	Jun proto-oncogene, AP-1 transcription factor subunit [Source:HGNC Symbol;Acc:HGNC:6204]	27904	-0.9213165640830994	-0.09344587	No	
+row_142	CCND3	cyclin D3 [Source:HGNC Symbol;Acc:HGNC:1585]	27926	-0.9312927722930908	-0.0819658	No	
+row_143	PPP3CC	protein phosphatase 3 catalytic subunit gamma [Source:HGNC Symbol;Acc:HGNC:9316]	27988	-0.9521408677101135	-0.071612835	No	
+row_144	BTRC	beta-transducin repeat containing E3 ubiquitin protein ligase [Source:HGNC Symbol;Acc:HGNC:1144]	28112	-0.9992265105247498	-0.06281313	No	
+row_145	PPP2CB	protein phosphatase 2 catalytic subunit beta [Source:HGNC Symbol;Acc:HGNC:9300]	28120	-1.0019618272781372	-0.04991593	No	
+row_146	SOX17	SRY-box transcription factor 17 [Source:HGNC Symbol;Acc:HGNC:18122]	28186	-1.0391039848327637	-0.038562357	No	
+row_147	PPP2R5B	protein phosphatase 2 regulatory subunit B'beta [Source:HGNC Symbol;Acc:HGNC:9310]	28259	-1.0747348070144653	-0.026986534	No	
+row_148	PLCB4	phospholipase C beta 4 [Source:HGNC Symbol;Acc:HGNC:9059]	28261	-1.0748618841171265	-0.012923047	No	
+row_149	RAC2	Rac family small GTPase 2 [Source:HGNC Symbol;Acc:HGNC:9802]	28268	-1.077557921409607	0.0010007321	No	
+row_150	PPP2R1B	protein phosphatase 2 scaffold subunit Abeta [Source:HGNC Symbol;Acc:HGNC:9303]	28307	-1.100908637046814	0.014110344	No	

@@ -1,0 +1,35 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GMPPA	GDP-mannose pyrophosphorylase A [Source:HGNC Symbol;Acc:HGNC:22923]	5206	0.16076791286468506	-0.16873626	No	
+row_1	GMDS	GDP-mannose 4,6-dehydratase [Source:HGNC Symbol;Acc:HGNC:4369]	5384	0.14752277731895447	-0.16316031	No	
+row_2	MPI	mannose phosphate isomerase [Source:HGNC Symbol;Acc:HGNC:7216]	5560	0.13213418424129486	-0.15874009	No	
+row_3	PMM1	phosphomannomutase 1 [Source:HGNC Symbol;Acc:HGNC:9114]	7062	0.024539655074477196	-0.20912744	No	
+row_4	FPGT	fucose-1-phosphate guanylyltransferase [Source:HGNC Symbol;Acc:HGNC:3825]	7146	0.019339004531502724	-0.21048166	No	
+row_5	PMM2	phosphomannomutase 2 [Source:HGNC Symbol;Acc:HGNC:9115]	8832	-0.030740588903427124	-0.2667915	No	
+row_6	PFKL	phosphofructokinase, liver type [Source:HGNC Symbol;Acc:HGNC:8876]	9499	-0.06565156579017639	-0.28478745	No	
+row_7	ALDOC	aldolase, fructose-bisphosphate C [Source:HGNC Symbol;Acc:HGNC:418]	11602	-0.1324576735496521	-0.34753817	No	
+row_8	GMPPB	GDP-mannose pyrophosphorylase B [Source:HGNC Symbol;Acc:HGNC:22932]	13376	-0.17384134232997894	-0.39552066	No	
+row_9	PFKFB2	6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 2 [Source:HGNC Symbol;Acc:HGNC:8873]	13486	-0.17576605081558228	-0.38532427	No	
+row_10	PFKFB1	6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 1 [Source:HGNC Symbol;Acc:HGNC:8872]	16914	-0.23658230900764465	-0.4859872	No	
+row_11	SORD	sorbitol dehydrogenase [Source:HGNC Symbol;Acc:HGNC:11184]	18886	-0.26571860909461975	-0.5335574	No	
+row_12	FBP2	fructose-bisphosphatase 2 [Source:HGNC Symbol;Acc:HGNC:3607]	19341	-0.27304303646087646	-0.5276448	No	
+row_13	HK2	hexokinase 2 [Source:HGNC Symbol;Acc:HGNC:4923]	20559	-0.294522225856781	-0.54662836	No	
+row_14	HK1	hexokinase 1 [Source:HGNC Symbol;Acc:HGNC:4922]	20755	-0.2984284460544586	-0.5296625	No	
+row_15	PFKM	phosphofructokinase, muscle [Source:HGNC Symbol;Acc:HGNC:8877]	21252	-0.3085550367832184	-0.52238643	No	
+row_16	HK3	hexokinase 3 [Source:HGNC Symbol;Acc:HGNC:4925]	23315	-0.36733493208885193	-0.5650376	Yes	
+row_17	PFKFB3	6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 3 [Source:HGNC Symbol;Acc:HGNC:8874]	23439	-0.3722555637359619	-0.53968173	Yes	
+row_18	MTMR2	myotubularin related protein 2 [Source:HGNC Symbol;Acc:HGNC:7450]	23998	-0.39768311381340027	-0.5274699	Yes	
+row_19	PFKFB4	6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 4 [Source:HGNC Symbol;Acc:HGNC:8875]	24050	-0.400653213262558	-0.49734178	Yes	
+row_20	KHK	ketohexokinase [Source:HGNC Symbol;Acc:HGNC:6315]	24276	-0.4136282503604889	-0.47224802	Yes	
+row_21	TPI1	triosephosphate isomerase 1 [Source:HGNC Symbol;Acc:HGNC:12009]	24489	-0.4274776577949524	-0.445598	Yes	
+row_22	MTMR6	myotubularin related protein 6 [Source:HGNC Symbol;Acc:HGNC:7453]	24584	-0.4338743984699249	-0.41432378	Yes	
+row_23	PHPT1	phosphohistidine phosphatase 1 [Source:HGNC Symbol;Acc:HGNC:30033]	24687	-0.44199711084365845	-0.38268164	Yes	
+row_24	AKR1B10	aldo-keto reductase family 1 member B10 [Source:HGNC Symbol;Acc:HGNC:382]	25158	-0.4800398349761963	-0.36084253	Yes	
+row_25	ALDOB	aldolase, fructose-bisphosphate B [Source:HGNC Symbol;Acc:HGNC:417]	25279	-0.4913797378540039	-0.32589546	Yes	
+row_26	FBP1	fructose-bisphosphatase 1 [Source:HGNC Symbol;Acc:HGNC:3606]	25317	-0.4945136606693268	-0.2878045	Yes	
+row_27	FCSK	fucose kinase [Source:HGNC Symbol;Acc:HGNC:29500]	26006	-0.5669323801994324	-0.26664752	Yes	
+row_28	GFUS	GDP-L-fucose synthase [Source:HGNC Symbol;Acc:HGNC:12390]	26152	-0.5822721123695374	-0.22533388	Yes	
+row_29	ALDOA	aldolase, fructose-bisphosphate A [Source:HGNC Symbol;Acc:HGNC:414]	26359	-0.6051309108734131	-0.184327	Yes	
+row_30	PFKP	phosphofructokinase, platelet [Source:HGNC Symbol;Acc:HGNC:8878]	26566	-0.6305763125419617	-0.14129376	Yes	
+row_31	MTMR1	myotubularin related protein 1 [Source:HGNC Symbol;Acc:HGNC:7449]	27439	-0.7869217991828918	-0.109033935	Yes	
+row_32	MTMR7	myotubularin related protein 7 [Source:HGNC Symbol;Acc:HGNC:7454]	27440	-0.7871206998825073	-0.04635063	Yes	
+row_33	AKR1B1	aldo-keto reductase family 1 member B [Source:HGNC Symbol;Acc:HGNC:381]	28355	-1.137699842453003	0.012379239	Yes	

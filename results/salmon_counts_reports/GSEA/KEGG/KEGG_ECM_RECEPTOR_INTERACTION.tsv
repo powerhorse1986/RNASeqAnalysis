@@ -1,0 +1,85 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	COL5A3	collagen type V alpha 3 chain [Source:HGNC Symbol;Acc:HGNC:14864]	34	2.3154444694519043	0.046838224	Yes	
+row_1	COL6A1	collagen type VI alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2211]	88	1.7447048425674438	0.08117471	Yes	
+row_2	COL6A3	collagen type VI alpha 3 chain [Source:HGNC Symbol;Acc:HGNC:2213]	93	1.7199137210845947	0.116708666	Yes	
+row_3	THBS1	thrombospondin 1 [Source:HGNC Symbol;Acc:HGNC:11785]	102	1.662447214126587	0.15091094	Yes	
+row_4	COL6A2	collagen type VI alpha 2 chain [Source:HGNC Symbol;Acc:HGNC:2212]	127	1.5188220739364624	0.1815753	Yes	
+row_5	CD36	CD36 molecule [Source:HGNC Symbol;Acc:HGNC:1663]	339	1.171934723854065	0.19851239	Yes	
+row_6	SDC2	syndecan 2 [Source:HGNC Symbol;Acc:HGNC:10659]	605	0.9502798914909363	0.20896567	Yes	
+row_7	TNC	tenascin C [Source:HGNC Symbol;Acc:HGNC:5318]	715	0.8862512707710266	0.2235403	Yes	
+row_8	FN1	fibronectin 1 [Source:HGNC Symbol;Acc:HGNC:3778]	763	0.8614173531532288	0.23976563	Yes	
+row_9	COL1A2	collagen type I alpha 2 chain [Source:HGNC Symbol;Acc:HGNC:2198]	982	0.7715064883232117	0.24815269	Yes	
+row_10	HMMR	hyaluronan mediated motility receptor [Source:HGNC Symbol;Acc:HGNC:5012]	1137	0.7196769118309021	0.25770035	Yes	
+row_11	TNXB	tenascin XB [Source:HGNC Symbol;Acc:HGNC:11976]	1274	0.6807616949081421	0.26706967	Yes	
+row_12	THBS4	thrombospondin 4 [Source:HGNC Symbol;Acc:HGNC:11788]	1329	0.6686638593673706	0.27905247	Yes	
+row_13	COMP	cartilage oligomeric matrix protein [Source:HGNC Symbol;Acc:HGNC:2227]	1387	0.6547864675521851	0.29064262	Yes	
+row_14	COL11A1	collagen type XI alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2186]	1432	0.6433300971984863	0.30244926	Yes	
+row_15	HSPG2	heparan sulfate proteoglycan 2 [Source:HGNC Symbol;Acc:HGNC:5273]	1433	0.643039345741272	0.3157869	Yes	
+row_16	ITGA8	integrin subunit alpha 8 [Source:HGNC Symbol;Acc:HGNC:6144]	1457	0.6363884210586548	0.32818314	Yes	
+row_17	SDC1	syndecan 1 [Source:HGNC Symbol;Acc:HGNC:10658]	1627	0.6004316210746765	0.33473352	Yes	
+row_18	ITGA11	integrin subunit alpha 11 [Source:HGNC Symbol;Acc:HGNC:6136]	1813	0.5647656321525574	0.3399852	Yes	
+row_19	ITGA10	integrin subunit alpha 10 [Source:HGNC Symbol;Acc:HGNC:6135]	2096	0.5165337324142456	0.34084806	Yes	
+row_20	COL3A1	collagen type III alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2201]	2442	0.4603995978832245	0.33834592	Yes	
+row_21	COL5A2	collagen type V alpha 2 chain [Source:HGNC Symbol;Acc:HGNC:2210]	2461	0.45812714099884033	0.3472194	Yes	
+row_22	ITGAV	integrin subunit alpha V [Source:HGNC Symbol;Acc:HGNC:6150]	2604	0.4369778335094452	0.35132265	Yes	
+row_23	ITGA1	integrin subunit alpha 1 [Source:HGNC Symbol;Acc:HGNC:6134]	2623	0.4344968795776367	0.359706	Yes	
+row_24	THBS2	thrombospondin 2 [Source:HGNC Symbol;Acc:HGNC:11786]	2671	0.42764365673065186	0.3669342	Yes	
+row_25	ITGA9	integrin subunit alpha 9 [Source:HGNC Symbol;Acc:HGNC:6145]	2928	0.3905276656150818	0.36609176	No	
+row_26	LAMA2	laminin subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:6482]	3334	0.3427756726741791	0.35905397	No	
+row_27	SDC3	syndecan 3 [Source:HGNC Symbol;Acc:HGNC:10660]	3414	0.33348095417022705	0.36321124	No	
+row_28	LAMC1	laminin subunit gamma 1 [Source:HGNC Symbol;Acc:HGNC:6492]	3766	0.29483264684677124	0.35706538	No	
+row_29	COL1A1	collagen type I alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2197]	4050	0.26370254158973694	0.3526492	No	
+row_30	ITGB5	integrin subunit beta 5 [Source:HGNC Symbol;Acc:HGNC:6160]	4113	0.25738632678985596	0.355822	No	
+row_31	THBS3	thrombospondin 3 [Source:HGNC Symbol;Acc:HGNC:11787]	4565	0.2117791324853897	0.34446028	No	
+row_32	COL5A1	collagen type V alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2209]	4650	0.20402511954307556	0.34575778	No	
+row_33	LAMC3	laminin subunit gamma 3 [Source:HGNC Symbol;Acc:HGNC:6494]	4811	0.1911967694759369	0.34413436	No	
+row_34	COL6A6	collagen type VI alpha 6 chain [Source:HGNC Symbol;Acc:HGNC:27023]	5129	0.1656975895166397	0.33649772	No	
+row_35	CD44	CD44 molecule (Indian blood group) [Source:HGNC Symbol;Acc:HGNC:1681]	6361	0.07041498273611069	0.2949569	No	
+row_36	LAMB2	laminin subunit beta 2 [Source:HGNC Symbol;Acc:HGNC:6487]	6873	0.03520319610834122	0.27783677	No	
+row_37	LAMB1	laminin subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:6486]	7056	0.02478482574224472	0.27199322	No	
+row_38	COL11A2	collagen type XI alpha 2 chain [Source:HGNC Symbol;Acc:HGNC:2187]	8645	-0.01963801681995392	0.21692844	No	
+row_39	CD47	CD47 molecule [Source:HGNC Symbol;Acc:HGNC:1682]	8811	-0.029814327135682106	0.21178304	No	
+row_40	ITGA7	integrin subunit alpha 7 [Source:HGNC Symbol;Acc:HGNC:6143]	9095	-0.045126259326934814	0.20283325	No	
+row_41	CHAD	chondroadherin [Source:HGNC Symbol;Acc:HGNC:1909]	9961	-0.08390156924724579	0.17435727	No	
+row_42	GP1BB	glycoprotein Ib platelet subunit beta [Source:HGNC Symbol;Acc:HGNC:4440]	10899	-0.10946280509233475	0.14389636	No	
+row_43	ITGA4	integrin subunit alpha 4 [Source:HGNC Symbol;Acc:HGNC:6140]	11598	-0.13234582543373108	0.12225884	No	
+row_44	ITGB7	integrin subunit beta 7 [Source:HGNC Symbol;Acc:HGNC:6162]	12546	-0.1572904884815216	0.092440635	No	
+row_45	ITGB1	integrin subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:6153]	12998	-0.16455136239528656	0.08009932	No	
+row_46	ITGB3	integrin subunit beta 3 [Source:HGNC Symbol;Acc:HGNC:6156]	13049	-0.16630370914936066	0.08180212	No	
+row_47	TNN	tenascin N [Source:HGNC Symbol;Acc:HGNC:22942]	14237	-0.1915951520204544	0.044311747	No	
+row_48	ITGA2B	integrin subunit alpha 2b [Source:HGNC Symbol;Acc:HGNC:6138]	14797	-0.20076002180576324	0.0289488	No	
+row_49	SV2B	synaptic vesicle glycoprotein 2B [Source:HGNC Symbol;Acc:HGNC:16874]	14856	-0.20235536992549896	0.031119905	No	
+row_50	GP9	glycoprotein IX platelet [Source:HGNC Symbol;Acc:HGNC:4444]	15154	-0.2085549533367157	0.025070839	No	
+row_51	GP6	glycoprotein VI platelet [Source:HGNC Symbol;Acc:HGNC:14388]	15663	-0.21744519472122192	0.011835503	No	
+row_52	LAMB4	laminin subunit beta 4 [Source:HGNC Symbol;Acc:HGNC:6491]	15939	-0.2210797667503357	0.006814725	No	
+row_53	GP1BA	glycoprotein Ib platelet subunit alpha [Source:HGNC Symbol;Acc:HGNC:4439]	17735	-0.24878190457820892	-0.050728194	No	
+row_54	COL2A1	collagen type II alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2200]	17768	-0.2491586059331894	-0.046678085	No	
+row_55	SV2C	synaptic vesicle glycoprotein 2C [Source:HGNC Symbol;Acc:HGNC:30670]	18387	-0.25836580991744995	-0.06290719	No	
+row_56	ITGB6	integrin subunit beta 6 [Source:HGNC Symbol;Acc:HGNC:6161]	21540	-0.31540045142173767	-0.16647114	No	
+row_57	GP5	glycoprotein V platelet [Source:HGNC Symbol;Acc:HGNC:4443]	21542	-0.31543707847595215	-0.15996341	No	
+row_58	IBSP	integrin binding sialoprotein [Source:HGNC Symbol;Acc:HGNC:5341]	22663	-0.345166951417923	-0.19192803	No	
+row_59	SV2A	synaptic vesicle glycoprotein 2A [Source:HGNC Symbol;Acc:HGNC:20566]	23013	-0.35545971989631653	-0.19674653	No	
+row_60	VTN	vitronectin [Source:HGNC Symbol;Acc:HGNC:12724]	23492	-0.3747878670692444	-0.20567037	No	
+row_61	COL4A4	collagen type IV alpha 4 chain [Source:HGNC Symbol;Acc:HGNC:2206]	23747	-0.38493290543556213	-0.206559	No	
+row_62	TNR	tenascin R [Source:HGNC Symbol;Acc:HGNC:11953]	24371	-0.42035001516342163	-0.21960296	No	
+row_63	DAG1	dystroglycan 1 [Source:HGNC Symbol;Acc:HGNC:2666]	25031	-0.4691203534603119	-0.2328929	No	
+row_64	ITGB4	integrin subunit beta 4 [Source:HGNC Symbol;Acc:HGNC:6158]	25091	-0.4751332104206085	-0.2250989	No	
+row_65	RELN	reelin [Source:HGNC Symbol;Acc:HGNC:9957]	25285	-0.49178093671798706	-0.22164048	No	
+row_66	LAMB3	laminin subunit beta 3 [Source:HGNC Symbol;Acc:HGNC:6490]	25384	-0.5003798604011536	-0.21468517	No	
+row_67	LAMA5	laminin subunit alpha 5 [Source:HGNC Symbol;Acc:HGNC:6485]	25463	-0.5087159872055054	-0.2068583	No	
+row_68	VWF	von Willebrand factor [Source:HGNC Symbol;Acc:HGNC:12726]	25555	-0.5186870098114014	-0.19927876	No	
+row_69	ITGB8	integrin subunit beta 8 [Source:HGNC Symbol;Acc:HGNC:6163]	25931	-0.5582095384597778	-0.20080015	No	
+row_70	LAMA3	laminin subunit alpha 3 [Source:HGNC Symbol;Acc:HGNC:6483]	26273	-0.5938910841941833	-0.20039375	No	
+row_71	SDC4	syndecan 4 [Source:HGNC Symbol;Acc:HGNC:10661]	26508	-0.6236813068389893	-0.19563174	No	
+row_72	LAMA1	laminin subunit alpha 1 [Source:HGNC Symbol;Acc:HGNC:6481]	26773	-0.6596638560295105	-0.19117135	No	
+row_73	LAMA4	laminin subunit alpha 4 [Source:HGNC Symbol;Acc:HGNC:6484]	27426	-0.7843482494354248	-0.19767845	No	
+row_74	AGRN	agrin [Source:HGNC Symbol;Acc:HGNC:329]	27474	-0.7959673404693604	-0.18281066	No	
+row_75	LAMC2	laminin subunit gamma 2 [Source:HGNC Symbol;Acc:HGNC:6493]	27903	-0.921087384223938	-0.1786568	No	
+row_76	COL4A1	collagen type IV alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2202]	27989	-0.9523425102233887	-0.16187295	No	
+row_77	COL4A2	collagen type IV alpha 2 chain [Source:HGNC Symbol;Acc:HGNC:2203]	28026	-0.9647130370140076	-0.14312087	No	
+row_78	ITGA5	integrin subunit alpha 5 [Source:HGNC Symbol;Acc:HGNC:6141]	28092	-0.9915022850036621	-0.124826156	No	
+row_79	ITGA6	integrin subunit alpha 6 [Source:HGNC Symbol;Acc:HGNC:6142]	28230	-1.0582062005996704	-0.107663006	No	
+row_80	ITGA2	integrin subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:6137]	28341	-1.1260381937026978	-0.08814975	No	
+row_81	ITGA3	integrin subunit alpha 3 [Source:HGNC Symbol;Acc:HGNC:6139]	28603	-1.4212480783462524	-0.067788124	No	
+row_82	COL4A6	collagen type IV alpha 6 chain [Source:HGNC Symbol;Acc:HGNC:2208]	28657	-1.6440327167510986	-0.03553973	No	
+row_83	SPP1	secreted phosphoprotein 1 [Source:HGNC Symbol;Acc:HGNC:11255]	28685	-1.801024317741394	8.7314384E-4	No	

@@ -1,0 +1,36 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	POLD3	DNA polymerase delta 3, accessory subunit [Source:HGNC Symbol;Acc:HGNC:20932]	289	1.2334094047546387	0.08226177	Yes	
+row_1	MBD4	methyl-CpG binding domain 4, DNA glycosylase [Source:HGNC Symbol;Acc:HGNC:6919]	465	1.0456531047821045	0.15444252	Yes	
+row_2	PARP3	poly(ADP-ribose) polymerase family member 3 [Source:HGNC Symbol;Acc:HGNC:273]	970	0.7753901481628418	0.19491686	Yes	
+row_3	PARP1	poly(ADP-ribose) polymerase 1 [Source:HGNC Symbol;Acc:HGNC:270]	1060	0.7462493181228638	0.2476816	Yes	
+row_4	PARP4	poly(ADP-ribose) polymerase family member 4 [Source:HGNC Symbol;Acc:HGNC:271]	1075	0.7409869432449341	0.3026678	Yes	
+row_5	LIG1	DNA ligase 1 [Source:HGNC Symbol;Acc:HGNC:6598]	1983	0.5334866046905518	0.31097832	Yes	
+row_6	POLD2	DNA polymerase delta 2, accessory subunit [Source:HGNC Symbol;Acc:HGNC:9176]	1992	0.5322569012641907	0.35054708	Yes	
+row_7	POLE2	DNA polymerase epsilon 2, accessory subunit [Source:HGNC Symbol;Acc:HGNC:9178]	2037	0.5255956053733826	0.3883617	Yes	
+row_8	HMGB1	high mobility group box 1 [Source:HGNC Symbol;Acc:HGNC:4983]	2167	0.5022004842758179	0.4214607	Yes	
+row_9	MUTYH	mutY DNA glycosylase [Source:HGNC Symbol;Acc:HGNC:7527]	2214	0.4948677122592926	0.4569051	Yes	
+row_10	POLE	DNA polymerase epsilon, catalytic subunit [Source:HGNC Symbol;Acc:HGNC:9177]	2803	0.4058191478252411	0.46678203	Yes	
+row_11	OGG1	8-oxoguanine DNA glycosylase [Source:HGNC Symbol;Acc:HGNC:8125]	2993	0.38366377353668213	0.48891437	Yes	
+row_12	NEIL3	nei like DNA glycosylase 3 [Source:HGNC Symbol;Acc:HGNC:24573]	3024	0.3797086179256439	0.5162953	Yes	
+row_13	APEX1	apurinic/apyrimidinic endodeoxyribonuclease 1 [Source:HGNC Symbol;Acc:HGNC:587]	3247	0.3526662290096283	0.53495616	Yes	
+row_14	XRCC1	X-ray repair cross complementing 1 [Source:HGNC Symbol;Acc:HGNC:12828]	3777	0.29326483607292175	0.5384641	Yes	
+row_15	POLD1	DNA polymerase delta 1, catalytic subunit [Source:HGNC Symbol;Acc:HGNC:9175]	4103	0.25809410214424133	0.546453	Yes	
+row_16	FEN1	flap structure-specific endonuclease 1 [Source:HGNC Symbol;Acc:HGNC:3650]	4448	0.22258417308330536	0.55112076	Yes	
+row_17	PCNA	proliferating cell nuclear antigen [Source:HGNC Symbol;Acc:HGNC:8729]	5341	0.15050071477890015	0.53128195	No	
+row_18	POLL	DNA polymerase lambda [Source:HGNC Symbol;Acc:HGNC:9184]	5643	0.12423428148031235	0.5300862	No	
+row_19	PARP2	poly(ADP-ribose) polymerase 2 [Source:HGNC Symbol;Acc:HGNC:272]	7178	0.017712948843836784	0.47791812	No	
+row_20	LIG3	DNA ligase 3 [Source:HGNC Symbol;Acc:HGNC:6600]	7388	0.0050245062448084354	0.47100595	No	
+row_21	APEX2	apurinic/apyrimidinic endodeoxyribonuclease 2 [Source:HGNC Symbol;Acc:HGNC:17889]	8464	-0.009327808395028114	0.4342165	No	
+row_22	POLE3	DNA polymerase epsilon 3, accessory subunit [Source:HGNC Symbol;Acc:HGNC:13546]	8965	-0.03858319669961929	0.41966885	No	
+row_23	UNG	uracil DNA glycosylase [Source:HGNC Symbol;Acc:HGNC:12572]	9334	-0.057203538715839386	0.4111184	No	
+row_24	NTHL1	nth like DNA glycosylase 1 [Source:HGNC Symbol;Acc:HGNC:8028]	9951	-0.08359074592590332	0.3958951	No	
+row_25	NEIL2	nei like DNA glycosylase 2 [Source:HGNC Symbol;Acc:HGNC:18956]	12605	-0.15789225697517395	0.3151994	No	
+row_26	POLD4	DNA polymerase delta 4, accessory subunit [Source:HGNC Symbol;Acc:HGNC:14106]	15337	-0.21133512258529663	0.2357847	No	
+row_27	NEIL1	nei like DNA glycosylase 1 [Source:HGNC Symbol;Acc:HGNC:18448]	17412	-0.24376046657562256	0.18170866	No	
+row_28	HMGB1P40	high mobility group box 1 pseudogene 40 [Source:HGNC Symbol;Acc:HGNC:39187]	17752	-0.24898342788219452	0.18852721	No	
+row_29	HMGB1P1	high mobility group box 1 pseudogene 1 [Source:HGNC Symbol;Acc:HGNC:4993]	19798	-0.2809918522834778	0.13824984	No	
+row_30	TDG	thymine DNA glycosylase [Source:HGNC Symbol;Acc:HGNC:11700]	22149	-0.3297716975212097	0.080988325	No	
+row_31	MPG	N-methylpurine DNA glycosylase [Source:HGNC Symbol;Acc:HGNC:7211]	22323	-0.3347301781177521	0.10001517	No	
+row_32	POLB	DNA polymerase beta [Source:HGNC Symbol;Acc:HGNC:9174]	25347	-0.49765047430992126	0.031852894	No	
+row_33	POLE4	DNA polymerase epsilon 4, accessory subunit [Source:HGNC Symbol;Acc:HGNC:18755]	25359	-0.4984821081161499	0.06878844	No	
+row_34	SMUG1	single-strand-selective monofunctional uracil-DNA glycosylase 1 [Source:HGNC Symbol;Acc:HGNC:17148]	26663	-0.6416045427322388	0.071383834	No	
