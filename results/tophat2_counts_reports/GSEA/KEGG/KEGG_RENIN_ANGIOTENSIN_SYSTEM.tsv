@@ -1,0 +1,18 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CPA3	carboxypeptidase A3 [Source:HGNC Symbol;Acc:HGNC:2298]	3429	0.5369277596473694	-0.024467995	No	
+row_1	ACE2	angiotensin converting enzyme 2 [Source:HGNC Symbol;Acc:HGNC:13557]	9346	0.28682568669319153	-0.14079073	No	
+row_2	CTSG	cathepsin G [Source:HGNC Symbol;Acc:HGNC:2532]	10123	0.2776682376861572	-0.12823227	No	
+row_3	AGTR2	angiotensin II receptor type 2 [Source:HGNC Symbol;Acc:HGNC:338]	14132	0.23947572708129883	-0.2018065	No	
+row_4	MAS1	MAS1 proto-oncogene, G protein-coupled receptor [Source:HGNC Symbol;Acc:HGNC:6899]	14694	0.2347731739282608	-0.18878339	No	
+row_5	CMA1	chymase 1 [Source:HGNC Symbol;Acc:HGNC:2097]	27240	0.05807168781757355	-0.49919936	No	
+row_6	REN	renin [Source:HGNC Symbol;Acc:HGNC:9958]	30885	-0.0050596934743225574	-0.5907356	No	
+row_7	THOP1	thimet oligopeptidase 1 [Source:HGNC Symbol;Acc:HGNC:11793]	31687	-0.04736921191215515	-0.6054962	No	
+row_8	NLN	neurolysin [Source:HGNC Symbol;Acc:HGNC:16058]	34823	-0.26684775948524475	-0.6538286	Yes	
+row_9	LNPEP	leucyl and cystinyl aminopeptidase [Source:HGNC Symbol;Acc:HGNC:6656]	36293	-0.40908652544021606	-0.6435609	Yes	
+row_10	AGT	angiotensinogen [Source:HGNC Symbol;Acc:HGNC:333]	36617	-0.45067888498306274	-0.5995018	Yes	
+row_11	CTSA	cathepsin A [Source:HGNC Symbol;Acc:HGNC:9251]	37002	-0.5022808313369751	-0.5510052	Yes	
+row_12	AGTR1	angiotensin II receptor type 1 [Source:HGNC Symbol;Acc:HGNC:336]	37202	-0.5298247337341309	-0.49463993	Yes	
+row_13	ENPEP	glutamyl aminopeptidase [Source:HGNC Symbol;Acc:HGNC:3355]	38231	-0.7308253645896912	-0.4359403	Yes	
+row_14	ANPEP	alanyl aminopeptidase, membrane [Source:HGNC Symbol;Acc:HGNC:500]	38993	-1.021726131439209	-0.33678114	Yes	
+row_15	MME	membrane metalloendopeptidase [Source:HGNC Symbol;Acc:HGNC:7154]	39088	-1.0807045698165894	-0.21392539	Yes	
+row_16	ACE	angiotensin I converting enzyme [Source:HGNC Symbol;Acc:HGNC:2707]	39492	-1.9514656066894531	0.0020225113	Yes	

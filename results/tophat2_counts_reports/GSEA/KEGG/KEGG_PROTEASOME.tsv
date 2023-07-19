@@ -1,0 +1,46 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PSMD2	proteasome 26S subunit ubiquitin receptor, non-ATPase 2 [Source:HGNC Symbol;Acc:HGNC:9559]	569	1.0652172565460205	0.033390142	Yes	
+row_1	PSMD11	proteasome 26S subunit, non-ATPase 11 [Source:HGNC Symbol;Acc:HGNC:9556]	646	1.0302413702011108	0.07768346	Yes	
+row_2	PSME2	proteasome activator subunit 2 [Source:HGNC Symbol;Acc:HGNC:9569]	1085	0.8941693902015686	0.10671461	Yes	
+row_3	PSMD3	proteasome 26S subunit, non-ATPase 3 [Source:HGNC Symbol;Acc:HGNC:9560]	1210	0.8622721433639526	0.1422586	Yes	
+row_4	PSMD8	proteasome 26S subunit, non-ATPase 8 [Source:HGNC Symbol;Acc:HGNC:9566]	1370	0.8243643641471863	0.17521662	Yes	
+row_5	PSMD14	proteasome 26S subunit, non-ATPase 14 [Source:HGNC Symbol;Acc:HGNC:16889]	1492	0.7975035905838013	0.20793103	Yes	
+row_6	PSMD12	proteasome 26S subunit, non-ATPase 12 [Source:HGNC Symbol;Acc:HGNC:9557]	1580	0.7816144824028015	0.24079281	Yes	
+row_7	POMP	proteasome maturation protein [Source:HGNC Symbol;Acc:HGNC:20330]	1825	0.7339311838150024	0.26754367	Yes	
+row_8	PSME4	proteasome activator subunit 4 [Source:HGNC Symbol;Acc:HGNC:20635]	2031	0.6980658173561096	0.2936723	Yes	
+row_9	PSMD6	proteasome 26S subunit, non-ATPase 6 [Source:HGNC Symbol;Acc:HGNC:9564]	2094	0.6878333687782288	0.32295957	Yes	
+row_10	PSMB5	proteasome 20S subunit beta 5 [Source:HGNC Symbol;Acc:HGNC:9542]	2203	0.6732139587402344	0.3504273	Yes	
+row_11	PSMA6	proteasome 20S subunit alpha 6 [Source:HGNC Symbol;Acc:HGNC:9535]	2270	0.6647385358810425	0.37857738	Yes	
+row_12	PSME3	proteasome activator subunit 3 [Source:HGNC Symbol;Acc:HGNC:9570]	2360	0.6529614925384521	0.40561727	Yes	
+row_13	PSMB2	proteasome 20S subunit beta 2 [Source:HGNC Symbol;Acc:HGNC:9539]	2590	0.6219658255577087	0.42772493	Yes	
+row_14	PSMD1	proteasome 26S subunit, non-ATPase 1 [Source:HGNC Symbol;Acc:HGNC:9554]	2629	0.6175039410591125	0.45446444	Yes	
+row_15	PSMC4	proteasome 26S subunit, ATPase 4 [Source:HGNC Symbol;Acc:HGNC:9551]	2898	0.5876713395118713	0.474047	Yes	
+row_16	PSMB6	proteasome 20S subunit beta 6 [Source:HGNC Symbol;Acc:HGNC:9543]	3195	0.5577802062034607	0.49158034	Yes	
+row_17	PSMB8	proteasome 20S subunit beta 8 [Source:HGNC Symbol;Acc:HGNC:9545]	3396	0.5398684740066528	0.5107388	Yes	
+row_18	PSMA5	proteasome 20S subunit alpha 5 [Source:HGNC Symbol;Acc:HGNC:9534]	3435	0.536342442035675	0.53383744	Yes	
+row_19	PSMC1	proteasome 26S subunit, ATPase 1 [Source:HGNC Symbol;Acc:HGNC:9547]	3462	0.5337595343589783	0.55712384	Yes	
+row_20	PSMD7	proteasome 26S subunit, non-ATPase 7 [Source:HGNC Symbol;Acc:HGNC:9565]	3580	0.5228258967399597	0.5776175	Yes	
+row_21	PSMB4	proteasome 20S subunit beta 4 [Source:HGNC Symbol;Acc:HGNC:9541]	3670	0.5146818161010742	0.5984543	Yes	
+row_22	PSMA1	proteasome 20S subunit alpha 1 [Source:HGNC Symbol;Acc:HGNC:9530]	3920	0.4935230016708374	0.6142941	Yes	
+row_23	PSMC2	proteasome 26S subunit, ATPase 2 [Source:HGNC Symbol;Acc:HGNC:9548]	4263	0.46754902601242065	0.626616	Yes	
+row_24	PSMA7	proteasome 20S subunit alpha 7 [Source:HGNC Symbol;Acc:HGNC:9536]	4444	0.45550355315208435	0.6424959	Yes	
+row_25	PSME1	proteasome activator subunit 1 [Source:HGNC Symbol;Acc:HGNC:9568]	4698	0.4375859498977661	0.6557252	Yes	
+row_26	PSMD13	proteasome 26S subunit, non-ATPase 13 [Source:HGNC Symbol;Acc:HGNC:9558]	4700	0.4373711943626404	0.6753201	Yes	
+row_27	PSMA4	proteasome 20S subunit alpha 4 [Source:HGNC Symbol;Acc:HGNC:9533]	5107	0.41186976432800293	0.6835251	Yes	
+row_28	PSMB10	proteasome 20S subunit beta 10 [Source:HGNC Symbol;Acc:HGNC:9538]	5297	0.4005507528781891	0.69671214	Yes	
+row_29	PSMA3	proteasome 20S subunit alpha 3 [Source:HGNC Symbol;Acc:HGNC:9532]	5464	0.39167338609695435	0.7100828	Yes	
+row_30	PSMB1	proteasome 20S subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:9537]	5486	0.3904552459716797	0.7270672	Yes	
+row_31	PSMB9	proteasome 20S subunit beta 9 [Source:HGNC Symbol;Acc:HGNC:9546]	5650	0.3825843930244446	0.740106	Yes	
+row_32	PSMA2	proteasome 20S subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:9531]	6209	0.3581019341945648	0.7420536	Yes	
+row_33	PSMB7	proteasome 20S subunit beta 7 [Source:HGNC Symbol;Acc:HGNC:9544]	7280	0.3237483501434326	0.7295074	No	
+row_34	PSMC5	proteasome 26S subunit, ATPase 5 [Source:HGNC Symbol;Acc:HGNC:9552]	10202	0.2765810191631317	0.6680177	No	
+row_35	PSMB11	proteasome subunit beta 11 [Source:HGNC Symbol;Acc:HGNC:31963]	13308	0.24699409306049347	0.60054576	No	
+row_36	SEM1	SEM1 26S proteasome subunit [Source:HGNC Symbol;Acc:HGNC:10845]	13947	0.24097250401973724	0.5952152	No	
+row_37	PSMD4	proteasome 26S subunit ubiquitin receptor, non-ATPase 4 [Source:HGNC Symbol;Acc:HGNC:9561]	17041	0.21383053064346313	0.5265592	No	
+row_38	PSMC1P4	proteasome 26S subunit, ATPase 1 pseudogene 4 [Source:HGNC Symbol;Acc:HGNC:39779]	17467	0.21033325791358948	0.5252427	No	
+row_39	PSMA8	proteasome 20S subunit alpha 8 [Source:HGNC Symbol;Acc:HGNC:22985]	20536	0.17494727671146393	0.45547485	No	
+row_40	PSMA6P4	proteasome subunit alpha 6 pseudogene 4 [Source:HGNC Symbol;Acc:HGNC:39609]	22410	0.14932088553905487	0.41478917	No	
+row_41	PSMC6	proteasome 26S subunit, ATPase 6 [Source:HGNC Symbol;Acc:HGNC:9553]	23154	0.14181247353553772	0.402354	No	
+row_42	PSMC3	proteasome 26S subunit, ATPase 3 [Source:HGNC Symbol;Acc:HGNC:9549]	24059	0.12465549260377884	0.3850761	No	
+row_43	IFNG	interferon gamma [Source:HGNC Symbol;Acc:HGNC:5438]	25252	0.09965077042579651	0.35939053	No	
+row_44	PSMF1	proteasome inhibitor subunit 1 [Source:HGNC Symbol;Acc:HGNC:9571]	31962	-0.06373599916696548	0.1925219	No	

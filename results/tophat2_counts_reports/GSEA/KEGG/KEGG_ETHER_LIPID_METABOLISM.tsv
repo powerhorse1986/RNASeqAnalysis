@@ -1,0 +1,34 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PLA2G12A	phospholipase A2 group XIIA [Source:HGNC Symbol;Acc:HGNC:18554]	951	0.9353383779525757	0.023982918	No	
+row_1	PLD1	phospholipase D1 [Source:HGNC Symbol;Acc:HGNC:9067]	1097	0.8910561800003052	0.06607614	No	
+row_2	PAFAH1B3	platelet activating factor acetylhydrolase 1b catalytic subunit 3 [Source:HGNC Symbol;Acc:HGNC:8576]	1749	0.748399019241333	0.08804599	No	
+row_3	PLA2G4A	phospholipase A2 group IVA [Source:HGNC Symbol;Acc:HGNC:9035]	1916	0.7193068861961365	0.12078788	No	
+row_4	PAFAH1B2	platelet activating factor acetylhydrolase 1b catalytic subunit 2 [Source:HGNC Symbol;Acc:HGNC:8575]	2690	0.6112896800041199	0.13263097	No	
+row_5	PLA2G7	phospholipase A2 group VII [Source:HGNC Symbol;Acc:HGNC:9040]	3198	0.5572888255119324	0.1484282	No	
+row_6	LPCAT2	lysophosphatidylcholine acyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:26032]	3199	0.557266116142273	0.17704673	No	
+row_7	PLPP2	phospholipid phosphatase 2 [Source:HGNC Symbol;Acc:HGNC:9230]	4507	0.4512224793434143	0.16716424	No	
+row_8	PLA2G3	phospholipase A2 group III [Source:HGNC Symbol;Acc:HGNC:17934]	5848	0.3740544617176056	0.15248415	No	
+row_9	PLA2G10	phospholipase A2 group X [Source:HGNC Symbol;Acc:HGNC:9029]	6082	0.3633672297000885	0.1652522	No	
+row_10	PLA2G2D	phospholipase A2 group IID [Source:HGNC Symbol;Acc:HGNC:9033]	8282	0.30261877179145813	0.12517868	No	
+row_11	PLA2G12B	phospholipase A2 group XIIB [Source:HGNC Symbol;Acc:HGNC:18555]	8695	0.29607078433036804	0.12996364	No	
+row_12	PLA2G2C	phospholipase A2 group IIC [Source:HGNC Symbol;Acc:HGNC:9032]	9376	0.28651148080825806	0.12747972	No	
+row_13	PLA2G4E	phospholipase A2 group IVE [Source:HGNC Symbol;Acc:HGNC:24791]	10276	0.27580446004867554	0.11890724	No	
+row_14	PLA2G2E	phospholipase A2 group IIE [Source:HGNC Symbol;Acc:HGNC:13414]	11337	0.26485857367515564	0.10570082	No	
+row_15	PLA2G2F	phospholipase A2 group IIF [Source:HGNC Symbol;Acc:HGNC:30040]	11526	0.26313516497612	0.11445951	No	
+row_16	LPCAT4	lysophosphatidylcholine acyltransferase 4 [Source:HGNC Symbol;Acc:HGNC:30059]	13638	0.24372105300426483	0.07358689	No	
+row_17	CHPT1	choline phosphotransferase 1 [Source:HGNC Symbol;Acc:HGNC:17852]	14079	0.24001233279705048	0.0747848	No	
+row_18	AGPS	alkylglycerone phosphate synthase [Source:HGNC Symbol;Acc:HGNC:327]	14864	0.23346248269081116	0.0669463	No	
+row_19	ENPP6	ectonucleotide pyrophosphatase/phosphodiesterase 6 [Source:HGNC Symbol;Acc:HGNC:23409]	21776	0.1637296825647354	-0.09943036	No	
+row_20	PAFAH1B1	platelet activating factor acetylhydrolase 1b regulatory subunit 1 [Source:HGNC Symbol;Acc:HGNC:8574]	26528	0.0736616924405098	-0.21580425	No	
+row_21	PLA2G4B	phospholipase A2 group IVB [Source:HGNC Symbol;Acc:HGNC:9036]	31484	-0.036067333072423935	-0.33926815	No	
+row_22	PLA2G1B	phospholipase A2 group IB [Source:HGNC Symbol;Acc:HGNC:9030]	32237	-0.07917554676532745	-0.35422078	No	
+row_23	JMJD7-PLA2G4B	JMJD7-PLA2G4B readthrough [Source:HGNC Symbol;Acc:HGNC:34449]	33606	-0.1666354387998581	-0.38026106	No	
+row_24	PLA2G2A	phospholipase A2 group IIA [Source:HGNC Symbol;Acc:HGNC:9031]	34991	-0.2804572582244873	-0.40086064	No	
+row_25	PLD2	phospholipase D2 [Source:HGNC Symbol;Acc:HGNC:9068]	35412	-0.31874534487724304	-0.39511356	No	
+row_26	PAFAH2	platelet activating factor acetylhydrolase 2 [Source:HGNC Symbol;Acc:HGNC:8579]	36578	-0.445616751909256	-0.40169263	No	
+row_27	PLPP1	phospholipid phosphatase 1 [Source:HGNC Symbol;Acc:HGNC:9228]	38381	-0.7662553191184998	-0.40791553	Yes	
+row_28	PLA2G6	phospholipase A2 group VI [Source:HGNC Symbol;Acc:HGNC:9039]	39108	-1.101016879081726	-0.36973372	Yes	
+row_29	LPCAT1	lysophosphatidylcholine acyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:25718]	39122	-1.1088402271270752	-0.31311774	Yes	
+row_30	PLA2G5	phospholipase A2 group V [Source:HGNC Symbol;Acc:HGNC:9038]	39468	-1.7626489400863647	-0.23132186	Yes	
+row_31	ENPP2	ectonucleotide pyrophosphatase/phosphodiesterase 2 [Source:HGNC Symbol;Acc:HGNC:3357]	39471	-1.775529384613037	-0.14018974	Yes	
+row_32	PLPP3	phospholipid phosphatase 3 [Source:HGNC Symbol;Acc:HGNC:9229]	39556	-2.7790544033050537	4.0478978E-4	Yes	

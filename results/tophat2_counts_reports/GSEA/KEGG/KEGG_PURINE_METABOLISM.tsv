@@ -1,0 +1,160 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PDE5A	phosphodiesterase 5A [Source:HGNC Symbol;Acc:HGNC:8784]	26	1.8736746311187744	0.025556218	No	
+row_1	PDE6B	phosphodiesterase 6B [Source:HGNC Symbol;Acc:HGNC:8786]	438	1.1321256160736084	0.030968806	No	
+row_2	GMPR	guanosine monophosphate reductase [Source:HGNC Symbol;Acc:HGNC:4376]	652	1.0274723768234253	0.039940715	No	
+row_3	XDH	xanthine dehydrogenase [Source:HGNC Symbol;Acc:HGNC:12805]	729	1.0020900964736938	0.052033402	No	
+row_4	PNP	purine nucleoside phosphorylase [Source:HGNC Symbol;Acc:HGNC:7892]	902	0.9462262988090515	0.06090878	No	
+row_5	POLR2L	RNA polymerase II, I and III subunit L [Source:HGNC Symbol;Acc:HGNC:9199]	997	0.9231226444244385	0.071439885	No	
+row_6	AK4	adenylate kinase 4 [Source:HGNC Symbol;Acc:HGNC:363]	1149	0.8790308237075806	0.079907894	No	
+row_7	POLR3G	RNA polymerase III subunit G [Source:HGNC Symbol;Acc:HGNC:30075]	1237	0.8561057448387146	0.08967892	No	
+row_8	CANT1	calcium activated nucleotidase 1 [Source:HGNC Symbol;Acc:HGNC:19721]	1479	0.8016552925109863	0.09478086	No	
+row_9	POLR3F	RNA polymerase III subunit F [Source:HGNC Symbol;Acc:HGNC:15763]	1482	0.8011482954025269	0.10593954	No	
+row_10	PDE4C	phosphodiesterase 4C [Source:HGNC Symbol;Acc:HGNC:8782]	1711	0.755333662033081	0.11072319	No	
+row_11	RRM2B	ribonucleotide reductase regulatory TP53 inducible subunit M2B [Source:HGNC Symbol;Acc:HGNC:17296]	1764	0.7462261319160461	0.119844824	No	
+row_12	AMPD3	adenosine monophosphate deaminase 3 [Source:HGNC Symbol;Acc:HGNC:470]	1818	0.7353523373603821	0.12878895	No	
+row_13	PDE10A	phosphodiesterase 10A [Source:HGNC Symbol;Acc:HGNC:8772]	1949	0.7125803828239441	0.13546084	No	
+row_14	ENTPD6	ectonucleoside triphosphate diphosphohydrolase 6 [Source:HGNC Symbol;Acc:HGNC:3368]	2193	0.6749155521392822	0.13873872	No	
+row_15	FHIT	fragile histidine triad diadenosine triphosphatase [Source:HGNC Symbol;Acc:HGNC:3701]	2223	0.6710545420646667	0.14739214	No	
+row_16	NME7	NME/NM23 family member 7 [Source:HGNC Symbol;Acc:HGNC:20461]	2330	0.6573346853256226	0.15389997	No	
+row_17	NUDT5	nudix hydrolase 5 [Source:HGNC Symbol;Acc:HGNC:8052]	2530	0.628562331199646	0.15764564	No	
+row_18	PAPSS2	3'-phosphoadenosine 5'-phosphosulfate synthase 2 [Source:HGNC Symbol;Acc:HGNC:8604]	2534	0.6283512115478516	0.16636123	No	
+row_19	NME3	NME/NM23 nucleoside diphosphate kinase 3 [Source:HGNC Symbol;Acc:HGNC:7851]	2609	0.6192629933357239	0.17314826	No	
+row_20	GUCY2D	guanylate cyclase 2D, retinal [Source:HGNC Symbol;Acc:HGNC:4689]	2731	0.6058552861213684	0.17855522	No	
+row_21	DGUOK	deoxyguanosine kinase [Source:HGNC Symbol;Acc:HGNC:2858]	3155	0.5616630911827087	0.17568162	No	
+row_22	NPR1	natriuretic peptide receptor 1 [Source:HGNC Symbol;Acc:HGNC:7943]	3228	0.554805338382721	0.18161753	No	
+row_23	PRUNE1	prune exopolyphosphatase 1 [Source:HGNC Symbol;Acc:HGNC:13420]	3522	0.5276082754135132	0.18156575	No	
+row_24	ADK	adenosine kinase [Source:HGNC Symbol;Acc:HGNC:257]	3552	0.5253901481628418	0.18818107	No	
+row_25	POLE4	DNA polymerase epsilon 4, accessory subunit [Source:HGNC Symbol;Acc:HGNC:18755]	3563	0.5245044827461243	0.19526605	No	
+row_26	NUDT9	nudix hydrolase 9 [Source:HGNC Symbol;Acc:HGNC:8056]	3667	0.5154067277908325	0.19986418	No	
+row_27	NME1	NME/NM23 nucleoside diphosphate kinase 1 [Source:HGNC Symbol;Acc:HGNC:7849]	3726	0.5091229677200317	0.20551611	No	
+row_28	POLR2B	RNA polymerase II subunit B [Source:HGNC Symbol;Acc:HGNC:9188]	3856	0.4986589848995209	0.20922025	No	
+row_29	ENTPD3	ectonucleoside triphosphate diphosphohydrolase 3 [Source:HGNC Symbol;Acc:HGNC:3365]	3969	0.4897301495075226	0.21323077	No	
+row_30	GUK1	guanylate kinase 1 [Source:HGNC Symbol;Acc:HGNC:4693]	3991	0.488275945186615	0.21952978	No	
+row_31	PDE6G	phosphodiesterase 6G [Source:HGNC Symbol;Acc:HGNC:8789]	4053	0.482380747795105	0.22473143	No	
+row_32	PDE6D	phosphodiesterase 6D [Source:HGNC Symbol;Acc:HGNC:8788]	4061	0.48195749521255493	0.23129722	No	
+row_33	POLR2K	RNA polymerase II, I and III subunit K [Source:HGNC Symbol;Acc:HGNC:9198]	4473	0.4530051350593567	0.22720776	No	
+row_34	AK7	adenylate kinase 7 [Source:HGNC Symbol;Acc:HGNC:20091]	4556	0.4474155306816101	0.23138739	No	
+row_35	PDE9A	phosphodiesterase 9A [Source:HGNC Symbol;Acc:HGNC:8795]	4635	0.4427480399608612	0.2356032	No	
+row_36	PNPT1	polyribonucleotide nucleotidyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:23166]	4650	0.4416945278644562	0.24142805	No	
+row_37	APRT	adenine phosphoribosyltransferase [Source:HGNC Symbol;Acc:HGNC:626]	4715	0.4365314543247223	0.24591208	No	
+row_38	ADSS2	adenylosuccinate synthase 2 [Source:HGNC Symbol;Acc:HGNC:292]	4962	0.41987454891204834	0.24554539	No	
+row_39	POLR3H	RNA polymerase III subunit H [Source:HGNC Symbol;Acc:HGNC:30349]	5014	0.4165554940700531	0.25007975	No	
+row_40	POLR3K	RNA polymerase III subunit K [Source:HGNC Symbol;Acc:HGNC:14121]	5160	0.4082713723182678	0.25211325	No	
+row_41	PKM	pyruvate kinase M1/2 [Source:HGNC Symbol;Acc:HGNC:9021]	5339	0.3982737958431244	0.25316963	No	
+row_42	POLR2E	RNA polymerase II, I and III subunit E [Source:HGNC Symbol;Acc:HGNC:9192]	5429	0.3931106626987457	0.25641182	No	
+row_43	NME5	NME/NM23 family member 5 [Source:HGNC Symbol;Acc:HGNC:7853]	5805	0.375642329454422	0.2521533	No	
+row_44	ENTPD4	ectonucleoside triphosphate diphosphohydrolase 4 [Source:HGNC Symbol;Acc:HGNC:14573]	6097	0.36298707127571106	0.24984895	No	
+row_45	AK2	adenylate kinase 2 [Source:HGNC Symbol;Acc:HGNC:362]	6208	0.35813388228416443	0.25206897	No	
+row_46	POLR2H	RNA polymerase II, I and III subunit H [Source:HGNC Symbol;Acc:HGNC:9195]	6293	0.35449981689453125	0.2548978	No	
+row_47	ENPP3	ectonucleotide pyrophosphatase/phosphodiesterase 3 [Source:HGNC Symbol;Acc:HGNC:3358]	6323	0.3532807230949402	0.25910503	No	
+row_48	GUCY2F	guanylate cyclase 2F, retinal [Source:HGNC Symbol;Acc:HGNC:4691]	6732	0.33861470222473145	0.25349116	No	
+row_49	ADCY10	adenylate cyclase 10 [Source:HGNC Symbol;Acc:HGNC:21285]	6806	0.3361184000968933	0.25634187	No	
+row_50	PAPSS1	3'-phosphoadenosine 5'-phosphosulfate synthase 1 [Source:HGNC Symbol;Acc:HGNC:8603]	7120	0.3278411626815796	0.2529876	No	
+row_51	NT5C1B	5'-nucleotidase, cytosolic IB [Source:HGNC Symbol;Acc:HGNC:17818]	7325	0.3225875496864319	0.25232533	No	
+row_52	AMPD1	adenosine monophosphate deaminase 1 [Source:HGNC Symbol;Acc:HGNC:468]	7523	0.31807011365890503	0.25177744	No	
+row_53	POLR3A	RNA polymerase III subunit A [Source:HGNC Symbol;Acc:HGNC:30074]	7724	0.31372666358947754	0.25109267	No	
+row_54	POLR2I	RNA polymerase II subunit I [Source:HGNC Symbol;Acc:HGNC:9196]	8391	0.3008478283882141	0.23840448	No	
+row_55	POLR1B	RNA polymerase I subunit B [Source:HGNC Symbol;Acc:HGNC:20454]	8604	0.29743391275405884	0.2371873	No	
+row_56	NT5C1A	5'-nucleotidase, cytosolic IA [Source:HGNC Symbol;Acc:HGNC:17819]	9465	0.28543078899383545	0.21936129	No	
+row_57	PRPS1L1	phosphoribosyl pyrophosphate synthetase 1 like 1 [Source:HGNC Symbol;Acc:HGNC:9463]	9555	0.2842908799648285	0.22108091	No	
+row_58	ENTPD8	ectonucleoside triphosphate diphosphohydrolase 8 [Source:HGNC Symbol;Acc:HGNC:24860]	9702	0.2825838327407837	0.22133048	No	
+row_59	PDE2A	phosphodiesterase 2A [Source:HGNC Symbol;Acc:HGNC:8777]	9717	0.28237131237983704	0.22492613	No	
+row_60	PRIM2	DNA primase subunit 2 [Source:HGNC Symbol;Acc:HGNC:9370]	10005	0.2789725363254547	0.22154775	No	
+row_61	PDE6H	phosphodiesterase 6H [Source:HGNC Symbol;Acc:HGNC:8790]	10362	0.2749837338924408	0.21636291	No	
+row_62	URAD	ureidoimidazoline (2-oxo-4-hydroxy-4-carboxy-5-) decarboxylase [Source:HGNC Symbol;Acc:HGNC:17785]	10623	0.2720530033111572	0.21357276	No	
+row_63	ENTPD2	ectonucleoside triphosphate diphosphohydrolase 2 [Source:HGNC Symbol;Acc:HGNC:3364]	10672	0.27164947986602783	0.21615575	No	
+row_64	POLR1C	RNA polymerase I and III subunit C [Source:HGNC Symbol;Acc:HGNC:20194]	12362	0.2553657293319702	0.17687596	No	
+row_65	NT5C	5', 3'-nucleotidase, cytosolic [Source:HGNC Symbol;Acc:HGNC:17144]	12968	0.25020766258239746	0.1650269	No	
+row_66	ALLC	allantoicase [Source:HGNC Symbol;Acc:HGNC:17377]	13313	0.24696102738380432	0.15975446	No	
+row_67	PKLR	pyruvate kinase L/R [Source:HGNC Symbol;Acc:HGNC:9020]	13740	0.24283073842525482	0.15234372	No	
+row_68	POLR2G	RNA polymerase II subunit G [Source:HGNC Symbol;Acc:HGNC:9194]	13782	0.24239316582679749	0.15469497	No	
+row_69	POLR2J	RNA polymerase II subunit J [Source:HGNC Symbol;Acc:HGNC:9197]	15120	0.23109441995620728	0.12400642	No	
+row_70	ADPRM	ADP-ribose/CDP-alcohol diphosphatase, manganese dependent [Source:HGNC Symbol;Acc:HGNC:30925]	15181	0.23057995736598969	0.12571032	No	
+row_71	NME4	NME/NM23 nucleoside diphosphate kinase 4 [Source:HGNC Symbol;Acc:HGNC:7852]	16351	0.22044624388217926	0.09913523	No	
+row_72	PDE6A	phosphodiesterase 6A [Source:HGNC Symbol;Acc:HGNC:8785]	17653	0.20863814651966095	0.06904585	No	
+row_73	POLD4	DNA polymerase delta 4, accessory subunit [Source:HGNC Symbol;Acc:HGNC:14106]	18660	0.19764924049377441	0.046287373	No	
+row_74	AMPD2	adenosine monophosphate deaminase 2 [Source:HGNC Symbol;Acc:HGNC:469]	19104	0.1927066445350647	0.037744004	No	
+row_75	POLR3B	RNA polymerase III subunit B [Source:HGNC Symbol;Acc:HGNC:30348]	19155	0.19201961159706116	0.0391621	No	
+row_76	POLR2F	RNA polymerase II, I and III subunit F [Source:HGNC Symbol;Acc:HGNC:9193]	20121	0.1818513125181198	0.01722282	No	
+row_77	POLR2J3	RNA polymerase II subunit J3 [Source:HGNC Symbol;Acc:HGNC:33853]	21253	0.16845200955867767	-0.009115638	No	
+row_78	AK1	adenylate kinase 1 [Source:HGNC Symbol;Acc:HGNC:361]	22108	0.15732932090759277	-0.028581763	No	
+row_79	ADCY6	adenylate cyclase 6 [Source:HGNC Symbol;Acc:HGNC:237]	22645	0.14804646372795105	-0.04010957	No	
+row_80	POLR2C	RNA polymerase II subunit C [Source:HGNC Symbol;Acc:HGNC:9189]	22992	0.14621303975582123	-0.046842407	No	
+row_81	PDE1B	phosphodiesterase 1B [Source:HGNC Symbol;Acc:HGNC:8775]	23462	0.1323913037776947	-0.056889355	No	
+row_82	GDA	guanine deaminase [Source:HGNC Symbol;Acc:HGNC:4212]	24073	0.12417883425951004	-0.07062862	No	
+row_83	PDE6C	phosphodiesterase 6C [Source:HGNC Symbol;Acc:HGNC:8787]	24875	0.10412824153900146	-0.089494415	No	
+row_84	ENTPD5	ectonucleoside triphosphate diphosphohydrolase 5 (inactive) [Source:HGNC Symbol;Acc:HGNC:3367]	24892	0.1037839949131012	-0.08844825	No	
+row_85	ADCY5	adenylate cyclase 5 [Source:HGNC Symbol;Acc:HGNC:236]	24956	0.10076029598712921	-0.08863686	No	
+row_86	POLA2	DNA polymerase alpha 2, accessory subunit [Source:HGNC Symbol;Acc:HGNC:30073]	26339	0.08183836936950684	-0.12255549	No	
+row_87	PPAT	phosphoribosyl pyrophosphate amidotransferase [Source:HGNC Symbol;Acc:HGNC:9238]	26353	0.08141975849866867	-0.121746115	No	
+row_88	POLE3	DNA polymerase epsilon 3, accessory subunit [Source:HGNC Symbol;Acc:HGNC:13546]	26458	0.07687795162200928	-0.12330912	No	
+row_89	PDE8B	phosphodiesterase 8B [Source:HGNC Symbol;Acc:HGNC:8794]	26951	0.07047920674085617	-0.13480587	No	
+row_90	POLR3GL	RNA polymerase III subunit GL [Source:HGNC Symbol;Acc:HGNC:28466]	27092	0.06471589207649231	-0.13745242	No	
+row_91	ADSL	adenylosuccinate lyase [Source:HGNC Symbol;Acc:HGNC:291]	27114	0.06358649581670761	-0.13709554	No	
+row_92	NME2	NME/NM23 nucleoside diphosphate kinase 2 [Source:HGNC Symbol;Acc:HGNC:7850]	27363	0.05302204191684723	-0.14264585	No	
+row_93	NME6	NME/NM23 nucleoside diphosphate kinase 6 [Source:HGNC Symbol;Acc:HGNC:20567]	27664	0.04024071246385574	-0.14969432	No	
+row_94	PDE3B	phosphodiesterase 3B [Source:HGNC Symbol;Acc:HGNC:8779]	27683	0.03909953311085701	-0.14960395	No	
+row_95	NME1-NME2	NME1-NME2 readthrough [Source:HGNC Symbol;Acc:HGNC:33531]	29691	0.0	-0.20052494	No	
+row_96	POLR1A	RNA polymerase I subunit A [Source:HGNC Symbol;Acc:HGNC:17264]	30816	-0.0016497181495651603	-0.22901964	No	
+row_97	HPRT1	hypoxanthine phosphoribosyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:5157]	30914	-0.006387138739228249	-0.23139134	No	
+row_98	NUDT2	nudix hydrolase 2 [Source:HGNC Symbol;Acc:HGNC:8049]	31036	-0.011674839071929455	-0.23429796	No	
+row_99	ADCY2	adenylate cyclase 2 [Source:HGNC Symbol;Acc:HGNC:233]	31108	-0.015491779893636703	-0.2358826	No	
+row_100	ATIC	5-aminoimidazole-4-carboxamide ribonucleotide formyltransferase/IMP cyclohydrolase [Source:HGNC Symbol;Acc:HGNC:794]	31383	-0.030345041304826736	-0.24240986	No	
+row_101	DCK	deoxycytidine kinase [Source:HGNC Symbol;Acc:HGNC:2704]	31932	-0.06198124215006828	-0.2554463	No	
+row_102	POLR1D	RNA polymerase I and III subunit D [Source:HGNC Symbol;Acc:HGNC:20422]	32803	-0.11376588046550751	-0.27592793	No	
+row_103	POLR2J2	RNA polymerase II subunit J2 [Source:HGNC Symbol;Acc:HGNC:23208]	33051	-0.13006488978862762	-0.2803749	No	
+row_104	POLR1H	RNA polymerase I subunit H [Source:HGNC Symbol;Acc:HGNC:13182]	33186	-0.1400674730539322	-0.28181493	No	
+row_105	NT5C2	5'-nucleotidase, cytosolic II [Source:HGNC Symbol;Acc:HGNC:8022]	33571	-0.16432984173297882	-0.28925842	No	
+row_106	ITPA	inosine triphosphatase [Source:HGNC Symbol;Acc:HGNC:6176]	33736	-0.17514397203922272	-0.2909688	No	
+row_107	POLR3D	RNA polymerase III subunit D [Source:HGNC Symbol;Acc:HGNC:1080]	33916	-0.18720504641532898	-0.29289103	No	
+row_108	POLR2D	RNA polymerase II subunit D [Source:HGNC Symbol;Acc:HGNC:9191]	34076	-0.20063985884189606	-0.29411784	No	
+row_109	ADCY9	adenylate cyclase 9 [Source:HGNC Symbol;Acc:HGNC:240]	34111	-0.20356102287769318	-0.29213232	No	
+row_110	NT5E	5'-nucleotidase ecto [Source:HGNC Symbol;Acc:HGNC:8021]	34139	-0.20599974691867828	-0.28993505	No	
+row_111	PDE4D	phosphodiesterase 4D [Source:HGNC Symbol;Acc:HGNC:8783]	34514	-0.23820315301418304	-0.2960912	Yes	
+row_112	PAICS	phosphoribosylaminoimidazole carboxylase and phosphoribosylaminoimidazolesuccinocarboxamide synthase [Source:HGNC Symbol;Acc:HGNC:8587]	34524	-0.2393411546945572	-0.29297078	Yes	
+row_113	GUCY2C	guanylate cyclase 2C [Source:HGNC Symbol;Acc:HGNC:4688]	34610	-0.24651288986206055	-0.29167822	Yes	
+row_114	ADSS1	adenylosuccinate synthase 1 [Source:HGNC Symbol;Acc:HGNC:20093]	34842	-0.2686917185783386	-0.29377964	Yes	
+row_115	PRPS1	phosphoribosyl pyrophosphate synthetase 1 [Source:HGNC Symbol;Acc:HGNC:9462]	34987	-0.27988579869270325	-0.29351708	Yes	
+row_116	NPR2	natriuretic peptide receptor 2 [Source:HGNC Symbol;Acc:HGNC:7944]	34992	-0.28048935532569885	-0.28969404	Yes	
+row_117	ADCY8	adenylate cyclase 8 [Source:HGNC Symbol;Acc:HGNC:239]	34999	-0.2813010513782501	-0.2859104	Yes	
+row_118	AK5	adenylate kinase 5 [Source:HGNC Symbol;Acc:HGNC:365]	35005	-0.2815406918525696	-0.28209803	Yes	
+row_119	IMPDH1	inosine monophosphate dehydrogenase 1 [Source:HGNC Symbol;Acc:HGNC:6052]	35119	-0.2923832833766937	-0.2808741	Yes	
+row_120	POLD1	DNA polymerase delta 1, catalytic subunit [Source:HGNC Symbol;Acc:HGNC:9175]	35184	-0.2975558638572693	-0.27833456	Yes	
+row_121	GMPS	guanine monophosphate synthase [Source:HGNC Symbol;Acc:HGNC:4378]	35406	-0.31789442896842957	-0.27949384	Yes	
+row_122	GART	phosphoribosylglycinamide formyltransferase, phosphoribosylglycinamide synthetase, phosphoribosylaminoimidazole synthetase [Source:HGNC Symbol;Acc:HGNC:4163]	35435	-0.32076382637023926	-0.27571622	Yes	
+row_123	GMPR2	guanosine monophosphate reductase 2 [Source:HGNC Symbol;Acc:HGNC:4377]	35457	-0.3225761353969574	-0.27173564	Yes	
+row_124	GUCY1A2	guanylate cyclase 1 soluble subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:4684]	35726	-0.3460751175880432	-0.27369305	Yes	
+row_125	PDE4B	phosphodiesterase 4B [Source:HGNC Symbol;Acc:HGNC:8781]	35793	-0.3533937633037567	-0.27042302	Yes	
+row_126	PDE11A	phosphodiesterase 11A [Source:HGNC Symbol;Acc:HGNC:8773]	36081	-0.3847792148590088	-0.272321	Yes	
+row_127	PDE8A	phosphodiesterase 8A [Source:HGNC Symbol;Acc:HGNC:8793]	36194	-0.39765846729278564	-0.2695987	Yes	
+row_128	PRPS2	phosphoribosyl pyrophosphate synthetase 2 [Source:HGNC Symbol;Acc:HGNC:9465]	36337	-0.41455715894699097	-0.26740113	Yes	
+row_129	RRM2	ribonucleotide reductase regulatory subunit M2 [Source:HGNC Symbol;Acc:HGNC:10452]	36355	-0.4174175262451172	-0.26199207	Yes	
+row_130	ENTPD1	ectonucleoside triphosphate diphosphohydrolase 1 [Source:HGNC Symbol;Acc:HGNC:3363]	36487	-0.43586966395378113	-0.2592172	Yes	
+row_131	PDE1C	phosphodiesterase 1C [Source:HGNC Symbol;Acc:HGNC:8776]	36584	-0.44627052545547485	-0.2554088	Yes	
+row_132	POLD2	DNA polymerase delta 2, accessory subunit [Source:HGNC Symbol;Acc:HGNC:9176]	36775	-0.4700954258441925	-0.253652	Yes	
+row_133	PDE7A	phosphodiesterase 7A [Source:HGNC Symbol;Acc:HGNC:8791]	36894	-0.48642441630363464	-0.24983996	Yes	
+row_134	PFAS	phosphoribosylformylglycinamidine synthase [Source:HGNC Symbol;Acc:HGNC:8863]	37228	-0.5332061052322388	-0.25082827	Yes	
+row_135	POLR3C	RNA polymerase III subunit C [Source:HGNC Symbol;Acc:HGNC:30076]	37359	-0.5554278492927551	-0.24635522	Yes	
+row_136	POLE2	DNA polymerase epsilon 2, accessory subunit [Source:HGNC Symbol;Acc:HGNC:9178]	37592	-0.5911841988563538	-0.24396978	Yes	
+row_137	ADCY1	adenylate cyclase 1 [Source:HGNC Symbol;Acc:HGNC:232]	37721	-0.6169117093086243	-0.23858573	Yes	
+row_138	ADCY4	adenylate cyclase 4 [Source:HGNC Symbol;Acc:HGNC:235]	37834	-0.6395964622497559	-0.2324783	Yes	
+row_139	ADA	adenosine deaminase [Source:HGNC Symbol;Acc:HGNC:186]	37839	-0.6406266689300537	-0.22361635	Yes	
+row_140	GUCY1A1	guanylate cyclase 1 soluble subunit alpha 1 [Source:HGNC Symbol;Acc:HGNC:4685]	37898	-0.6526368260383606	-0.21595642	Yes	
+row_141	NT5C3A	5'-nucleotidase, cytosolic IIIA [Source:HGNC Symbol;Acc:HGNC:17820]	38043	-0.6844288110733032	-0.21003363	Yes	
+row_142	PRIM1	DNA primase subunit 1 [Source:HGNC Symbol;Acc:HGNC:9369]	38051	-0.6879197955131531	-0.20058605	Yes	
+row_143	POLR1E	RNA polymerase I subunit E [Source:HGNC Symbol;Acc:HGNC:17631]	38123	-0.7050130367279053	-0.19252312	Yes	
+row_144	RRM1	ribonucleotide reductase catalytic subunit M1 [Source:HGNC Symbol;Acc:HGNC:10451]	38125	-0.705422580242157	-0.18267843	Yes	
+row_145	ADCY7	adenylate cyclase 7 [Source:HGNC Symbol;Acc:HGNC:238]	38170	-0.7160229682922363	-0.17377642	Yes	
+row_146	PDE7B	phosphodiesterase 7B [Source:HGNC Symbol;Acc:HGNC:8792]	38301	-0.7486697435379028	-0.16659959	Yes	
+row_147	IMPDH2	inosine monophosphate dehydrogenase 2 [Source:HGNC Symbol;Acc:HGNC:6053]	38512	-0.807551383972168	-0.16062863	Yes	
+row_148	POLE	DNA polymerase epsilon, catalytic subunit [Source:HGNC Symbol;Acc:HGNC:9177]	38537	-0.816821813583374	-0.14980882	Yes	
+row_149	PDE4A	phosphodiesterase 4A [Source:HGNC Symbol;Acc:HGNC:8780]	38662	-0.863153338432312	-0.14087793	Yes	
+row_150	PDE1A	phosphodiesterase 1A [Source:HGNC Symbol;Acc:HGNC:8774]	38664	-0.864431619644165	-0.12880845	Yes	
+row_151	POLR2A	RNA polymerase II subunit A [Source:HGNC Symbol;Acc:HGNC:9187]	38692	-0.875381588935852	-0.11724541	Yes	
+row_152	POLD3	DNA polymerase delta 3, accessory subunit [Source:HGNC Symbol;Acc:HGNC:20932]	38969	-1.0124417543411255	-0.110082224	Yes	
+row_153	NT5M	5',3'-nucleotidase, mitochondrial [Source:HGNC Symbol;Acc:HGNC:15769]	39069	-1.0656527280807495	-0.097683735	Yes	
+row_154	GUCY1B1	guanylate cyclase 1 soluble subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:4687]	39215	-1.2269853353500366	-0.08419503	Yes	
+row_155	ADCY3	adenylate cyclase 3 [Source:HGNC Symbol;Acc:HGNC:234]	39315	-1.3559956550598145	-0.06773415	Yes	
+row_156	PDE3A	phosphodiesterase 3A [Source:HGNC Symbol;Acc:HGNC:8778]	39331	-1.38459312915802	-0.04874193	Yes	
+row_157	POLA1	DNA polymerase alpha 1, catalytic subunit [Source:HGNC Symbol;Acc:HGNC:9173]	39447	-1.669083833694458	-0.028306365	Yes	
+row_158	ENPP1	ectonucleotide pyrophosphatase/phosphodiesterase 1 [Source:HGNC Symbol;Acc:HGNC:3356]	39527	-2.2479376792907715	0.0011417252	Yes	

@@ -1,0 +1,87 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TNFRSF10B	TNF receptor superfamily member 10b [Source:HGNC Symbol;Acc:HGNC:11905]	122	1.4407614469528198	0.031006817	Yes	
+row_1	BIRC3	baculoviral IAP repeat containing 3 [Source:HGNC Symbol;Acc:HGNC:591]	243	1.2731668949127197	0.058098063	Yes	
+row_2	PIK3CB	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [Source:HGNC Symbol;Acc:HGNC:8976]	486	1.1050164699554443	0.078120306	Yes	
+row_3	PIK3CD	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [Source:HGNC Symbol;Acc:HGNC:8977]	570	1.0650540590286255	0.10122346	Yes	
+row_4	TNFRSF10D	TNF receptor superfamily member 10d [Source:HGNC Symbol;Acc:HGNC:11907]	618	1.0423766374588013	0.124701634	Yes	
+row_5	CYCS	cytochrome c, somatic [Source:HGNC Symbol;Acc:HGNC:19986]	685	1.0170257091522217	0.14709869	Yes	
+row_6	TRADD	TNFRSF1A associated via death domain [Source:HGNC Symbol;Acc:HGNC:12030]	766	0.9903738498687744	0.16851047	Yes	
+row_7	TNFRSF10A	TNF receptor superfamily member 10a [Source:HGNC Symbol;Acc:HGNC:11904]	779	0.9848085045814514	0.19151263	Yes	
+row_8	CAPN2	calpain 2 [Source:HGNC Symbol;Acc:HGNC:1479]	792	0.9810848236083984	0.21442667	Yes	
+row_9	PRKAR1B	protein kinase cAMP-dependent type I regulatory subunit beta [Source:HGNC Symbol;Acc:HGNC:9390]	817	0.973645806312561	0.23686075	Yes	
+row_10	PPP3CC	protein phosphatase 3 catalytic subunit gamma [Source:HGNC Symbol;Acc:HGNC:9316]	832	0.9696194529533386	0.2594528	Yes	
+row_11	BCL2L1	BCL2 like 1 [Source:HGNC Symbol;Acc:HGNC:992]	851	0.9630275964736938	0.28178754	Yes	
+row_12	CFLAR	CASP8 and FADD like apoptosis regulator [Source:HGNC Symbol;Acc:HGNC:1876]	896	0.9494892954826355	0.30314347	Yes	
+row_13	PRKX	protein kinase cAMP-dependent X-linked catalytic subunit [Source:HGNC Symbol;Acc:HGNC:9441]	941	0.9381557703018188	0.32423118	Yes	
+row_14	CAPN1	calpain 1 [Source:HGNC Symbol;Acc:HGNC:1476]	1087	0.8933273553848267	0.34170017	Yes	
+row_15	BAX	BCL2 associated X, apoptosis regulator [Source:HGNC Symbol;Acc:HGNC:959]	1437	0.8089048862457275	0.35200503	Yes	
+row_16	CASP10	caspase 10 [Source:HGNC Symbol;Acc:HGNC:1500]	1532	0.7913645505905151	0.3683526	Yes	
+row_17	PIK3R3	phosphoinositide-3-kinase regulatory subunit 3 [Source:HGNC Symbol;Acc:HGNC:8981]	1563	0.7847549915313721	0.38616452	Yes	
+row_18	CASP6	caspase 6 [Source:HGNC Symbol;Acc:HGNC:1507]	2010	0.7011047601699829	0.3914617	Yes	
+row_19	CHUK	component of inhibitor of nuclear factor kappa B kinase complex [Source:HGNC Symbol;Acc:HGNC:1974]	2120	0.6845418810844421	0.4049014	Yes	
+row_20	IL1B	interleukin 1 beta [Source:HGNC Symbol;Acc:HGNC:5992]	2280	0.6638875603675842	0.416586	Yes	
+row_21	IRAK1	interleukin 1 receptor associated kinase 1 [Source:HGNC Symbol;Acc:HGNC:6112]	2325	0.6581097841262817	0.43104628	Yes	
+row_22	CASP3	caspase 3 [Source:HGNC Symbol;Acc:HGNC:1504]	2456	0.6407134532928467	0.4429169	Yes	
+row_23	NFKBIA	NFKB inhibitor alpha [Source:HGNC Symbol;Acc:HGNC:7797]	2516	0.6309835910797119	0.45635533	Yes	
+row_24	FADD	Fas associated via death domain [Source:HGNC Symbol;Acc:HGNC:3573]	2852	0.5920718908309937	0.46188325	Yes	
+row_25	DFFA	DNA fragmentation factor subunit alpha [Source:HGNC Symbol;Acc:HGNC:2772]	2894	0.588001012802124	0.4747603	Yes	
+row_26	AKT1	AKT serine/threonine kinase 1 [Source:HGNC Symbol;Acc:HGNC:391]	2899	0.5876438021659851	0.48856592	Yes	
+row_27	IL1RAP	interleukin 1 receptor accessory protein [Source:HGNC Symbol;Acc:HGNC:5995]	3145	0.5624857544898987	0.4956729	Yes	
+row_28	BID	BH3 interacting domain death agonist [Source:HGNC Symbol;Acc:HGNC:1050]	3300	0.5485792756080627	0.5047553	Yes	
+row_29	IRAK2	interleukin 1 receptor associated kinase 2 [Source:HGNC Symbol;Acc:HGNC:6113]	3433	0.5364841222763062	0.51410866	Yes	
+row_30	CSF2RB	colony stimulating factor 2 receptor subunit beta [Source:HGNC Symbol;Acc:HGNC:2436]	3602	0.5211292505264282	0.52218693	Yes	
+row_31	PPP3R1	protein phosphatase 3 regulatory subunit B, alpha [Source:HGNC Symbol;Acc:HGNC:9317]	3712	0.5104467272758484	0.53150654	Yes	
+row_32	IL1A	interleukin 1 alpha [Source:HGNC Symbol;Acc:HGNC:5991]	3715	0.5101622939109802	0.54352915	Yes	
+row_33	ENDOG	endonuclease G [Source:HGNC Symbol;Acc:HGNC:3346]	4399	0.4591830372810364	0.5370991	No	
+row_34	TNFRSF10C	TNF receptor superfamily member 10c [Source:HGNC Symbol;Acc:HGNC:11906]	4809	0.42972975969314575	0.53691113	No	
+row_35	BAD	BCL2 associated agonist of cell death [Source:HGNC Symbol;Acc:HGNC:936]	5343	0.3980708122253418	0.5328336	No	
+row_36	PPP3R2	protein phosphatase 3 regulatory subunit B, beta [Source:HGNC Symbol;Acc:HGNC:9318]	6104	0.3627600073814392	0.5221717	No	
+row_37	ENDOD1	endonuclease domain containing 1 [Source:HGNC Symbol;Acc:HGNC:29129]	6968	0.3315526247024536	0.50816274	No	
+row_38	PIK3CG	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit gamma [Source:HGNC Symbol;Acc:HGNC:8978]	7209	0.3253442347049713	0.5097842	No	
+row_39	IL3	interleukin 3 [Source:HGNC Symbol;Acc:HGNC:6011]	7522	0.3181145489215851	0.5094113	No	
+row_40	FASLG	Fas ligand [Source:HGNC Symbol;Acc:HGNC:11936]	7961	0.30876877903938293	0.5056262	No	
+row_41	PRKACG	protein kinase cAMP-activated catalytic subunit gamma [Source:HGNC Symbol;Acc:HGNC:9382]	10125	0.27765342593193054	0.4574195	No	
+row_42	CHP2	calcineurin like EF-hand protein 2 [Source:HGNC Symbol;Acc:HGNC:24927]	13008	0.24975986778736115	0.39034417	No	
+row_43	RIPK1	receptor interacting serine/threonine kinase 1 [Source:HGNC Symbol;Acc:HGNC:10019]	13091	0.24889270961284637	0.39415774	No	
+row_44	AIFM1	apoptosis inducing factor mitochondria associated 1 [Source:HGNC Symbol;Acc:HGNC:8768]	15935	0.22399874031543732	0.3274604	No	
+row_45	IKBKB	inhibitor of nuclear factor kappa B kinase subunit beta [Source:HGNC Symbol;Acc:HGNC:5960]	15995	0.22357964515686035	0.33125737	No	
+row_46	IRAK3	interleukin 1 receptor associated kinase 3 [Source:HGNC Symbol;Acc:HGNC:17020]	18677	0.19747328758239746	0.26803493	No	
+row_47	MYD88	MYD88 innate immune signal transduction adaptor [Source:HGNC Symbol;Acc:HGNC:7562]	21605	0.16615131497383118	0.19784133	No	
+row_48	BIRC2	baculoviral IAP repeat containing 2 [Source:HGNC Symbol;Acc:HGNC:590]	23388	0.13449878990650177	0.15589555	No	
+row_49	PIK3R5	phosphoinositide-3-kinase regulatory subunit 5 [Source:HGNC Symbol;Acc:HGNC:30035]	24243	0.11770160496234894	0.13705365	No	
+row_50	TNFSF10	TNF superfamily member 10 [Source:HGNC Symbol;Acc:HGNC:11925]	24472	0.11027876287698746	0.1338894	No	
+row_51	CHP1	calcineurin like EF-hand protein 1 [Source:HGNC Symbol;Acc:HGNC:17433]	24531	0.10788995772600174	0.13497385	No	
+row_52	PIK3R2	phosphoinositide-3-kinase regulatory subunit 2 [Source:HGNC Symbol;Acc:HGNC:8980]	24548	0.10711418837308884	0.13710357	No	
+row_53	IL3RA	interleukin 3 receptor subunit alpha [Source:HGNC Symbol;Acc:HGNC:6012]	24715	0.10551649332046509	0.13539676	No	
+row_54	PRKACB	protein kinase cAMP-activated catalytic subunit beta [Source:HGNC Symbol;Acc:HGNC:9381]	24962	0.10051938891410828	0.13154572	No	
+row_55	RELA	RELA proto-oncogene, NF-kB subunit [Source:HGNC Symbol;Acc:HGNC:9955]	26342	0.0817958191037178	0.098558575	No	
+row_56	TRAF2	TNF receptor associated factor 2 [Source:HGNC Symbol;Acc:HGNC:12032]	26416	0.07905083894729614	0.09858064	No	
+row_57	PRKAR2B	protein kinase cAMP-dependent type II regulatory subunit beta [Source:HGNC Symbol;Acc:HGNC:9392]	27531	0.04541132599115372	0.07144351	No	
+row_58	PRKAR2A	protein kinase cAMP-dependent type II regulatory subunit alpha [Source:HGNC Symbol;Acc:HGNC:9391]	27607	0.04243919253349304	0.070548505	No	
+row_59	TP53	tumor protein p53 [Source:HGNC Symbol;Acc:HGNC:11998]	27786	0.03438005596399307	0.06685431	No	
+row_60	CASP8	caspase 8 [Source:HGNC Symbol;Acc:HGNC:1509]	27926	0.027278894558548927	0.06397974	No	
+row_61	TNFRSF1A	TNF receptor superfamily member 1A [Source:HGNC Symbol;Acc:HGNC:11916]	28328	0.006434005219489336	0.053976763	No	
+row_62	MAP3K14	mitogen-activated protein kinase kinase kinase 14 [Source:HGNC Symbol;Acc:HGNC:6853]	31195	-0.020645571872591972	-0.0181155	No	
+row_63	TNF	tumor necrosis factor [Source:HGNC Symbol;Acc:HGNC:11892]	31508	-0.037193141877651215	-0.025136637	No	
+row_64	PIK3CA	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:8975]	31639	-0.04487235099077225	-0.02736693	No	
+row_65	NFKB1	nuclear factor kappa B subunit 1 [Source:HGNC Symbol;Acc:HGNC:7794]	32369	-0.08784458786249161	-0.04374981	No	
+row_66	IRAK4	interleukin 1 receptor associated kinase 4 [Source:HGNC Symbol;Acc:HGNC:17967]	32959	-0.1235184594988823	-0.055742975	No	
+row_67	CASP9	caspase 9 [Source:HGNC Symbol;Acc:HGNC:1511]	33058	-0.13073031604290009	-0.055131	No	
+row_68	PRKACA	protein kinase cAMP-activated catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:9380]	34161	-0.2069115787744522	-0.07814224	No	
+row_69	XIAP	X-linked inhibitor of apoptosis [Source:HGNC Symbol;Acc:HGNC:592]	34239	-0.21455952525138855	-0.07501458	No	
+row_70	AKT2	AKT serine/threonine kinase 2 [Source:HGNC Symbol;Acc:HGNC:392]	34594	-0.24473387002944946	-0.078187786	No	
+row_71	FAS	Fas cell surface death receptor [Source:HGNC Symbol;Acc:HGNC:11920]	35059	-0.2867288589477539	-0.08315288	No	
+row_72	NTRK1	neurotrophic receptor tyrosine kinase 1 [Source:HGNC Symbol;Acc:HGNC:8031]	35776	-0.3518720865249634	-0.09295818	No	
+row_73	PIK3R1	phosphoinositide-3-kinase regulatory subunit 1 [Source:HGNC Symbol;Acc:HGNC:8979]	36013	-0.37572944164276123	-0.09004298	No	
+row_74	PRKAR1A	protein kinase cAMP-dependent type I regulatory subunit alpha [Source:HGNC Symbol;Acc:HGNC:9388]	36590	-0.4469650089740753	-0.094052374	No	
+row_75	PPP3CA	protein phosphatase 3 catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:9314]	36743	-0.4652024805545807	-0.08689246	No	
+row_76	EXOG	exo/endonuclease G [Source:HGNC Symbol;Acc:HGNC:3347]	36889	-0.4863213896751404	-0.07905548	No	
+row_77	DFFB	DNA fragmentation factor subunit beta [Source:HGNC Symbol;Acc:HGNC:2773]	37286	-0.5427246689796448	-0.07624021	No	
+row_78	CASP7	caspase 7 [Source:HGNC Symbol;Acc:HGNC:1508]	37373	-0.5570614337921143	-0.06523497	No	
+row_79	AKT3	AKT serine/threonine kinase 3 [Source:HGNC Symbol;Acc:HGNC:393]	37504	-0.5764695405960083	-0.05488471	No	
+row_80	ATM	ATM serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:795]	37547	-0.5831993222236633	-0.042146605	No	
+row_81	BCL2	BCL2 apoptosis regulator [Source:HGNC Symbol;Acc:HGNC:990]	37860	-0.6438255906105042	-0.03481144	No	
+row_82	APAF1	apoptotic peptidase activating factor 1 [Source:HGNC Symbol;Acc:HGNC:576]	38178	-0.7176945805549622	-0.025854746	No	
+row_83	IL1R1	interleukin 1 receptor type 1 [Source:HGNC Symbol;Acc:HGNC:5993]	38256	-0.7366002202033997	-0.010372691	No	
+row_84	NGF	nerve growth factor [Source:HGNC Symbol;Acc:HGNC:7808]	38760	-0.9004043340682983	-0.0018024783	No	
+row_85	PPP3CB	protein phosphatase 3 catalytic subunit beta [Source:HGNC Symbol;Acc:HGNC:9315]	38854	-0.9440249800682068	0.018183205	No	

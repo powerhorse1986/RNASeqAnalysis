@@ -1,0 +1,59 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	DUSP2	dual specificity phosphatase 2 [Source:HGNC Symbol;Acc:HGNC:3068]	1662	0.7659940123558044	-0.0049898876	No	
+row_1	FARSA	phenylalanyl-tRNA synthetase subunit alpha [Source:HGNC Symbol;Acc:HGNC:3592]	1773	0.7445964813232422	0.02826092	No	
+row_2	DCTPP1	dCTP pyrophosphatase 1 [Source:HGNC Symbol;Acc:HGNC:28777]	2011	0.7010107040405273	0.056188438	No	
+row_3	IPO4	importin 4 [Source:HGNC Symbol;Acc:HGNC:19426]	2370	0.6511208415031433	0.07863942	No	
+row_4	NDUFAF4	NADH:ubiquinone oxidoreductase complex assembly factor 4 [Source:HGNC Symbol;Acc:HGNC:21034]	2403	0.647418200969696	0.109161235	No	
+row_5	RRP12	ribosomal RNA processing 12 homolog [Source:HGNC Symbol;Acc:HGNC:29100]	2723	0.6071637272834778	0.13047189	No	
+row_6	PHB1	prohibitin 1 [Source:HGNC Symbol;Acc:HGNC:8912]	2969	0.5804871916770935	0.15236424	No	
+row_7	BYSL	bystin like [Source:HGNC Symbol;Acc:HGNC:1157]	3403	0.5395122170448303	0.16751593	No	
+row_8	WDR43	WD repeat domain 43 [Source:HGNC Symbol;Acc:HGNC:28945]	3418	0.5378138422966003	0.19318901	No	
+row_9	PPAN	peter pan homolog [Source:HGNC Symbol;Acc:HGNC:9227]	4069	0.48129716515541077	0.20003182	No	
+row_10	NIP7	nucleolar pre-rRNA processing protein NIP7 [Source:HGNC Symbol;Acc:HGNC:24328]	4133	0.47692614793777466	0.2215182	No	
+row_11	SORD	sorbitol dehydrogenase [Source:HGNC Symbol;Acc:HGNC:11184]	4410	0.4584750831127167	0.2367213	No	
+row_12	HSPE1	heat shock protein family E (Hsp10) member 1 [Source:HGNC Symbol;Acc:HGNC:5269]	4634	0.44279995560646057	0.25250706	No	
+row_13	SUPV3L1	Suv3 like RNA helicase [Source:HGNC Symbol;Acc:HGNC:11471]	5644	0.3828553259372711	0.24550065	No	
+row_14	NOP2	NOP2 nucleolar protein [Source:HGNC Symbol;Acc:HGNC:7867]	6731	0.3387177288532257	0.23440959	No	
+row_15	NOC4L	nucleolar complex associated 4 homolog [Source:HGNC Symbol;Acc:HGNC:28461]	7333	0.3224233388900757	0.23480377	No	
+row_16	MRTO4	MRT4 homolog, ribosome maturation factor [Source:HGNC Symbol;Acc:HGNC:18477]	9540	0.2844184339046478	0.19274122	No	
+row_17	HSPD1	heat shock protein family D (Hsp60) member 1 [Source:HGNC Symbol;Acc:HGNC:5261]	9731	0.28221815824508667	0.20159079	No	
+row_18	HK2	hexokinase 2 [Source:HGNC Symbol;Acc:HGNC:4923]	10201	0.2765980660915375	0.20310779	No	
+row_19	SRM	spermidine synthase [Source:HGNC Symbol;Acc:HGNC:11296]	12091	0.25786277651786804	0.16778235	No	
+row_20	TBRG4	transforming growth factor beta regulator 4 [Source:HGNC Symbol;Acc:HGNC:17443]	15368	0.22899383306503296	0.09595923	No	
+row_21	WDR74	WD repeat domain 74 [Source:HGNC Symbol;Acc:HGNC:25529]	15818	0.2251388430595398	0.095492	No	
+row_22	EXOSC5	exosome component 5 [Source:HGNC Symbol;Acc:HGNC:24662]	17692	0.20811554789543152	0.05816398	No	
+row_23	PA2G4	proliferation-associated 2G4 [Source:HGNC Symbol;Acc:HGNC:8550]	18997	0.1945587396621704	0.034579474	No	
+row_24	CDK4	cyclin dependent kinase 4 [Source:HGNC Symbol;Acc:HGNC:1773]	20427	0.1769155114889145	0.0069777737	No	
+row_25	NOP16	NOP16 nucleolar protein [Source:HGNC Symbol;Acc:HGNC:26934]	20704	0.17402786016464233	0.00841512	No	
+row_26	GRWD1	glutamate rich WD repeat containing 1 [Source:HGNC Symbol;Acc:HGNC:21270]	21796	0.16311177611351013	-0.011300895	No	
+row_27	RRP9	ribosomal RNA processing 9, U3 small nucleolar RNA binding protein [Source:HGNC Symbol;Acc:HGNC:16829]	21852	0.16144049167633057	-0.004879899	No	
+row_28	NOP56	NOP56 ribonucleoprotein [Source:HGNC Symbol;Acc:HGNC:15911]	23136	0.14238961040973663	-0.030457672	No	
+row_29	TCOF1	treacle ribosome biogenesis factor 1 [Source:HGNC Symbol;Acc:HGNC:11654]	23920	0.12798070907592773	-0.044079337	No	
+row_30	PUS1	pseudouridine synthase 1 [Source:HGNC Symbol;Acc:HGNC:15508]	24194	0.11975228786468506	-0.045192722	No	
+row_31	IMP4	IMP U3 small nucleolar ribonucleoprotein 4 [Source:HGNC Symbol;Acc:HGNC:30856]	24486	0.10968516021966934	-0.04724883	No	
+row_32	PES1	pescadillo ribosomal biogenesis factor 1 [Source:HGNC Symbol;Acc:HGNC:8848]	26426	0.07848133146762848	-0.092520714	No	
+row_33	UNG	uracil DNA glycosylase [Source:HGNC Symbol;Acc:HGNC:12572]	26927	0.07165886461734772	-0.10170623	No	
+row_34	RCL1	RNA terminal phosphate cyclase like 1 [Source:HGNC Symbol;Acc:HGNC:17687]	27669	0.039939381182193756	-0.11852574	No	
+row_35	PPRC1	PPARG related coactivator 1 [Source:HGNC Symbol;Acc:HGNC:30025]	30909	-0.006109379697591066	-0.20019895	No	
+row_36	SLC19A1	solute carrier family 19 member 1 [Source:HGNC Symbol;Acc:HGNC:10937]	31111	-0.01564806140959263	-0.20452835	No	
+row_37	LAS1L	LAS1 like ribosome biogenesis factor [Source:HGNC Symbol;Acc:HGNC:25726]	31905	-0.060523487627506256	-0.22166765	No	
+row_38	NOLC1	nucleolar and coiled-body phosphoprotein 1 [Source:HGNC Symbol;Acc:HGNC:15608]	32200	-0.07699855417013168	-0.22538154	No	
+row_39	AIMP2	aminoacyl tRNA synthetase complex interacting multifunctional protein 2 [Source:HGNC Symbol;Acc:HGNC:20609]	33352	-0.14982932806015015	-0.24725877	No	
+row_40	DDX18	DEAD-box helicase 18 [Source:HGNC Symbol;Acc:HGNC:2741]	33597	-0.1661740392446518	-0.24539168	No	
+row_41	MYBBP1A	MYB binding protein 1a [Source:HGNC Symbol;Acc:HGNC:7546]	33604	-0.1664436310529709	-0.23748852	No	
+row_42	MYC	MYC proto-oncogene, bHLH transcription factor [Source:HGNC Symbol;Acc:HGNC:7553]	34931	-0.27589842677116394	-0.25769338	Yes	
+row_43	SLC29A2	solute carrier family 29 member 2 [Source:HGNC Symbol;Acc:HGNC:11004]	34970	-0.2786760628223419	-0.24516857	Yes	
+row_44	CBX3	chromobox 3 [Source:HGNC Symbol;Acc:HGNC:1553]	35486	-0.3252709209918976	-0.24246019	Yes	
+row_45	NPM1	nucleophosmin 1 [Source:HGNC Symbol;Acc:HGNC:7910]	35616	-0.33645957708358765	-0.2294419	Yes	
+row_46	TFB2M	transcription factor B2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:18559]	36103	-0.38689592480659485	-0.22301729	Yes	
+row_47	RABEPK	Rab9 effector protein with kelch motifs [Source:HGNC Symbol;Acc:HGNC:16896]	36429	-0.42699941992759705	-0.21057749	Yes	
+row_48	UTP20	UTP20 small subunit processome component [Source:HGNC Symbol;Acc:HGNC:17897]	36690	-0.4595109522342682	-0.19491935	Yes	
+row_49	PRMT3	protein arginine methyltransferase 3 [Source:HGNC Symbol;Acc:HGNC:30163]	36971	-0.49791157245635986	-0.17790896	Yes	
+row_50	PLK1	polo like kinase 1 [Source:HGNC Symbol;Acc:HGNC:9077]	37120	-0.5184751152992249	-0.1565629	Yes	
+row_51	GNL3	G protein nucleolar 3 [Source:HGNC Symbol;Acc:HGNC:29931]	37382	-0.5589175820350647	-0.1361193	Yes	
+row_52	TMEM97	transmembrane protein 97 [Source:HGNC Symbol;Acc:HGNC:28106]	37387	-0.559724748134613	-0.1091328	Yes	
+row_53	MCM5	minichromosome maintenance complex component 5 [Source:HGNC Symbol;Acc:HGNC:6948]	37624	-0.5977068543434143	-0.08617934	Yes	
+row_54	MPHOSPH10	M-phase phosphoprotein 10 [Source:HGNC Symbol;Acc:HGNC:7213]	37779	-0.6273990273475647	-0.059713773	Yes	
+row_55	PLK4	polo like kinase 4 [Source:HGNC Symbol;Acc:HGNC:11397]	37894	-0.652072012424469	-0.03104189	Yes	
+row_56	MAP3K6	mitogen-activated protein kinase kinase kinase 6 [Source:HGNC Symbol;Acc:HGNC:6858]	37948	-0.6648064851760864	-2.1001164E-4	Yes	
+row_57	MCM4	minichromosome maintenance complex component 4 [Source:HGNC Symbol;Acc:HGNC:6947]	38636	-0.8530469536781311	0.023687178	Yes	

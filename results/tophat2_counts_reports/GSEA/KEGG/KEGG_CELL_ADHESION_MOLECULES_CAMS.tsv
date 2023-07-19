@@ -1,0 +1,131 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	NECTIN2	nectin cell adhesion molecule 2 [Source:HGNC Symbol;Acc:HGNC:9707]	12	2.0790979862213135	0.03355463	Yes	
+row_1	ICAM1	intercellular adhesion molecule 1 [Source:HGNC Symbol;Acc:HGNC:5344]	52	1.7167134284973145	0.060523164	Yes	
+row_2	PVR	PVR cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:9705]	119	1.4501677751541138	0.08246637	Yes	
+row_3	PTPRF	protein tyrosine phosphatase receptor type F [Source:HGNC Symbol;Acc:HGNC:9670]	184	1.3483238220214844	0.10280172	Yes	
+row_4	F11R	F11 receptor [Source:HGNC Symbol;Acc:HGNC:14685]	278	1.2475533485412598	0.12076075	Yes	
+row_5	ITGA6	integrin subunit alpha 6 [Source:HGNC Symbol;Acc:HGNC:6142]	314	1.212549090385437	0.1396202	Yes	
+row_6	CADM1	cell adhesion molecule 1 [Source:HGNC Symbol;Acc:HGNC:5951]	422	1.14200758934021	0.15550542	Yes	
+row_7	HLA-B	major histocompatibility complex, class I, B [Source:HGNC Symbol;Acc:HGNC:4932]	423	1.1419479846954346	0.17410247	Yes	
+row_8	NRXN3	neurexin 3 [Source:HGNC Symbol;Acc:HGNC:8010]	437	1.1327146291732788	0.19221954	Yes	
+row_9	ICOSLG	inducible T cell costimulator ligand [Source:HGNC Symbol;Acc:HGNC:17087]	710	1.0055173635482788	0.20169874	Yes	
+row_10	SELP	selectin P [Source:HGNC Symbol;Acc:HGNC:10721]	880	0.9550620913505554	0.2129676	Yes	
+row_11	CLDN22	claudin 22 [Source:HGNC Symbol;Acc:HGNC:2044]	886	0.9531582593917847	0.22836336	Yes	
+row_12	CD274	CD274 molecule [Source:HGNC Symbol;Acc:HGNC:17635]	988	0.9248411059379578	0.24086408	Yes	
+row_13	CLDN1	claudin 1 [Source:HGNC Symbol;Acc:HGNC:2032]	1015	0.9155086278915405	0.2551143	Yes	
+row_14	L1CAM	L1 cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:6470]	1158	0.8763357400894165	0.2657856	Yes	
+row_15	VCAM1	vascular cell adhesion molecule 1 [Source:HGNC Symbol;Acc:HGNC:12663]	1271	0.8452848792076111	0.27671185	Yes	
+row_16	PDCD1LG2	programmed cell death 1 ligand 2 [Source:HGNC Symbol;Acc:HGNC:18731]	1323	0.8338547945022583	0.28899845	Yes	
+row_17	CLDN16	claudin 16 [Source:HGNC Symbol;Acc:HGNC:2037]	1344	0.8298616409301758	0.302006	Yes	
+row_18	HLA-A	major histocompatibility complex, class I, A [Source:HGNC Symbol;Acc:HGNC:4931]	1379	0.822458803653717	0.31453803	Yes	
+row_19	CDH2	cadherin 2 [Source:HGNC Symbol;Acc:HGNC:1759]	1602	0.7772426009178162	0.32156733	Yes	
+row_20	HLA-G	major histocompatibility complex, class I, G [Source:HGNC Symbol;Acc:HGNC:4964]	1608	0.7749829292297363	0.33406144	Yes	
+row_21	CADM3	cell adhesion molecule 3 [Source:HGNC Symbol;Acc:HGNC:17601]	1726	0.7529455423355103	0.34335715	Yes	
+row_22	CNTN1	contactin 1 [Source:HGNC Symbol;Acc:HGNC:2171]	1908	0.7218024730682373	0.35052305	Yes	
+row_23	HLA-E	major histocompatibility complex, class I, E [Source:HGNC Symbol;Acc:HGNC:4962]	2055	0.695214569568634	0.35814333	Yes	
+row_24	SDC4	syndecan 4 [Source:HGNC Symbol;Acc:HGNC:10661]	2119	0.6846254467964172	0.36769548	Yes	
+row_25	HLA-F	major histocompatibility complex, class I, F [Source:HGNC Symbol;Acc:HGNC:4963]	2314	0.6601538062095642	0.37352782	Yes	
+row_26	HLA-C	major histocompatibility complex, class I, C [Source:HGNC Symbol;Acc:HGNC:4933]	2880	0.5896128416061401	0.3688054	Yes	
+row_27	NCAM1	neural cell adhesion molecule 1 [Source:HGNC Symbol;Acc:HGNC:7656]	3423	0.5375961065292358	0.363819	Yes	
+row_28	CDH3	cadherin 3 [Source:HGNC Symbol;Acc:HGNC:1762]	3640	0.5186946988105774	0.36678988	Yes	
+row_29	CD28	CD28 molecule [Source:HGNC Symbol;Acc:HGNC:1653]	3707	0.5110781192779541	0.37343967	Yes	
+row_30	ITGB8	integrin subunit beta 8 [Source:HGNC Symbol;Acc:HGNC:6163]	3732	0.5089679956436157	0.38111994	Yes	
+row_31	MPZL1	myelin protein zero like 1 [Source:HGNC Symbol;Acc:HGNC:7226]	3775	0.5053990483283997	0.38828573	Yes	
+row_32	CLDN6	claudin 6 [Source:HGNC Symbol;Acc:HGNC:2048]	3783	0.5042305588722229	0.39631984	Yes	
+row_33	CTLA4	cytotoxic T-lymphocyte associated protein 4 [Source:HGNC Symbol;Acc:HGNC:2505]	3901	0.49511274695396423	0.4014166	Yes	
+row_34	CNTNAP2	contactin associated protein 2 [Source:HGNC Symbol;Acc:HGNC:13830]	4274	0.4670056998729706	0.39959064	Yes	
+row_35	CD22	CD22 molecule [Source:HGNC Symbol;Acc:HGNC:1643]	4493	0.45197200775146484	0.4014242	Yes	
+row_36	HLA-DMA	major histocompatibility complex, class II, DM alpha [Source:HGNC Symbol;Acc:HGNC:4934]	4548	0.44793176651000977	0.40734985	Yes	
+row_37	CDH5	cadherin 5 [Source:HGNC Symbol;Acc:HGNC:1764]	4784	0.431635320186615	0.40842125	Yes	
+row_38	SELL	selectin L [Source:HGNC Symbol;Acc:HGNC:10720]	4889	0.4241705536842346	0.4126923	Yes	
+row_39	NRCAM	neuronal cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:7994]	4929	0.42151299118995667	0.41856802	Yes	
+row_40	CDH4	cadherin 4 [Source:HGNC Symbol;Acc:HGNC:1763]	5043	0.4151538908481598	0.42246407	Yes	
+row_41	CD58	CD58 molecule [Source:HGNC Symbol;Acc:HGNC:1688]	5049	0.41482633352279663	0.42909288	Yes	
+row_42	HLA-DRB5	major histocompatibility complex, class II, DR beta 5 [Source:HGNC Symbol;Acc:HGNC:4953]	5458	0.3918805420398712	0.42513075	Yes	
+row_43	HLA-DMB	major histocompatibility complex, class II, DM beta [Source:HGNC Symbol;Acc:HGNC:4935]	5779	0.37675923109054565	0.42315346	Yes	
+row_44	NLGN4X	neuroligin 4 X-linked [Source:HGNC Symbol;Acc:HGNC:14287]	5803	0.37568399310112	0.4286885	Yes	
+row_45	CLDN19	claudin 19 [Source:HGNC Symbol;Acc:HGNC:2040]	6148	0.3609484136104584	0.4258452	Yes	
+row_46	MAG	myelin associated glycoprotein [Source:HGNC Symbol;Acc:HGNC:6783]	6166	0.36004307866096497	0.43127763	Yes	
+row_47	HLA-DQB1	major histocompatibility complex, class II, DQ beta 1 [Source:HGNC Symbol;Acc:HGNC:4944]	6306	0.3541731834411621	0.43352142	Yes	
+row_48	CD8A	CD8a molecule [Source:HGNC Symbol;Acc:HGNC:1706]	6465	0.348068505525589	0.43518406	Yes	
+row_49	CLDN11	claudin 11 [Source:HGNC Symbol;Acc:HGNC:8514]	6468	0.3478213846683502	0.44079775	Yes	
+row_50	HLA-DRB1	major histocompatibility complex, class II, DR beta 1 [Source:HGNC Symbol;Acc:HGNC:4948]	6570	0.34431561827659607	0.44384438	Yes	
+row_51	CLDN10	claudin 10 [Source:HGNC Symbol;Acc:HGNC:2033]	6571	0.3442944586277008	0.44945136	Yes	
+row_52	SPN	sialophorin [Source:HGNC Symbol;Acc:HGNC:11249]	6610	0.3431161344051361	0.4540757	Yes	
+row_53	CLDN14	claudin 14 [Source:HGNC Symbol;Acc:HGNC:2035]	6709	0.33953580260276794	0.45712057	Yes	
+row_54	CLDN9	claudin 9 [Source:HGNC Symbol;Acc:HGNC:2051]	6738	0.3383806049823761	0.46192133	Yes	
+row_55	ICOS	inducible T cell costimulator [Source:HGNC Symbol;Acc:HGNC:5351]	6847	0.33485764265060425	0.4646365	Yes	
+row_56	CLDN7	claudin 7 [Source:HGNC Symbol;Acc:HGNC:2049]	6876	0.3341054320335388	0.46936762	Yes	
+row_57	ITGAM	integrin subunit alpha M [Source:HGNC Symbol;Acc:HGNC:6149]	6930	0.33251044154167175	0.47343898	Yes	
+row_58	NRXN1	neurexin 1 [Source:HGNC Symbol;Acc:HGNC:8008]	7237	0.32482004165649414	0.47097075	Yes	
+row_59	CD86	CD86 molecule [Source:HGNC Symbol;Acc:HGNC:1705]	7239	0.32477813959121704	0.47623453	Yes	
+row_60	CD80	CD80 molecule [Source:HGNC Symbol;Acc:HGNC:1700]	7319	0.3228379189968109	0.47948918	Yes	
+row_61	CNTNAP1	contactin associated protein 1 [Source:HGNC Symbol;Acc:HGNC:8011]	7518	0.3181714117527008	0.47965083	Yes	
+row_62	NECTIN3	nectin cell adhesion molecule 3 [Source:HGNC Symbol;Acc:HGNC:17664]	7874	0.31055963039398193	0.47570807	Yes	
+row_63	NCAM2	neural cell adhesion molecule 2 [Source:HGNC Symbol;Acc:HGNC:7657]	7992	0.30817922949790955	0.47776055	Yes	
+row_64	CLDN2	claudin 2 [Source:HGNC Symbol;Acc:HGNC:2041]	8151	0.30485185980796814	0.4787194	Yes	
+row_65	CDH15	cadherin 15 [Source:HGNC Symbol;Acc:HGNC:1754]	8218	0.30366820096969604	0.48199144	Yes	
+row_66	CD34	CD34 molecule [Source:HGNC Symbol;Acc:HGNC:1662]	8389	0.3008606433868408	0.48258105	Yes	
+row_67	CD4	CD4 molecule [Source:HGNC Symbol;Acc:HGNC:1678]	8437	0.3001229763031006	0.48627707	Yes	
+row_68	SELE	selectin E [Source:HGNC Symbol;Acc:HGNC:10718]	8690	0.29615411162376404	0.48471108	No	
+row_69	CD6	CD6 molecule [Source:HGNC Symbol;Acc:HGNC:1691]	8886	0.2930472195148468	0.48453963	No	
+row_70	CLDN8	claudin 8 [Source:HGNC Symbol;Acc:HGNC:2050]	9587	0.28402769565582275	0.471418	No	
+row_71	CLDN17	claudin 17 [Source:HGNC Symbol;Acc:HGNC:2038]	10609	0.2721891701221466	0.44996524	No	
+row_72	SIGLEC1	sialic acid binding Ig like lectin 1 [Source:HGNC Symbol;Acc:HGNC:11127]	10682	0.27154797315597534	0.45256206	No	
+row_73	OCLN	occludin [Source:HGNC Symbol;Acc:HGNC:8104]	10704	0.27129966020584106	0.45644787	No	
+row_74	CLDN3	claudin 3 [Source:HGNC Symbol;Acc:HGNC:2045]	10875	0.2697167992591858	0.4565303	No	
+row_75	CD8B	CD8b molecule [Source:HGNC Symbol;Acc:HGNC:1707]	11191	0.26642048358917236	0.45288286	No	
+row_76	CNTN2	contactin 2 [Source:HGNC Symbol;Acc:HGNC:2172]	11245	0.2658431828022003	0.45586848	No	
+row_77	CD226	CD226 molecule [Source:HGNC Symbol;Acc:HGNC:16961]	12004	0.25863125920295715	0.44086277	No	
+row_78	HLA-DQA2	major histocompatibility complex, class II, DQ alpha 2 [Source:HGNC Symbol;Acc:HGNC:4943]	13022	0.24960824847221375	0.4191437	No	
+row_79	HLA-DOB	major histocompatibility complex, class II, DO beta [Source:HGNC Symbol;Acc:HGNC:4937]	13224	0.24778738617897034	0.41808304	No	
+row_80	PDCD1	programmed cell death 1 [Source:HGNC Symbol;Acc:HGNC:8760]	14368	0.23780015110969543	0.39297718	No	
+row_81	ITGAL	integrin subunit alpha L [Source:HGNC Symbol;Acc:HGNC:6148]	14909	0.2330143302679062	0.38308126	No	
+row_82	HLA-DQA1	major histocompatibility complex, class II, DQ alpha 1 [Source:HGNC Symbol;Acc:HGNC:4942]	15080	0.23157727718353271	0.38254255	No	
+row_83	ESAM	endothelial cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:17474]	15128	0.23097071051597595	0.3851124	No	
+row_84	CD2	CD2 molecule [Source:HGNC Symbol;Acc:HGNC:1639]	15237	0.22999510169029236	0.38611984	No	
+row_85	CD40LG	CD40 ligand [Source:HGNC Symbol;Acc:HGNC:11935]	17114	0.213067889213562	0.34202743	No	
+row_86	CDH1	cadherin 1 [Source:HGNC Symbol;Acc:HGNC:1748]	17712	0.2078263908624649	0.3302762	No	
+row_87	PTPRC	protein tyrosine phosphatase receptor type C [Source:HGNC Symbol;Acc:HGNC:9666]	17939	0.20537613332271576	0.32789102	No	
+row_88	ITGB1	integrin subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:6153]	18245	0.2000274956226349	0.32341588	No	
+row_89	ITGB7	integrin subunit beta 7 [Source:HGNC Symbol;Acc:HGNC:6162]	21153	0.16953861713409424	0.25247556	No	
+row_90	NLGN3	neuroligin 3 [Source:HGNC Symbol;Acc:HGNC:14289]	21422	0.16628968715667725	0.24838905	No	
+row_91	CLDN20	claudin 20 [Source:HGNC Symbol;Acc:HGNC:2042]	21889	0.1604173481464386	0.23918699	No	
+row_92	ITGA4	integrin subunit alpha 4 [Source:HGNC Symbol;Acc:HGNC:6140]	22292	0.15209345519542694	0.23147196	No	
+row_93	CLDN5	claudin 5 [Source:HGNC Symbol;Acc:HGNC:2047]	24469	0.110488660633564	0.17810309	No	
+row_94	HLA-DOA	major histocompatibility complex, class II, DO alpha [Source:HGNC Symbol;Acc:HGNC:4936]	26243	0.08344751596450806	0.13451111	No	
+row_95	ICAM3	intercellular adhesion molecule 3 [Source:HGNC Symbol;Acc:HGNC:5346]	26453	0.0771389976143837	0.13046856	No	
+row_96	CD276	CD276 molecule [Source:HGNC Symbol;Acc:HGNC:19137]	26550	0.07295233756303787	0.12922274	No	
+row_97	MADCAM1	mucosal vascular addressin cell adhesion molecule 1 [Source:HGNC Symbol;Acc:HGNC:6765]	27049	0.06647320091724396	0.117679454	No	
+row_98	NEO1	neogenin 1 [Source:HGNC Symbol;Acc:HGNC:7754]	27086	0.06508763879537582	0.11782672	No	
+row_99	CLDN4	claudin 4 [Source:HGNC Symbol;Acc:HGNC:2046]	27319	0.055035192519426346	0.112841085	No	
+row_100	NFASC	neurofascin [Source:HGNC Symbol;Acc:HGNC:29866]	31617	-0.04382406920194626	0.0046127555	No	
+row_101	ALCAM	activated leukocyte cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:400]	31707	-0.048272665590047836	0.0031424726	No	
+row_102	CLDN15	claudin 15 [Source:HGNC Symbol;Acc:HGNC:2036]	31915	-0.061130180954933167	-0.0011100797	No	
+row_103	VCAN	versican [Source:HGNC Symbol;Acc:HGNC:2464]	32413	-0.09017437696456909	-0.012242019	No	
+row_104	MPZ	myelin protein zero [Source:HGNC Symbol;Acc:HGNC:7225]	32730	-0.10824914276599884	-0.018490704	No	
+row_105	CD40	CD40 molecule [Source:HGNC Symbol;Acc:HGNC:11919]	32935	-0.121970534324646	-0.02167639	No	
+row_106	NECTIN1	nectin cell adhesion molecule 1 [Source:HGNC Symbol;Acc:HGNC:9706]	32974	-0.12451984733343124	-0.020611953	No	
+row_107	JAM3	junctional adhesion molecule 3 [Source:HGNC Symbol;Acc:HGNC:15532]	33067	-0.13145646452903748	-0.020803617	No	
+row_108	NLGN2	neuroligin 2 [Source:HGNC Symbol;Acc:HGNC:14290]	33967	-0.19112756848335266	-0.04048342	No	
+row_109	HLA-DPB1	major histocompatibility complex, class II, DP beta 1 [Source:HGNC Symbol;Acc:HGNC:4940]	34673	-0.2521970868110657	-0.054250192	No	
+row_110	SDC3	syndecan 3 [Source:HGNC Symbol;Acc:HGNC:10660]	35096	-0.2906874418258667	-0.060215224	No	
+row_111	CLDN23	claudin 23 [Source:HGNC Symbol;Acc:HGNC:17591]	35517	-0.32835423946380615	-0.06551614	No	
+row_112	NRXN2	neurexin 2 [Source:HGNC Symbol;Acc:HGNC:8009]	35641	-0.33840110898017883	-0.06312358	No	
+row_113	SELPLG	selectin P ligand [Source:HGNC Symbol;Acc:HGNC:10722]	35742	-0.34777289628982544	-0.05999527	No	
+row_114	HLA-DRA	major histocompatibility complex, class II, DR alpha [Source:HGNC Symbol;Acc:HGNC:4947]	35780	-0.3521897494792938	-0.055197794	No	
+row_115	NEGR1	neuronal growth regulator 1 [Source:HGNC Symbol;Acc:HGNC:17302]	36177	-0.39512279629707336	-0.05880288	No	
+row_116	HLA-DPA1	major histocompatibility complex, class II, DP alpha 1 [Source:HGNC Symbol;Acc:HGNC:4938]	36271	-0.4068700075149536	-0.054534685	No	
+row_117	ITGAV	integrin subunit alpha V [Source:HGNC Symbol;Acc:HGNC:6150]	36340	-0.41503044962882996	-0.049499772	No	
+row_118	PTPRM	protein tyrosine phosphatase receptor type M [Source:HGNC Symbol;Acc:HGNC:9675]	36838	-0.47942641377449036	-0.0542926	No	
+row_119	ICAM2	intercellular adhesion molecule 2 [Source:HGNC Symbol;Acc:HGNC:5345]	36879	-0.485533207654953	-0.047399636	No	
+row_120	JAM2	junctional adhesion molecule 2 [Source:HGNC Symbol;Acc:HGNC:14686]	36972	-0.498004287481308	-0.041621935	No	
+row_121	SDC1	syndecan 1 [Source:HGNC Symbol;Acc:HGNC:10658]	37048	-0.5083285570144653	-0.0352451	No	
+row_122	GLG1	golgi glycoprotein 1 [Source:HGNC Symbol;Acc:HGNC:4316]	37497	-0.5752770304679871	-0.037234668	No	
+row_123	ITGB2	integrin subunit beta 2 [Source:HGNC Symbol;Acc:HGNC:6155]	37611	-0.595384418964386	-0.030403508	No	
+row_124	NLGN1	neuroligin 1 [Source:HGNC Symbol;Acc:HGNC:14291]	37916	-0.6564362645149231	-0.02742053	No	
+row_125	ITGA8	integrin subunit alpha 8 [Source:HGNC Symbol;Acc:HGNC:6144]	37940	-0.662917971611023	-0.017207788	No	
+row_126	ITGA9	integrin subunit alpha 9 [Source:HGNC Symbol;Acc:HGNC:6145]	38139	-0.7091076970100403	-0.010679614	No	
+row_127	CLDN18	claudin 18 [Source:HGNC Symbol;Acc:HGNC:2039]	38828	-0.9320440292358398	-0.012943831	No	
+row_128	SDC2	syndecan 2 [Source:HGNC Symbol;Acc:HGNC:10659]	38830	-0.9324966669082642	0.002216863	No	
+row_129	CD99	CD99 molecule (Xg blood group) [Source:HGNC Symbol;Acc:HGNC:7082]	38980	-1.017462134361267	0.015009001	No	

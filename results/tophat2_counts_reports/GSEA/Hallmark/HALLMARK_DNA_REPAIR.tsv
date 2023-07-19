@@ -1,0 +1,150 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GSDME	gasdermin E [Source:HGNC Symbol;Acc:HGNC:2810]	46	1.747372031211853	0.027974477	No	
+row_1	BCAM	basal cell adhesion molecule (Lutheran blood group) [Source:HGNC Symbol;Acc:HGNC:6722]	430	1.1396123170852661	0.03726513	No	
+row_2	BCAP31	B cell receptor associated protein 31 [Source:HGNC Symbol;Acc:HGNC:16695]	680	1.01754891872406	0.04791905	No	
+row_3	STX3	syntaxin 3 [Source:HGNC Symbol;Acc:HGNC:11438]	724	1.0037037134170532	0.06356732	No	
+row_4	TAF13	TATA-box binding protein associated factor 13 [Source:HGNC Symbol;Acc:HGNC:11546]	865	0.9588475227355957	0.076007076	No	
+row_5	PNP	purine nucleoside phosphorylase [Source:HGNC Symbol;Acc:HGNC:7892]	902	0.9462262988090515	0.09087434	No	
+row_6	ADRM1	ADRM1 26S proteasome ubiquitin receptor [Source:HGNC Symbol;Acc:HGNC:15759]	1260	0.8478729128837585	0.09595909	No	
+row_7	AK3	adenylate kinase 3 [Source:HGNC Symbol;Acc:HGNC:17376]	1432	0.8101319670677185	0.105132364	No	
+row_8	RALA	RAS like proto-oncogene A [Source:HGNC Symbol;Acc:HGNC:9839]	1472	0.8026982545852661	0.117529884	No	
+row_9	CANT1	calcium activated nucleotidase 1 [Source:HGNC Symbol;Acc:HGNC:19721]	1479	0.8016552925109863	0.13074706	No	
+row_10	RRM2B	ribonucleotide reductase regulatory TP53 inducible subunit M2B [Source:HGNC Symbol;Acc:HGNC:17296]	1764	0.7462261319160461	0.1359883	No	
+row_11	POLB	DNA polymerase beta [Source:HGNC Symbol;Acc:HGNC:9174]	1913	0.7206045985221863	0.1442519	No	
+row_12	COX17	cytochrome c oxidase copper chaperone COX17 [Source:HGNC Symbol;Acc:HGNC:2264]	2095	0.6877768635749817	0.15113099	No	
+row_13	ERCC2	ERCC excision repair 2, TFIIH core complex helicase subunit [Source:HGNC Symbol;Acc:HGNC:3434]	2539	0.6280626654624939	0.15036851	No	
+row_14	NME3	NME/NM23 nucleoside diphosphate kinase 3 [Source:HGNC Symbol;Acc:HGNC:7851]	2609	0.6192629933357239	0.15894587	No	
+row_15	DGUOK	deoxyguanosine kinase [Source:HGNC Symbol;Acc:HGNC:2858]	3155	0.5616630911827087	0.15448879	No	
+row_16	GTF2A2	general transcription factor IIA subunit 2 [Source:HGNC Symbol;Acc:HGNC:4647]	3378	0.5409751534461975	0.15787965	No	
+row_17	RFC5	replication factor C subunit 5 [Source:HGNC Symbol;Acc:HGNC:9973]	3456	0.5339558124542236	0.16483141	No	
+row_18	POLE4	DNA polymerase epsilon 4, accessory subunit [Source:HGNC Symbol;Acc:HGNC:18755]	3563	0.5245044827461243	0.17088996	No	
+row_19	NUDT9	nudix hydrolase 9 [Source:HGNC Symbol;Acc:HGNC:8056]	3667	0.5154067277908325	0.17687288	No	
+row_20	NME1	NME/NM23 nucleoside diphosphate kinase 1 [Source:HGNC Symbol;Acc:HGNC:7849]	3726	0.5091229677200317	0.18389244	No	
+row_21	VPS37B	VPS37B subunit of ESCRT-I [Source:HGNC Symbol;Acc:HGNC:25754]	3945	0.4916575849056244	0.1865623	No	
+row_22	GUK1	guanylate kinase 1 [Source:HGNC Symbol;Acc:HGNC:4693]	3991	0.488275945186615	0.19356394	No	
+row_23	PDE6G	phosphodiesterase 6G [Source:HGNC Symbol;Acc:HGNC:8789]	4053	0.482380747795105	0.20006141	No	
+row_24	MRPL40	mitochondrial ribosomal protein L40 [Source:HGNC Symbol;Acc:HGNC:14491]	4062	0.48187050223350525	0.20789474	No	
+row_25	CCNO	cyclin O [Source:HGNC Symbol;Acc:HGNC:18576]	4123	0.47738996148109436	0.21433435	No	
+row_26	POLR2K	RNA polymerase II, I and III subunit K [Source:HGNC Symbol;Acc:HGNC:9198]	4473	0.4530051350593567	0.21303675	No	
+row_27	GTF2H5	general transcription factor IIH subunit 5 [Source:HGNC Symbol;Acc:HGNC:21157]	4535	0.4491288661956787	0.21897967	No	
+row_28	EIF1B	eukaryotic translation initiation factor 1B [Source:HGNC Symbol;Acc:HGNC:30792]	4654	0.4413846731185913	0.22334763	No	
+row_29	APRT	adenine phosphoribosyltransferase [Source:HGNC Symbol;Acc:HGNC:626]	4715	0.4365314543247223	0.22910585	No	
+row_30	SURF1	SURF1 cytochrome c oxidase assembly factor [Source:HGNC Symbol;Acc:HGNC:11474]	4811	0.42953839898109436	0.23385964	No	
+row_31	ELOA	elongin A [Source:HGNC Symbol;Acc:HGNC:11620]	5185	0.40653467178344727	0.23117827	No	
+row_32	VPS37D	VPS37D subunit of ESCRT-I [Source:HGNC Symbol;Acc:HGNC:18287]	5419	0.3938352167606354	0.23183623	No	
+row_33	POLR2E	RNA polymerase II, I and III subunit E [Source:HGNC Symbol;Acc:HGNC:9192]	5429	0.3931106626987457	0.23816393	No	
+row_34	SDCBP	syndecan binding protein [Source:HGNC Symbol;Acc:HGNC:10662]	5438	0.3928506672382355	0.24451266	No	
+row_35	RBX1	ring-box 1 [Source:HGNC Symbol;Acc:HGNC:9928]	5732	0.37907153367996216	0.2434025	No	
+row_36	POLR2H	RNA polymerase II, I and III subunit H [Source:HGNC Symbol;Acc:HGNC:9195]	6293	0.35449981689453125	0.23511001	No	
+row_37	MPC2	mitochondrial pyruvate carrier 2 [Source:HGNC Symbol;Acc:HGNC:24515]	6449	0.3487479090690613	0.23699453	No	
+row_38	NELFE	negative elongation factor complex member E [Source:HGNC Symbol;Acc:HGNC:13974]	6467	0.3479458689689636	0.24236609	No	
+row_39	EDF1	endothelial differentiation related factor 1 [Source:HGNC Symbol;Acc:HGNC:3164]	6550	0.3451673686504364	0.24604256	No	
+row_40	TSG101	tumor susceptibility 101 [Source:HGNC Symbol;Acc:HGNC:15971]	6921	0.33287569880485535	0.24220885	No	
+row_41	TAF10	TATA-box binding protein associated factor 10 [Source:HGNC Symbol;Acc:HGNC:11543]	7129	0.3275909423828125	0.24242155	No	
+row_42	MPG	N-methylpurine DNA glycosylase [Source:HGNC Symbol;Acc:HGNC:7211]	7258	0.3242982029914856	0.24458319	No	
+row_43	POLR2I	RNA polymerase II subunit I [Source:HGNC Symbol;Acc:HGNC:9196]	8391	0.3008478283882141	0.220887	No	
+row_44	ZNF707	zinc finger protein 707 [Source:HGNC Symbol;Acc:HGNC:27815]	8743	0.2955508232116699	0.21691276	No	
+row_45	DDB2	damage specific DNA binding protein 2 [Source:HGNC Symbol;Acc:HGNC:2718]	9498	0.2850760817527771	0.20254163	No	
+row_46	GTF2H1	general transcription factor IIH subunit 1 [Source:HGNC Symbol;Acc:HGNC:4655]	11443	0.2639380991458893	0.15763332	No	
+row_47	POLR1C	RNA polymerase I and III subunit C [Source:HGNC Symbol;Acc:HGNC:20194]	12362	0.2553657293319702	0.13860679	No	
+row_48	NT5C	5', 3'-nucleotidase, cytosolic [Source:HGNC Symbol;Acc:HGNC:17144]	12968	0.25020766258239746	0.12743358	No	
+row_49	POLR2G	RNA polymerase II subunit G [Source:HGNC Symbol;Acc:HGNC:9194]	13782	0.24239316582679749	0.11085406	No	
+row_50	GTF2B	general transcription factor IIB [Source:HGNC Symbol;Acc:HGNC:4648]	13888	0.2415798157453537	0.11221959	No	
+row_51	UMPS	uridine monophosphate synthetase [Source:HGNC Symbol;Acc:HGNC:12563]	14399	0.2376444935798645	0.10324655	No	
+row_52	NCBP2	nuclear cap binding protein subunit 2 [Source:HGNC Symbol;Acc:HGNC:7659]	14505	0.2367568165063858	0.10453164	No	
+row_53	POLR2J	RNA polymerase II subunit J [Source:HGNC Symbol;Acc:HGNC:9197]	15120	0.23109441995620728	0.092811376	No	
+row_54	TARBP2	TARBP2 subunit of RISC loading complex [Source:HGNC Symbol;Acc:HGNC:11569]	16056	0.22301872074604034	0.07281419	No	
+row_55	NME4	NME/NM23 nucleoside diphosphate kinase 4 [Source:HGNC Symbol;Acc:HGNC:7852]	16351	0.22044624388217926	0.06903323	No	
+row_56	POLD4	DNA polymerase delta 4, accessory subunit [Source:HGNC Symbol;Acc:HGNC:14106]	18660	0.19764924049377441	0.013786444	No	
+row_57	SUPT5H	SPT5 homolog, DSIF elongation factor subunit [Source:HGNC Symbol;Acc:HGNC:11469]	18721	0.1968494951725006	0.015547428	No	
+row_58	POLH	DNA polymerase eta [Source:HGNC Symbol;Acc:HGNC:9181]	19514	0.1887938529253006	-0.0013933042	No	
+row_59	POLR2F	RNA polymerase II, I and III subunit F [Source:HGNC Symbol;Acc:HGNC:9193]	20121	0.1818513125181198	-0.01373188	No	
+row_60	CLP1	cleavage factor polyribonucleotide kinase subunit 1 [Source:HGNC Symbol;Acc:HGNC:16999]	20861	0.17167913913726807	-0.02961368	No	
+row_61	AK1	adenylate kinase 1 [Source:HGNC Symbol;Acc:HGNC:361]	22108	0.15732932090759277	-0.05859498	No	
+row_62	CETN2	centrin 2 [Source:HGNC Symbol;Acc:HGNC:1867]	22109	0.15730617940425873	-0.05597155	No	
+row_63	CMPK2	cytidine/uridine monophosphate kinase 2 [Source:HGNC Symbol;Acc:HGNC:27015]	22248	0.15351882576942444	-0.056911692	No	
+row_64	ADCY6	adenylate cyclase 6 [Source:HGNC Symbol;Acc:HGNC:237]	22645	0.14804646372795105	-0.06448734	No	
+row_65	SUPT4H1	SPT4 homolog, DSIF elongation factor subunit [Source:HGNC Symbol;Acc:HGNC:11467]	22707	0.14653417468070984	-0.06359083	No	
+row_66	POLR2C	RNA polymerase II subunit C [Source:HGNC Symbol;Acc:HGNC:9189]	22992	0.14621303975582123	-0.06835614	No	
+row_67	CSTF3	cleavage stimulation factor subunit 3 [Source:HGNC Symbol;Acc:HGNC:2485]	23078	0.14419090747833252	-0.06810749	No	
+row_68	RAE1	ribonucleic acid export 1 [Source:HGNC Symbol;Acc:HGNC:9828]	24422	0.11231938004493713	-0.100299865	No	
+row_69	TMED2	transmembrane p24 trafficking protein 2 [Source:HGNC Symbol;Acc:HGNC:16996]	24744	0.10494482517242432	-0.10669193	No	
+row_70	DAD1	defender against cell death 1 [Source:HGNC Symbol;Acc:HGNC:2664]	26332	0.08218013495206833	-0.14557606	No	
+row_71	POLA2	DNA polymerase alpha 2, accessory subunit [Source:HGNC Symbol;Acc:HGNC:30073]	26339	0.08183836936950684	-0.14436342	No	
+row_72	POLR3GL	RNA polymerase III subunit GL [Source:HGNC Symbol;Acc:HGNC:28466]	27092	0.06471589207649231	-0.1623588	No	
+row_73	GTF2F1	general transcription factor IIF subunit 1 [Source:HGNC Symbol;Acc:HGNC:4652]	27173	0.06132873147726059	-0.16336523	No	
+row_74	ERCC3	ERCC excision repair 3, TFIIH core complex helicase subunit [Source:HGNC Symbol;Acc:HGNC:3435]	27244	0.05781437084078789	-0.16417663	No	
+row_75	ERCC5	ERCC excision repair 5, endonuclease [Source:HGNC Symbol;Acc:HGNC:3437]	27311	0.0554969422519207	-0.1649252	No	
+row_76	TP53	tumor protein p53 [Source:HGNC Symbol;Acc:HGNC:11998]	27786	0.03438005596399307	-0.17637497	No	
+row_77	GPX4	glutathione peroxidase 4 [Source:HGNC Symbol;Acc:HGNC:4556]	27917	0.02753516472876072	-0.17921324	No	
+row_78	NELFB	negative elongation factor complex member B [Source:HGNC Symbol;Acc:HGNC:24324]	28002	0.023350654169917107	-0.1809545	No	
+row_79	ALYREF	Aly/REF export factor [Source:HGNC Symbol;Acc:HGNC:19071]	28081	0.019197311252355576	-0.18261284	No	
+row_80	VPS28	VPS28 subunit of ESCRT-I [Source:HGNC Symbol;Acc:HGNC:18178]	28216	0.011716358363628387	-0.18581638	No	
+row_81	BOLA2	bolA family member 2 [Source:HGNC Symbol;Acc:HGNC:29488]	28695	0.0	-0.19794098	No	
+row_82	HPRT1	hypoxanthine phosphoribosyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:5157]	30914	-0.006387138739228249	-0.2540946	No	
+row_83	SAC3D1	SAC3 domain containing 1 [Source:HGNC Symbol;Acc:HGNC:30179]	30982	-0.009109999053180218	-0.25564215	No	
+row_84	TK2	thymidine kinase 2 [Source:HGNC Symbol;Acc:HGNC:11831]	31500	-0.03674149140715599	-0.26814324	No	
+row_85	SNAPC4	small nuclear RNA activating complex polypeptide 4 [Source:HGNC Symbol;Acc:HGNC:11137]	31688	-0.0473882332444191	-0.27209625	No	
+row_86	POM121	POM121 transmembrane nucleoporin [Source:HGNC Symbol;Acc:HGNC:19702]	31958	-0.06348706036806107	-0.2778607	No	
+row_87	GTF3C5	general transcription factor IIIC subunit 5 [Source:HGNC Symbol;Acc:HGNC:4668]	32136	-0.07298046350479126	-0.28113323	No	
+row_88	RPA2	replication protein A2 [Source:HGNC Symbol;Acc:HGNC:10290]	32195	-0.07687503099441528	-0.28132236	No	
+row_89	SNAPC5	small nuclear RNA activating complex polypeptide 5 [Source:HGNC Symbol;Acc:HGNC:15484]	32304	-0.08407305181026459	-0.2826597	No	
+row_90	NELFCD	negative elongation factor complex member C/D [Source:HGNC Symbol;Acc:HGNC:15934]	32329	-0.08551380783319473	-0.28184235	No	
+row_91	POLL	DNA polymerase lambda [Source:HGNC Symbol;Acc:HGNC:9184]	32658	-0.10383345186710358	-0.2884305	No	
+row_92	ARL6IP1	ADP ribosylation factor like GTPase 6 interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:697]	32769	-0.11119435727596283	-0.28936628	No	
+row_93	SEC61A1	SEC61 translocon subunit alpha 1 [Source:HGNC Symbol;Acc:HGNC:18276]	32787	-0.11253074556589127	-0.28792077	No	
+row_94	POLR1D	RNA polymerase I and III subunit D [Source:HGNC Symbol;Acc:HGNC:20422]	32803	-0.11376588046550751	-0.28640395	No	
+row_95	ERCC8	ERCC excision repair 8, CSA ubiquitin ligase complex subunit [Source:HGNC Symbol;Acc:HGNC:3439]	33102	-0.13362647593021393	-0.2917343	No	
+row_96	POLR1H	RNA polymerase I subunit H [Source:HGNC Symbol;Acc:HGNC:13182]	33186	-0.1400674730539322	-0.29150367	No	
+row_97	PCNA	proliferating cell nuclear antigen [Source:HGNC Symbol;Acc:HGNC:8729]	33361	-0.1503375619649887	-0.29341003	No	
+row_98	RPA3	replication protein A3 [Source:HGNC Symbol;Acc:HGNC:10291]	33363	-0.15038061141967773	-0.29092747	No	
+row_99	TAF1C	TATA-box binding protein associated factor, RNA polymerase I subunit C [Source:HGNC Symbol;Acc:HGNC:11534]	33500	-0.15981772541999817	-0.29171184	No	
+row_100	ITPA	inosine triphosphatase [Source:HGNC Symbol;Acc:HGNC:6176]	33736	-0.17514397203922272	-0.29475176	No	
+row_101	ERCC1	ERCC excision repair 1, endonuclease non-catalytic subunit [Source:HGNC Symbol;Acc:HGNC:3433]	34054	-0.19964565336704254	-0.299463	Yes	
+row_102	POLR2D	RNA polymerase II subunit D [Source:HGNC Symbol;Acc:HGNC:9191]	34076	-0.20063985884189606	-0.29664958	Yes	
+row_103	ELL	elongation factor for RNA polymerase II [Source:HGNC Symbol;Acc:HGNC:23114]	34253	-0.21533124148845673	-0.29752272	Yes	
+row_104	FEN1	flap structure-specific endonuclease 1 [Source:HGNC Symbol;Acc:HGNC:3650]	34282	-0.21736440062522888	-0.29460794	Yes	
+row_105	TAF12	TATA-box binding protein associated factor 12 [Source:HGNC Symbol;Acc:HGNC:11545]	34543	-0.24071232974529266	-0.2971885	Yes	
+row_106	RFC2	replication factor C subunit 2 [Source:HGNC Symbol;Acc:HGNC:9970]	34630	-0.2489190250635147	-0.29521862	Yes	
+row_107	TAF6	TATA-box binding protein associated factor 6 [Source:HGNC Symbol;Acc:HGNC:11540]	34900	-0.27338355779647827	-0.2974826	Yes	
+row_108	NPR2	natriuretic peptide receptor 2 [Source:HGNC Symbol;Acc:HGNC:7944]	34992	-0.28048935532569885	-0.29511306	Yes	
+row_109	POLD1	DNA polymerase delta 1, catalytic subunit [Source:HGNC Symbol;Acc:HGNC:9175]	35184	-0.2975558638572693	-0.29499543	Yes	
+row_110	SF3A3	splicing factor 3a subunit 3 [Source:HGNC Symbol;Acc:HGNC:10767]	35194	-0.29829615354537964	-0.29024896	Yes	
+row_111	SSRP1	structure specific recognition protein 1 [Source:HGNC Symbol;Acc:HGNC:11327]	35203	-0.2990088164806366	-0.28546527	Yes	
+row_112	DDB1	damage specific DNA binding protein 1 [Source:HGNC Symbol;Acc:HGNC:2717]	35292	-0.3069373071193695	-0.28257856	Yes	
+row_113	GMPR2	guanosine monophosphate reductase 2 [Source:HGNC Symbol;Acc:HGNC:4377]	35457	-0.3225761353969574	-0.28135878	Yes	
+row_114	RAD52	RAD52 homolog, DNA repair protein [Source:HGNC Symbol;Acc:HGNC:9824]	35539	-0.33032846450805664	-0.27790442	Yes	
+row_115	RFC4	replication factor C subunit 4 [Source:HGNC Symbol;Acc:HGNC:9972]	35648	-0.3387243449687958	-0.27499488	Yes	
+row_116	PDE4B	phosphodiesterase 4B [Source:HGNC Symbol;Acc:HGNC:8781]	35793	-0.3533937633037567	-0.27275386	Yes	
+row_117	ERCC4	ERCC excision repair 4, endonuclease catalytic subunit [Source:HGNC Symbol;Acc:HGNC:3436]	35905	-0.3639427423477173	-0.26949987	Yes	
+row_118	UPF3B	UPF3B regulator of nonsense mediated mRNA decay [Source:HGNC Symbol;Acc:HGNC:20439]	35994	-0.3734133541584015	-0.2655045	Yes	
+row_119	TYMS	thymidylate synthetase [Source:HGNC Symbol;Acc:HGNC:12441]	36017	-0.3764118552207947	-0.25978506	Yes	
+row_120	ZWINT	ZW10 interacting kinetochore protein [Source:HGNC Symbol;Acc:HGNC:13195]	36063	-0.3826562166213989	-0.25454485	Yes	
+row_121	RAD51	RAD51 recombinase [Source:HGNC Symbol;Acc:HGNC:9817]	36162	-0.3934900462627411	-0.25046834	Yes	
+row_122	AAAS	aladin WD repeat nucleoporin [Source:HGNC Symbol;Acc:HGNC:13666]	36373	-0.41913583874702454	-0.24880502	Yes	
+row_123	AGO4	argonaute RISC component 4 [Source:HGNC Symbol;Acc:HGNC:18424]	36608	-0.4500274062156677	-0.2472353	Yes	
+row_124	USP11	ubiquitin specific peptidase 11 [Source:HGNC Symbol;Acc:HGNC:12609]	36662	-0.457096666097641	-0.24095656	Yes	
+row_125	CDA	cytidine deaminase [Source:HGNC Symbol;Acc:HGNC:1712]	36960	-0.4968509376049042	-0.24020396	Yes	
+row_126	RFC3	replication factor C subunit 3 [Source:HGNC Symbol;Acc:HGNC:9971]	37036	-0.5062330961227417	-0.2336638	Yes	
+row_127	XPC	XPC complex subunit, DNA damage recognition and repair factor [Source:HGNC Symbol;Acc:HGNC:12816]	37092	-0.5137311220169067	-0.22649129	Yes	
+row_128	DCTN4	dynactin subunit 4 [Source:HGNC Symbol;Acc:HGNC:15518]	37108	-0.5162004232406616	-0.21826299	Yes	
+row_129	DGCR8	DGCR8 microprocessor complex subunit [Source:HGNC Symbol;Acc:HGNC:2847]	37291	-0.5433887839317322	-0.21381725	Yes	
+row_130	POLR3C	RNA polymerase III subunit C [Source:HGNC Symbol;Acc:HGNC:30076]	37359	-0.5554278492927551	-0.20625375	Yes	
+row_131	GTF2H3	general transcription factor IIH subunit 3 [Source:HGNC Symbol;Acc:HGNC:4657]	37360	-0.555655837059021	-0.19698696	Yes	
+row_132	DUT	deoxyuridine triphosphatase [Source:HGNC Symbol;Acc:HGNC:3078]	37816	-0.6362307667732239	-0.19791761	Yes	
+row_133	ADA	adenosine deaminase [Source:HGNC Symbol;Acc:HGNC:186]	37839	-0.6406266689300537	-0.18779178	Yes	
+row_134	LIG1	DNA ligase 1 [Source:HGNC Symbol;Acc:HGNC:6598]	37927	-0.6586693525314331	-0.17901379	Yes	
+row_135	NT5C3A	5'-nucleotidase, cytosolic IIIA [Source:HGNC Symbol;Acc:HGNC:17820]	38043	-0.6844288110733032	-0.17051645	Yes	
+row_136	PRIM1	DNA primase subunit 1 [Source:HGNC Symbol;Acc:HGNC:9369]	38051	-0.6879197955131531	-0.15922141	Yes	
+row_137	RNMT	RNA guanine-7 methyltransferase [Source:HGNC Symbol;Acc:HGNC:10075]	38068	-0.6927228569984436	-0.14807458	Yes	
+row_138	REV3L	REV3 like, DNA directed polymerase zeta catalytic subunit [Source:HGNC Symbol;Acc:HGNC:9968]	38371	-0.7644127607345581	-0.14298663	Yes	
+row_139	NFX1	nuclear transcription factor, X-box binding 1 [Source:HGNC Symbol;Acc:HGNC:7803]	38432	-0.7821412682533264	-0.1314646	Yes	
+row_140	IMPDH2	inosine monophosphate dehydrogenase 2 [Source:HGNC Symbol;Acc:HGNC:6053]	38512	-0.807551383972168	-0.120000765	Yes	
+row_141	POLR2A	RNA polymerase II subunit A [Source:HGNC Symbol;Acc:HGNC:9187]	38692	-0.875381588935852	-0.10994223	Yes	
+row_142	SMAD5	SMAD family member 5 [Source:HGNC Symbol;Acc:HGNC:6771]	38722	-0.8842313289642334	-0.095931314	Yes	
+row_143	NUDT21	nudix hydrolase 21 [Source:HGNC Symbol;Acc:HGNC:13870]	38913	-0.974528431892395	-0.0844983	Yes	
+row_144	HCLS1	hematopoietic cell-specific Lyn substrate 1 [Source:HGNC Symbol;Acc:HGNC:4844]	38921	-0.9795751571655273	-0.06833929	Yes	
+row_145	POLD3	DNA polymerase delta 3, accessory subunit [Source:HGNC Symbol;Acc:HGNC:20932]	38969	-1.0124417543411255	-0.052646756	Yes	
+row_146	SRSF6	serine and arginine rich splicing factor 6 [Source:HGNC Symbol;Acc:HGNC:10788]	39121	-1.1083396673202515	-0.037992902	Yes	
+row_147	BRF2	BRF2 RNA polymerase III transcription initiation factor subunit [Source:HGNC Symbol;Acc:HGNC:17298]	39270	-1.2919518947601318	-0.020200815	Yes	
+row_148	POLA1	DNA polymerase alpha 1, catalytic subunit [Source:HGNC Symbol;Acc:HGNC:9173]	39447	-1.669083833694458	0.003170552	Yes	

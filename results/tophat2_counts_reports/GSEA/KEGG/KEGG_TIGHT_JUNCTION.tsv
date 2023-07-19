@@ -1,0 +1,133 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	F11R	F11 receptor [Source:HGNC Symbol;Acc:HGNC:14685]	278	1.2475533485412598	0.012308861	Yes	
+row_1	PARD6B	par-6 family cell polarity regulator beta [Source:HGNC Symbol;Acc:HGNC:16245]	305	1.2165851593017578	0.030526504	Yes	
+row_2	PRKCI	protein kinase C iota [Source:HGNC Symbol;Acc:HGNC:9404]	337	1.194106936454773	0.048268598	Yes	
+row_3	PPP2R1B	protein phosphatase 2 scaffold subunit Abeta [Source:HGNC Symbol;Acc:HGNC:9303]	340	1.1932599544525146	0.066732824	Yes	
+row_4	PALS1	protein associated with LIN7 1, MAGUK p55 family member [Source:HGNC Symbol;Acc:HGNC:18669]	348	1.188307285308838	0.08499343	Yes	
+row_5	RRAS2	RAS related 2 [Source:HGNC Symbol;Acc:HGNC:17271]	362	1.1791620254516602	0.10296001	Yes	
+row_6	PPP2R2A	protein phosphatase 2 regulatory subunit Balpha [Source:HGNC Symbol;Acc:HGNC:9304]	464	1.116323709487915	0.117720395	Yes	
+row_7	PPP2CB	protein phosphatase 2 catalytic subunit beta [Source:HGNC Symbol;Acc:HGNC:9300]	701	1.0094152688980103	0.12739913	Yes	
+row_8	CLDN22	claudin 22 [Source:HGNC Symbol;Acc:HGNC:2044]	886	0.9531582593917847	0.13752338	Yes	
+row_9	CLDN1	claudin 1 [Source:HGNC Symbol;Acc:HGNC:2032]	1015	0.9155086278915405	0.1484833	Yes	
+row_10	EPB41	erythrocyte membrane protein band 4.1 [Source:HGNC Symbol;Acc:HGNC:3377]	1082	0.8945596814155579	0.16069014	Yes	
+row_11	CASK	calcium/calmodulin dependent serine protein kinase [Source:HGNC Symbol;Acc:HGNC:1497]	1250	0.85198974609375	0.16967566	Yes	
+row_12	PRKCB	protein kinase C beta [Source:HGNC Symbol;Acc:HGNC:9395]	1268	0.8462297916412354	0.18237497	Yes	
+row_13	CTTN	cortactin [Source:HGNC Symbol;Acc:HGNC:3338]	1304	0.8392776846885681	0.19451001	Yes	
+row_14	TJP2	tight junction protein 2 [Source:HGNC Symbol;Acc:HGNC:11828]	1307	0.8382292985916138	0.2074655	Yes	
+row_15	CLDN16	claudin 16 [Source:HGNC Symbol;Acc:HGNC:2037]	1344	0.8298616409301758	0.21942909	Yes	
+row_16	ACTN2	actinin alpha 2 [Source:HGNC Symbol;Acc:HGNC:164]	1578	0.7817655801773071	0.2256516	Yes	
+row_17	PPP2R2D	protein phosphatase 2 regulatory subunit Bdelta [Source:HGNC Symbol;Acc:HGNC:23732]	1613	0.774543046951294	0.23680757	Yes	
+row_18	CGN	cingulin [Source:HGNC Symbol;Acc:HGNC:17429]	1778	0.7435716986656189	0.24418692	Yes	
+row_19	PARD3	par-3 family cell polarity regulator [Source:HGNC Symbol;Acc:HGNC:16051]	1945	0.7131454348564148	0.25104347	Yes	
+row_20	MYL12B	myosin light chain 12B [Source:HGNC Symbol;Acc:HGNC:29827]	1971	0.7084742188453674	0.26140246	Yes	
+row_21	PRKCD	protein kinase C delta [Source:HGNC Symbol;Acc:HGNC:9399]	2014	0.7001973986625671	0.27120203	Yes	
+row_22	MYL12A	myosin light chain 12A [Source:HGNC Symbol;Acc:HGNC:16701]	2065	0.6935224533081055	0.2806952	Yes	
+row_23	LLGL2	LLGL scribble cell polarity complex component 2 [Source:HGNC Symbol;Acc:HGNC:6629]	2097	0.6876680850982666	0.29057926	Yes	
+row_24	PRKCQ	protein kinase C theta [Source:HGNC Symbol;Acc:HGNC:9410]	2296	0.6622483134269714	0.29583472	Yes	
+row_25	ACTB	actin beta [Source:HGNC Symbol;Acc:HGNC:132]	2297	0.6620326042175293	0.30610698	Yes	
+row_26	PPP2CA	protein phosphatase 2 catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:9299]	2354	0.6539438366889954	0.3148339	Yes	
+row_27	MAGI2	membrane associated guanylate kinase, WW and PDZ domain containing 2 [Source:HGNC Symbol;Acc:HGNC:18957]	2455	0.6408085227012634	0.32224143	Yes	
+row_28	CTNNA3	catenin alpha 3 [Source:HGNC Symbol;Acc:HGNC:2511]	2611	0.6190354824066162	0.32791662	Yes	
+row_29	AKT1	AKT serine/threonine kinase 1 [Source:HGNC Symbol;Acc:HGNC:391]	2899	0.5876438021659851	0.32975796	Yes	
+row_30	CDC42	cell division cycle 42 [Source:HGNC Symbol;Acc:HGNC:1736]	2919	0.5861716270446777	0.33837143	Yes	
+row_31	PRKCZ	protein kinase C zeta [Source:HGNC Symbol;Acc:HGNC:9412]	2954	0.5827459096908569	0.34655142	Yes	
+row_32	PRKCH	protein kinase C eta [Source:HGNC Symbol;Acc:HGNC:9403]	3068	0.5707884430885315	0.35254288	Yes	
+row_33	ACTG1	actin gamma 1 [Source:HGNC Symbol;Acc:HGNC:144]	3086	0.5692275762557983	0.36094415	Yes	
+row_34	PPP2R1A	protein phosphatase 2 scaffold subunit Aalpha [Source:HGNC Symbol;Acc:HGNC:9302]	3107	0.5668542385101318	0.3692325	Yes	
+row_35	GNAI2	G protein subunit alpha i2 [Source:HGNC Symbol;Acc:HGNC:4385]	3130	0.5646631717681885	0.3774362	Yes	
+row_36	RRAS	RAS related [Source:HGNC Symbol;Acc:HGNC:10447]	3158	0.561488151550293	0.3854638	Yes	
+row_37	AFDN	afadin, adherens junction formation factor [Source:HGNC Symbol;Acc:HGNC:7137]	3161	0.5612878203392029	0.39412218	Yes	
+row_38	MYL7	myosin light chain 7 [Source:HGNC Symbol;Acc:HGNC:21719]	3239	0.5540937185287476	0.4007674	Yes	
+row_39	HRAS	HRas proto-oncogene, GTPase [Source:HGNC Symbol;Acc:HGNC:5173]	3406	0.5391584634780884	0.40492427	Yes	
+row_40	IGSF5	immunoglobulin superfamily member 5 [Source:HGNC Symbol;Acc:HGNC:5952]	3459	0.5338796377182007	0.41188967	Yes	
+row_41	ACTN1	actinin alpha 1 [Source:HGNC Symbol;Acc:HGNC:163]	3485	0.5315011739730835	0.41950274	Yes	
+row_42	YES1	YES proto-oncogene 1, Src family tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:12841]	3673	0.5144268274307251	0.42274344	Yes	
+row_43	CLDN6	claudin 6 [Source:HGNC Symbol;Acc:HGNC:2048]	3783	0.5042305588722229	0.4278036	Yes	
+row_44	CSNK2A1	casein kinase 2 alpha 1 [Source:HGNC Symbol;Acc:HGNC:2457]	3832	0.5009517669677734	0.4343595	Yes	
+row_45	GNAI1	G protein subunit alpha i1 [Source:HGNC Symbol;Acc:HGNC:4384]	4131	0.4770759046077728	0.43420634	Yes	
+row_46	CRB3	crumbs cell polarity complex component 3 [Source:HGNC Symbol;Acc:HGNC:20237]	4241	0.46938979625701904	0.4387259	Yes	
+row_47	TJP3	tight junction protein 3 [Source:HGNC Symbol;Acc:HGNC:11829]	4455	0.4542750418186188	0.44037408	Yes	
+row_48	CSNK2B	casein kinase 2 beta [Source:HGNC Symbol;Acc:HGNC:2460]	4711	0.4366867244243622	0.44068447	Yes	
+row_49	EPB41L1	erythrocyte membrane protein band 4.1 like 1 [Source:HGNC Symbol;Acc:HGNC:3378]	4846	0.42715129256248474	0.44391477	Yes	
+row_50	PARD6G	par-6 family cell polarity regulator gamma [Source:HGNC Symbol;Acc:HGNC:16076]	4884	0.42473581433296204	0.44956696	Yes	
+row_51	CTNNA2	catenin alpha 2 [Source:HGNC Symbol;Acc:HGNC:2510]	4952	0.420401006937027	0.4543913	Yes	
+row_52	MYH9	myosin heavy chain 9 [Source:HGNC Symbol;Acc:HGNC:7579]	5369	0.3966810405254364	0.4499989	Yes	
+row_53	PPP2R2C	protein phosphatase 2 regulatory subunit Bgamma [Source:HGNC Symbol;Acc:HGNC:9306]	5416	0.39407894015312195	0.45494723	Yes	
+row_54	MYL5	myosin light chain 5 [Source:HGNC Symbol;Acc:HGNC:7586]	5600	0.38476672768592834	0.45627752	Yes	
+row_55	ACTN4	actinin alpha 4 [Source:HGNC Symbol;Acc:HGNC:166]	6046	0.36471205949783325	0.45065382	Yes	
+row_56	MYH14	myosin heavy chain 14 [Source:HGNC Symbol;Acc:HGNC:23212]	6070	0.3637911081314087	0.45571536	Yes	
+row_57	CLDN19	claudin 19 [Source:HGNC Symbol;Acc:HGNC:2040]	6148	0.3609484136104584	0.45936364	Yes	
+row_58	MYL9	myosin light chain 9 [Source:HGNC Symbol;Acc:HGNC:15754]	6165	0.36004453897476196	0.4645445	Yes	
+row_59	VAPA	VAMP associated protein A [Source:HGNC Symbol;Acc:HGNC:12648]	6173	0.3596741259098053	0.46994781	Yes	
+row_60	CLDN11	claudin 11 [Source:HGNC Symbol;Acc:HGNC:8514]	6468	0.3478213846683502	0.46789053	Yes	
+row_61	CLDN10	claudin 10 [Source:HGNC Symbol;Acc:HGNC:2033]	6571	0.3442944586277008	0.47064656	Yes	
+row_62	CLDN14	claudin 14 [Source:HGNC Symbol;Acc:HGNC:2035]	6709	0.33953580260276794	0.47244135	Yes	
+row_63	CLDN9	claudin 9 [Source:HGNC Symbol;Acc:HGNC:2051]	6738	0.3383806049823761	0.47698182	Yes	
+row_64	GNAI3	G protein subunit alpha i3 [Source:HGNC Symbol;Acc:HGNC:4387]	6786	0.33658915758132935	0.4810128	Yes	
+row_65	CLDN7	claudin 7 [Source:HGNC Symbol;Acc:HGNC:2049]	6876	0.3341054320335388	0.4839403	Yes	
+row_66	CLDN2	claudin 2 [Source:HGNC Symbol;Acc:HGNC:2041]	8151	0.30485185980796814	0.45636907	No	
+row_67	MYH6	myosin heavy chain 6 [Source:HGNC Symbol;Acc:HGNC:7576]	9287	0.2877475619316101	0.43205667	No	
+row_68	CLDN8	claudin 8 [Source:HGNC Symbol;Acc:HGNC:2050]	9587	0.28402769565582275	0.42888278	No	
+row_69	MYL2	myosin light chain 2 [Source:HGNC Symbol;Acc:HGNC:7583]	9948	0.27963563799858093	0.4240941	No	
+row_70	CLDN17	claudin 17 [Source:HGNC Symbol;Acc:HGNC:2038]	10609	0.2721891701221466	0.41158363	No	
+row_71	OCLN	occludin [Source:HGNC Symbol;Acc:HGNC:8104]	10704	0.27129966020584106	0.41340986	No	
+row_72	CLDN3	claudin 3 [Source:HGNC Symbol;Acc:HGNC:2045]	10875	0.2697167992591858	0.41328463	No	
+row_73	SPTAN1	spectrin alpha, non-erythrocytic 1 [Source:HGNC Symbol;Acc:HGNC:11273]	12355	0.25541770458221436	0.3797487	No	
+row_74	PRKCG	protein kinase C gamma [Source:HGNC Symbol;Acc:HGNC:9402]	12377	0.25529810786247253	0.38317755	No	
+row_75	PPP2R2B	protein phosphatase 2 regulatory subunit Bbeta [Source:HGNC Symbol;Acc:HGNC:9305]	13437	0.24574412405490875	0.36014032	No	
+row_76	MYH7	myosin heavy chain 7 [Source:HGNC Symbol;Acc:HGNC:7577]	13511	0.24496595561504364	0.36209044	No	
+row_77	MYH7B	myosin heavy chain 7B [Source:HGNC Symbol;Acc:HGNC:15906]	14034	0.24022646248340607	0.35258287	No	
+row_78	MYH4	myosin heavy chain 4 [Source:HGNC Symbol;Acc:HGNC:7574]	16632	0.21803097426891327	0.29012072	No	
+row_79	PARD6A	par-6 family cell polarity regulator alpha [Source:HGNC Symbol;Acc:HGNC:15943]	18713	0.19691263139247894	0.24043907	No	
+row_80	CDK4	cyclin dependent kinase 4 [Source:HGNC Symbol;Acc:HGNC:1773]	20427	0.1769155114889145	0.19975217	No	
+row_81	CSNK2A2	casein kinase 2 alpha 2 [Source:HGNC Symbol;Acc:HGNC:2459]	21286	0.16773276031017303	0.18060075	No	
+row_82	CLDN20	claudin 20 [Source:HGNC Symbol;Acc:HGNC:2042]	21889	0.1604173481464386	0.16782652	No	
+row_83	MYL11	myosin light chain 11 [Source:HGNC Symbol;Acc:HGNC:29824]	22369	0.14999330043792725	0.15800913	No	
+row_84	MYH13	myosin heavy chain 13 [Source:HGNC Symbol;Acc:HGNC:7571]	23354	0.13545268774032593	0.13516219	No	
+row_85	CTNNA1	catenin alpha 1 [Source:HGNC Symbol;Acc:HGNC:2509]	23377	0.13460861146450043	0.13669302	No	
+row_86	PRKCE	protein kinase C epsilon [Source:HGNC Symbol;Acc:HGNC:9401]	24312	0.11547815054655075	0.114803866	No	
+row_87	CLDN5	claudin 5 [Source:HGNC Symbol;Acc:HGNC:2047]	24469	0.110488660633564	0.11256296	No	
+row_88	PATJ	PATJ crumbs cell polarity complex component [Source:HGNC Symbol;Acc:HGNC:28881]	24967	0.10035885125398636	0.101519056	No	
+row_89	PRKCA	protein kinase C alpha [Source:HGNC Symbol;Acc:HGNC:9393]	25914	0.09442858397960663	0.07899904	No	
+row_90	TJP1	tight junction protein 1 [Source:HGNC Symbol;Acc:HGNC:11827]	26060	0.09069356322288513	0.076729886	No	
+row_91	CLDN4	claudin 4 [Source:HGNC Symbol;Acc:HGNC:2046]	27319	0.055035192519426346	0.045688085	No	
+row_92	MYL10	myosin light chain 10 [Source:HGNC Symbol;Acc:HGNC:29825]	27812	0.033090535551309586	0.033727195	No	
+row_93	ACTN3	actinin alpha 3 [Source:HGNC Symbol;Acc:HGNC:165]	27859	0.030740249902009964	0.03303787	No	
+row_94	RHOA	ras homolog family member A [Source:HGNC Symbol;Acc:HGNC:667]	28235	0.011064393445849419	0.023701677	No	
+row_95	CLDN15	claudin 15 [Source:HGNC Symbol;Acc:HGNC:2036]	31915	-0.061130180954933167	-0.068628386	No	
+row_96	JAM3	junctional adhesion molecule 3 [Source:HGNC Symbol;Acc:HGNC:15532]	33067	-0.13145646452903748	-0.0957715	No	
+row_97	MAGI1	membrane associated guanylate kinase, WW and PDZ domain containing 1 [Source:HGNC Symbol;Acc:HGNC:946]	33383	-0.15174388885498047	-0.10140362	No	
+row_98	MPDZ	multiple PDZ domain crumbs cell polarity complex component [Source:HGNC Symbol;Acc:HGNC:7208]	33410	-0.1540209800004959	-0.099672996	No	
+row_99	TJAP1	tight junction associated protein 1 [Source:HGNC Symbol;Acc:HGNC:17949]	33555	-0.16307298839092255	-0.10079374	No	
+row_100	CTNNB1	catenin beta 1 [Source:HGNC Symbol;Acc:HGNC:2514]	33729	-0.1745607703924179	-0.10247151	No	
+row_101	EXOC4	exocyst complex component 4 [Source:HGNC Symbol;Acc:HGNC:30389]	33906	-0.18649505078792572	-0.10404016	No	
+row_102	SRC	SRC proto-oncogene, non-receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:11283]	33908	-0.1865343302488327	-0.1011712	No	
+row_103	ASH1L	ASH1 like histone lysine methyltransferase [Source:HGNC Symbol;Acc:HGNC:19088]	34332	-0.22163639962673187	-0.10845711	No	
+row_104	MYH10	myosin heavy chain 10 [Source:HGNC Symbol;Acc:HGNC:7568]	34369	-0.22426408529281616	-0.105890125	No	
+row_105	NRAS	NRAS proto-oncogene, GTPase [Source:HGNC Symbol;Acc:HGNC:7989]	34536	-0.24037180840969086	-0.10636927	No	
+row_106	AKT2	AKT serine/threonine kinase 2 [Source:HGNC Symbol;Acc:HGNC:392]	34594	-0.24473387002944946	-0.104017116	No	
+row_107	EXOC3	exocyst complex component 3 [Source:HGNC Symbol;Acc:HGNC:30378]	34659	-0.2513144612312317	-0.10174033	No	
+row_108	MYH8	myosin heavy chain 8 [Source:HGNC Symbol;Acc:HGNC:7578]	34994	-0.2806335985660553	-0.105854295	No	
+row_109	KRAS	KRAS proto-oncogene, GTPase [Source:HGNC Symbol;Acc:HGNC:6407]	35083	-0.28859543800354004	-0.10360755	No	
+row_110	LLGL1	LLGL scribble cell polarity complex component 1 [Source:HGNC Symbol;Acc:HGNC:6628]	35138	-0.29383617639541626	-0.10041744	No	
+row_111	CLDN23	claudin 23 [Source:HGNC Symbol;Acc:HGNC:17591]	35517	-0.32835423946380615	-0.10490655	No	
+row_112	MYH15	myosin heavy chain 15 [Source:HGNC Symbol;Acc:HGNC:31073]	35669	-0.3408864736557007	-0.10344577	No	
+row_113	SYMPK	symplekin scaffold protein [Source:HGNC Symbol;Acc:HGNC:22935]	35956	-0.3702222406864166	-0.10495264	No	
+row_114	YBX3	Y-box binding protein 3 [Source:HGNC Symbol;Acc:HGNC:2428]	36502	-0.43717092275619507	-0.111987494	No	
+row_115	RAB3B	RAB3B, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9778]	36548	-0.44235551357269287	-0.10626473	No	
+row_116	RAB13	RAB13, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9762]	36554	-0.44267866015434265	-0.099522784	No	
+row_117	MAGI3	membrane associated guanylate kinase, WW and PDZ domain containing 3 [Source:HGNC Symbol;Acc:HGNC:29647]	36689	-0.4593650996685028	-0.09579264	No	
+row_118	MRAS	muscle RAS oncogene homolog [Source:HGNC Symbol;Acc:HGNC:7227]	36694	-0.4600568413734436	-0.08875569	No	
+row_119	EPB41L2	erythrocyte membrane protein band 4.1 like 2 [Source:HGNC Symbol;Acc:HGNC:3379]	36834	-0.4788770079612732	-0.08484956	No	
+row_120	AMOTL1	angiomotin like 1 [Source:HGNC Symbol;Acc:HGNC:17811]	36848	-0.480916827917099	-0.07771713	No	
+row_121	JAM2	junctional adhesion molecule 2 [Source:HGNC Symbol;Acc:HGNC:14686]	36972	-0.498004287481308	-0.073108554	No	
+row_122	MYH1	myosin heavy chain 1 [Source:HGNC Symbol;Acc:HGNC:7567]	37293	-0.5436122417449951	-0.072787106	No	
+row_123	MYH3	myosin heavy chain 3 [Source:HGNC Symbol;Acc:HGNC:7573]	37363	-0.5559011697769165	-0.06591105	No	
+row_124	MYH2	myosin heavy chain 2 [Source:HGNC Symbol;Acc:HGNC:7572]	37390	-0.5599137544631958	-0.057882488	No	
+row_125	AKT3	AKT serine/threonine kinase 3 [Source:HGNC Symbol;Acc:HGNC:393]	37504	-0.5764695405960083	-0.051802874	No	
+row_126	PTEN	phosphatase and tensin homolog [Source:HGNC Symbol;Acc:HGNC:9588]	37704	-0.613659679889679	-0.04732668	No	
+row_127	MAP3K20	mitogen-activated protein kinase kinase kinase 20 [Source:HGNC Symbol;Acc:HGNC:17797]	38217	-0.7281174659729004	-0.049010437	No	
+row_128	MYH11	myosin heavy chain 11 [Source:HGNC Symbol;Acc:HGNC:7569]	38287	-0.7457059025764465	-0.039189316	No	
+row_129	CLDN18	claudin 18 [Source:HGNC Symbol;Acc:HGNC:2039]	38828	-0.9320440292358398	-0.03841881	No	
+row_130	HCLS1	hematopoietic cell-specific Lyn substrate 1 [Source:HGNC Symbol;Acc:HGNC:4844]	38921	-0.9795751571655273	-0.025552064	No	
+row_131	EPB41L3	erythrocyte membrane protein band 4.1 like 3 [Source:HGNC Symbol;Acc:HGNC:3380]	39554	-2.7089128494262695	4.5620487E-4	No	

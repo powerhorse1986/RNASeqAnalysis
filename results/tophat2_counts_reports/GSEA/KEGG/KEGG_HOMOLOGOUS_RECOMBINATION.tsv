@@ -1,0 +1,29 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SSBP1	single stranded DNA binding protein 1 [Source:HGNC Symbol;Acc:HGNC:11317]	5620	0.3835379183292389	-0.10917637	No	
+row_1	RAD51C	RAD51 paralog C [Source:HGNC Symbol;Acc:HGNC:9820]	5723	0.3795677125453949	-0.07915648	No	
+row_2	RAD51B	RAD51 paralog B [Source:HGNC Symbol;Acc:HGNC:9822]	6687	0.3403726816177368	-0.07427553	No	
+row_3	MUS81	MUS81 structure-specific endonuclease subunit [Source:HGNC Symbol;Acc:HGNC:29814]	11591	0.26251813769340515	-0.17571446	No	
+row_4	RPA4	replication protein A4 [Source:HGNC Symbol;Acc:HGNC:30305]	13561	0.2444077432155609	-0.20451485	No	
+row_5	SEM1	SEM1 26S proteasome subunit [Source:HGNC Symbol;Acc:HGNC:10845]	13947	0.24097250401973724	-0.19355462	No	
+row_6	POLD4	DNA polymerase delta 4, accessory subunit [Source:HGNC Symbol;Acc:HGNC:14106]	18660	0.19764924049377441	-0.29573488	No	
+row_7	TOP3B	DNA topoisomerase III beta [Source:HGNC Symbol;Acc:HGNC:11993]	21625	0.1655026376247406	-0.35647327	No	
+row_8	XRCC3	X-ray repair cross complementing 3 [Source:HGNC Symbol;Acc:HGNC:12830]	24920	0.102680504322052	-0.43095204	No	
+row_9	EME1	essential meiotic structure-specific endonuclease 1 [Source:HGNC Symbol;Acc:HGNC:24965]	27295	0.05608736723661423	-0.48616785	No	
+row_10	RPA2	replication protein A2 [Source:HGNC Symbol;Acc:HGNC:10290]	32195	-0.07687503099441528	-0.6034496	No	
+row_11	RPA3	replication protein A3 [Source:HGNC Symbol;Acc:HGNC:10291]	33363	-0.15038061141967773	-0.6200448	Yes	
+row_12	RAD50	RAD50 double strand break repair protein [Source:HGNC Symbol;Acc:HGNC:9816]	33550	-0.1627873331308365	-0.6107673	Yes	
+row_13	NBN	nibrin [Source:HGNC Symbol;Acc:HGNC:7652]	34084	-0.20124563574790955	-0.6069616	Yes	
+row_14	POLD1	DNA polymerase delta 1, catalytic subunit [Source:HGNC Symbol;Acc:HGNC:9175]	35184	-0.2975558638572693	-0.60919714	Yes	
+row_15	RAD54B	RAD54 homolog B [Source:HGNC Symbol;Acc:HGNC:17228]	35189	-0.29786187410354614	-0.58371633	Yes	
+row_16	RAD52	RAD52 homolog, DNA repair protein [Source:HGNC Symbol;Acc:HGNC:9824]	35539	-0.33032846450805664	-0.56417143	Yes	
+row_17	RAD51	RAD51 recombinase [Source:HGNC Symbol;Acc:HGNC:9817]	36162	-0.3934900462627411	-0.5461054	Yes	
+row_18	POLD2	DNA polymerase delta 2, accessory subunit [Source:HGNC Symbol;Acc:HGNC:9176]	36775	-0.4700954258441925	-0.5212072	Yes	
+row_19	RAD54L	RAD54 like [Source:HGNC Symbol;Acc:HGNC:9826]	36905	-0.4885469973087311	-0.48251042	Yes	
+row_20	BLM	BLM RecQ like helicase [Source:HGNC Symbol;Acc:HGNC:1058]	36999	-0.5016741156578064	-0.4417758	Yes	
+row_21	RPA1	replication protein A1 [Source:HGNC Symbol;Acc:HGNC:10289]	37196	-0.5293871164321899	-0.4012657	Yes	
+row_22	RAD51D	RAD51 paralog D [Source:HGNC Symbol;Acc:HGNC:9823]	37393	-0.5603994131088257	-0.3580921	Yes	
+row_23	XRCC2	X-ray repair cross complementing 2 [Source:HGNC Symbol;Acc:HGNC:12829]	38565	-0.8246587514877319	-0.316878	Yes	
+row_24	BRCA2	BRCA2 DNA repair associated [Source:HGNC Symbol;Acc:HGNC:1101]	38660	-0.8627665042877197	-0.24515621	Yes	
+row_25	TOP3A	DNA topoisomerase III alpha [Source:HGNC Symbol;Acc:HGNC:11992]	38781	-0.9117098450660706	-0.16988839	Yes	
+row_26	POLD3	DNA polymerase delta 3, accessory subunit [Source:HGNC Symbol;Acc:HGNC:20932]	38969	-1.0124417543411255	-0.08766348	Yes	
+row_27	MRE11	MRE11 homolog, double strand break repair nuclease [Source:HGNC Symbol;Acc:HGNC:7230]	39190	-1.1979554891586304	0.009659818	Yes	

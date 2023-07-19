@@ -1,0 +1,42 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MARS2	methionyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:25133]	1648	0.7687475681304932	0.011020439	No	
+row_1	YARS2	tyrosyl-tRNA synthetase 2 [Source:HGNC Symbol;Acc:HGNC:24249]	1687	0.7598984837532043	0.062160652	No	
+row_2	FARSA	phenylalanyl-tRNA synthetase subunit alpha [Source:HGNC Symbol;Acc:HGNC:3592]	1773	0.7445964813232422	0.111062795	No	
+row_3	CARS2	cysteinyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:25695]	2618	0.6186808943748474	0.13213205	No	
+row_4	PSTK	phosphoseryl-tRNA kinase [Source:HGNC Symbol;Acc:HGNC:28578]	3221	0.5552974939346313	0.15497714	No	
+row_5	HARS1	histidyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:4816]	3374	0.5416012406349182	0.18826635	No	
+row_6	AARS2	alanyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:21022]	3863	0.49832406640052795	0.21008886	No	
+row_7	KARS1	lysyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:6215]	5626	0.3833247423171997	0.19179954	No	
+row_8	VARS1	valyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:12651]	9809	0.2813088297843933	0.1052994	No	
+row_9	NARS2	asparaginyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:26274]	12941	0.25046563148498535	0.043270588	No	
+row_10	TARS2	threonyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:30740]	18096	0.20310112833976746	-0.07317944	No	
+row_11	RARS1	arginyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:9870]	19304	0.1903274655342102	-0.090662114	No	
+row_12	FARS2	phenylalanyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:21062]	20685	0.1744343638420105	-0.11361068	No	
+row_13	RARS2	arginyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:21406]	23274	0.13783742487430573	-0.16962598	No	
+row_14	YARS1	tyrosyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:12840]	24840	0.10420774668455124	-0.2020693	No	
+row_15	NARS1	asparaginyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:7643]	25917	0.0943896546959877	-0.22281605	No	
+row_16	FARSB	phenylalanyl-tRNA synthetase subunit beta [Source:HGNC Symbol;Acc:HGNC:17800]	30799	-5.404704716056585E-4	-0.3462486	No	
+row_17	VARS2	valyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:21642]	31034	-0.01160310860723257	-0.3513723	No	
+row_18	MARS1	methionyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:6898]	31122	-0.01648412086069584	-0.35244283	No	
+row_19	WARS1	tryptophanyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:12729]	31199	-0.020786335691809654	-0.35294014	No	
+row_20	LARS2	leucyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:17095]	31334	-0.027991341426968575	-0.3544106	No	
+row_21	TARS3	threonyl-tRNA synthetase 3 [Source:HGNC Symbol;Acc:HGNC:24728]	31462	-0.034923404455184937	-0.35522872	No	
+row_22	IARS2	isoleucyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:29685]	31603	-0.04299859702587128	-0.355822	No	
+row_23	CARS1	cysteinyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:1493]	32251	-0.07996642589569092	-0.3667057	No	
+row_24	SARS2	seryl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:17697]	32555	-0.09757343679666519	-0.36768037	No	
+row_25	IARS1	isoleucyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:5330]	33005	-0.12672120332717896	-0.3703498	Yes	
+row_26	PARS2	prolyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:30563]	33327	-0.14804869890213013	-0.36831903	Yes	
+row_27	SARS1	seryl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:10537]	33355	-0.15007475018501282	-0.35871235	Yes	
+row_28	GARS1	glycyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:4162]	33519	-0.160982146859169	-0.35179806	Yes	
+row_29	DARS2	aspartyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:25538]	33628	-0.16746819019317627	-0.34304777	Yes	
+row_30	MTFMT	mitochondrial methionyl-tRNA formyltransferase [Source:HGNC Symbol;Acc:HGNC:29666]	33987	-0.19384247064590454	-0.33881316	Yes	
+row_31	HARS2	histidyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:4817]	35897	-0.3632175326347351	-0.3621996	Yes	
+row_32	TARS1	threonyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:11572]	36344	-0.4160720705986023	-0.34495416	Yes	
+row_33	LARS1	leucyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:6512]	36998	-0.501538872718811	-0.32708508	Yes	
+row_34	EPRS1	glutamyl-prolyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:3418]	37713	-0.6157835721969604	-0.30292597	Yes	
+row_35	DARS1	aspartyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:2678]	38267	-0.7399489879608154	-0.266181	Yes	
+row_36	WARS2	tryptophanyl tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:12730]	38296	-0.7475262880325317	-0.21563612	Yes	
+row_37	EARS2	glutamyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:29419]	38416	-0.7778962850570679	-0.16531087	Yes	
+row_38	SEPSECS	Sep (O-phosphoserine) tRNA:Sec (selenocysteine) tRNA synthase [Source:HGNC Symbol;Acc:HGNC:30605]	38499	-0.8026177883148193	-0.112354696	Yes	
+row_39	AARS1	alanyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:20]	38941	-0.9913837909698486	-0.055537265	Yes	
+row_40	QARS1	glutaminyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:9751]	39028	-1.0424420833587646	0.013760977	Yes	

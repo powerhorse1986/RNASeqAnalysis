@@ -1,0 +1,45 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	OGDH	oxoglutarate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:8124]	850	0.9630684852600098	0.03576263	No	
+row_1	PLOD2	procollagen-lysine,2-oxoglutarate 5-dioxygenase 2 [Source:HGNC Symbol;Acc:HGNC:9082]	1281	0.8442029356956482	0.07508241	No	
+row_2	ALDH3A2	aldehyde dehydrogenase 3 family member A2 [Source:HGNC Symbol;Acc:HGNC:403]	3477	0.5322064757347107	0.051199533	No	
+row_3	ECHS1	enoyl-CoA hydratase, short chain 1 [Source:HGNC Symbol;Acc:HGNC:3151]	3852	0.49913036823272705	0.07141734	No	
+row_4	AASDHPPT	aminoadipate-semialdehyde dehydrogenase-phosphopantetheinyl transferase [Source:HGNC Symbol;Acc:HGNC:14235]	4529	0.44955959916114807	0.08104761	No	
+row_5	ACAT2	acetyl-CoA acetyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:94]	5673	0.3818071782588959	0.07483509	No	
+row_6	ALDH1B1	aldehyde dehydrogenase 1 family member B1 [Source:HGNC Symbol;Acc:HGNC:407]	6424	0.34965258836746216	0.07665267	No	
+row_7	PIPOX	pipecolic acid and sarcosine oxidase [Source:HGNC Symbol;Acc:HGNC:17804]	9099	0.29012271761894226	0.026257364	No	
+row_8	OGDHL	oxoglutarate dehydrogenase L [Source:HGNC Symbol;Acc:HGNC:25590]	9724	0.28231751918792725	0.027258607	No	
+row_9	PLOD1	procollagen-lysine,2-oxoglutarate 5-dioxygenase 1 [Source:HGNC Symbol;Acc:HGNC:9081]	15846	0.22480711340904236	-0.11422229	No	
+row_10	ALDH2	aldehyde dehydrogenase 2 family member [Source:HGNC Symbol;Acc:HGNC:404]	16064	0.22290195524692535	-0.10645776	No	
+row_11	EHMT2	euchromatic histone lysine methyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:14129]	22204	0.15440133213996887	-0.25258046	No	
+row_12	KMT5A	lysine methyltransferase 5A [Source:HGNC Symbol;Acc:HGNC:29489]	23940	0.12722767889499664	-0.2889071	No	
+row_13	GCDH	glutaryl-CoA dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4189]	24156	0.1210508942604065	-0.28714824	No	
+row_14	TMLHE	trimethyllysine hydroxylase, epsilon [Source:HGNC Symbol;Acc:HGNC:18308]	24737	0.10506711155176163	-0.29557353	No	
+row_15	ACAT1	acetyl-CoA acetyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:93]	27326	0.05461892485618591	-0.3577967	No	
+row_16	PLOD3	procollagen-lysine,2-oxoglutarate 5-dioxygenase 3 [Source:HGNC Symbol;Acc:HGNC:9083]	30835	-0.0026145598385483027	-0.44638622	No	
+row_17	EHMT1	euchromatic histone lysine methyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:24650]	31412	-0.03221846744418144	-0.459042	No	
+row_18	SETD1A	SET domain containing 1A, histone lysine methyltransferase [Source:HGNC Symbol;Acc:HGNC:29010]	31660	-0.045971620827913284	-0.46255705	No	
+row_19	ALDH9A1	aldehyde dehydrogenase 9 family member A1 [Source:HGNC Symbol;Acc:HGNC:412]	31778	-0.05252370610833168	-0.46239373	No	
+row_20	NSD1	nuclear receptor binding SET domain protein 1 [Source:HGNC Symbol;Acc:HGNC:14234]	32235	-0.07902976870536804	-0.46923032	No	
+row_21	SETD2	SET domain containing 2, histone lysine methyltransferase [Source:HGNC Symbol;Acc:HGNC:18420]	32328	-0.0855080857872963	-0.46647325	No	
+row_22	KMT5C	lysine methyltransferase 5C [Source:HGNC Symbol;Acc:HGNC:28405]	32590	-0.09916018694639206	-0.46717975	No	
+row_23	NSD3	nuclear receptor binding SET domain protein 3 [Source:HGNC Symbol;Acc:HGNC:12767]	33108	-0.13421659171581268	-0.472278	No	
+row_24	ASH1L	ASH1 like histone lysine methyltransferase [Source:HGNC Symbol;Acc:HGNC:19088]	34332	-0.22163639962673187	-0.4900384	Yes	
+row_25	SETDB2	SET domain bifurcated histone lysine methyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:20263]	34355	-0.223190575838089	-0.47732362	Yes	
+row_26	SETD7	SET domain containing 7, histone lysine methyltransferase [Source:HGNC Symbol;Acc:HGNC:30412]	34505	-0.2376464605331421	-0.4669621	Yes	
+row_27	HADHA	hydroxyacyl-CoA dehydrogenase trifunctional multienzyme complex subunit alpha [Source:HGNC Symbol;Acc:HGNC:4801]	34831	-0.2675982117652893	-0.45927203	Yes	
+row_28	BBOX1	gamma-butyrobetaine hydroxylase 1 [Source:HGNC Symbol;Acc:HGNC:964]	35001	-0.28139880299568176	-0.4468149	Yes	
+row_29	SETMAR	SET domain and mariner transposase fusion gene [Source:HGNC Symbol;Acc:HGNC:10762]	35095	-0.2904870808124542	-0.4318947	Yes	
+row_30	SUV39H1	SUV39H1 histone lysine methyltransferase [Source:HGNC Symbol;Acc:HGNC:11479]	35152	-0.29513585567474365	-0.41576207	Yes	
+row_31	AASS	aminoadipate-semialdehyde synthase [Source:HGNC Symbol;Acc:HGNC:17366]	35222	-0.3007410168647766	-0.399625	Yes	
+row_32	EHHADH	enoyl-CoA hydratase and 3-hydroxyacyl CoA dehydrogenase [Source:HGNC Symbol;Acc:HGNC:3247]	36119	-0.3889167010784149	-0.3991662	Yes	
+row_33	AASDH	aminoadipate-semialdehyde dehydrogenase [Source:HGNC Symbol;Acc:HGNC:23993]	36157	-0.39303386211395264	-0.3767317	Yes	
+row_34	KMT5B	lysine methyltransferase 5B [Source:HGNC Symbol;Acc:HGNC:24283]	36330	-0.41394007205963135	-0.35646927	Yes	
+row_35	SUV39H2	SUV39H2 histone lysine methyltransferase [Source:HGNC Symbol;Acc:HGNC:17287]	36599	-0.44799405336380005	-0.33661056	Yes	
+row_36	SETDB1	SET domain bifurcated histone lysine methyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:10761]	36625	-0.4518287181854248	-0.31037644	Yes	
+row_37	DLST	dihydrolipoamide S-succinyltransferase [Source:HGNC Symbol;Acc:HGNC:2911]	36849	-0.4811801314353943	-0.28740603	Yes	
+row_38	DOT1L	DOT1 like histone lysine methyltransferase [Source:HGNC Symbol;Acc:HGNC:24948]	37879	-0.6486438512802124	-0.27486798	Yes	
+row_39	NSD2	nuclear receptor binding SET domain protein 2 [Source:HGNC Symbol;Acc:HGNC:12766]	38127	-0.7060235142707825	-0.23913509	Yes	
+row_40	SETD1B	SET domain containing 1B, histone lysine methyltransferase [Source:HGNC Symbol;Acc:HGNC:29187]	38759	-0.9003244638442993	-0.20156309	Yes	
+row_41	HADH	hydroxyacyl-CoA dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4799]	38962	-1.0066471099853516	-0.14681618	Yes	
+row_42	AADAT	aminoadipate aminotransferase [Source:HGNC Symbol;Acc:HGNC:17929]	39290	-1.3158010244369507	-0.076848626	Yes	
+row_43	ALDH7A1	aldehyde dehydrogenase 7 family member A1 [Source:HGNC Symbol;Acc:HGNC:877]	39347	-1.4119524955749512	0.0056919935	Yes	
